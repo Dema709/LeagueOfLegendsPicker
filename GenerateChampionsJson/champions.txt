@@ -1,0 +1,628 @@
+Yone OriginalSquare.png
+Ёнэ
+Незабытый
+Slayer icon.png Убийца	06-08-2020	V11.10	6300	975
+Azir OriginalSquare.png
+Азир
+Император песков
+Уникум icon.png Уникум	16-09-2014	V11.11	6300	975
+Akali OriginalSquare.png
+Акали
+Вольная убийца
+Slayer icon.png Убийца	11-05-2010	V11.14	3150	790
+Akshan OriginalSquare.png
+Акшан
+Своевольный Страж
+Стрелок icon.png Стрелок	22-07-2021	V11.16	6300	975
+Alistar OriginalSquare.png
+Алистар
+Минотавр
+Tank icon.png Штурмовик	21-02-2009	V11.11	1350	585
+Amumu OriginalSquare.png
+Амуму
+Грустная мумия
+Tank icon.png Штурмовик	26-06-2009	V11.7	450	260
+Anivia OriginalSquare.png
+Анивия
+Криофеникс
+Маг icon.png Боевой маг	10-07-2009	V11.8	3150	790
+Ahri OriginalSquare.png
+Ари
+Девятихвостая лиса
+Маг icon.png Маг-подрывник	14-12-2011	V11.11	4800	880
+Aatrox OriginalSquare.png
+Атрокс
+Клинок даркинов
+Воин icon.png Джаггернаут	13-06-2013	V11.2	4800	880
+Aurelion Sol OriginalSquare.png
+Аурелион Сол
+Создатель звезд
+Маг icon.png Боевой маг	24-03-2016	V11.15	6300	975
+Aphelios OriginalSquare.png
+Афелий
+Оружие веры
+Стрелок icon.png Стрелок	14-12-2019	V11.18	6300	975
+Bard OriginalSquare.png
+Бард
+Странствующий хранитель
+Манипулятор icon.png Ловец	12-03-2015	V11.10	4800	880
+Blitzcrank OriginalSquare.png
+Блицкранк
+Великий паровой голем
+Манипулятор icon.png Ловец	02-09-2009	V11.15	3150	790
+Braum OriginalSquare.png
+Браум
+Сердце Фрельйорда
+Танк icon.png Хранитель	12-05-2014	V11.7	4800	880
+Brand OriginalSquare.png
+Брэнд
+Пылающее возмездие
+Маг icon.png Маг-подрывник	12-04-2011	V11.7	4800	880
+Vi OriginalSquare.png
+Вай
+Пилтоверский миротворец
+Воин icon.png Ныряльщик	19-12-2012	V11.1	4800	880
+Warwick OriginalSquare.png
+Варвик
+Освобожденный гнев Зауна
+Воин icon.png Ныряльщик	21-02-2009	V11.16	450	260
+Varus OriginalSquare.png
+Варус
+Стрела возмездия
+Стрелок icon.png Стрелок	08-05-2012	V11.12	4800	880
+Veigar OriginalSquare.png
+Вейгар
+Маленький повелитель зла
+Маг icon.png Маг-подрывник	24-07-2009	V11.10	1350	585
+Vayne OriginalSquare.png
+Вейн
+Ночной охотник
+Стрелок icon.png Стрелок	10-05-2011	V10.20	4800	880
+Vex OriginalSquare.png
+Векс
+Мрачнистка
+Маг icon.png Маг-подрывник	23-09-2021	V11.19	6300	975
+Vel'Koz OriginalSquare.png
+Вел'Коз
+Око Бездны
+Маг icon.png Маг-артиллерист	27-02-2014	V11.1	4800	880
+Viego OriginalSquare.png
+Виего
+Падший король
+Истребитель icon.png Дуэлянт	22-01-2021	V11.15	6300	975
+Viktor OriginalSquare.png
+Виктор
+Механический вестник
+Маг icon.png Боевой маг	29-12-2011	V11.9	4800	880
+Vladimir OriginalSquare.png
+Владимир
+Алый жнец
+Маг icon.png Боевой маг	27-07-2010	V11.16	3150	790
+Volibear OriginalSquare.png
+Волибир
+Неутихающая Буря
+Воин icon.png Джаггернаут	29-11-2011	V11.6	3150	790
+Wukong OriginalSquare.png
+Вуконг
+Король обезьян
+Воин icon.png Ныряльщик	26-07-2011	V11.15	4800	880
+Galio OriginalSquare.png
+Галио
+Колосс
+Танк icon.png Хранитель	10-08-2010	V11.14	3150	790
+Gangplank OriginalSquare.png
+Гангпланк
+Гроза морей
+Уникум icon.png Уникум	19-08-2009	V11.7	3150	790
+Garen OriginalSquare.png
+Гарен
+Мощь Демасии
+Воин icon.png Джаггернаут	27-04-2010	V11.14	450	260
+Gwen OriginalSquare.png
+Гвен
+Благая швея
+Истребитель icon.png Дуэлянт	15-04-2021	V11.15	6300	975
+Hecarim OriginalSquare.png
+Гекарим
+Тень войны
+Воин icon.png Ныряльщик	18-04-2012	V11.12	4800	880
+Gnar OriginalSquare.png
+Гнар
+Недостающее звено
+Уникум icon.png Уникум	14-08-2014	V11.13	4800	880
+Gragas OriginalSquare.png
+Грагас
+Дебошир
+Tank icon.png Штурмовик	02-02-2010	V11.12	3150	790
+Graves OriginalSquare.png
+Грейвз
+Беззаконник
+Уникум icon.png Уникум	19-10-2011	V11.14	4800	880
+Darius OriginalSquare.png
+Дариус
+Рука Ноксуса
+Воин icon.png Джаггернаут	23-05-2012	V11.14	4800	880
+Jax OriginalSquare.png
+Джакс
+Великий мастер оружия
+Истребитель icon.png Дуэлянт	21-02-2009	V11.5	1350	585
+Jarvan IV OriginalSquare.png
+Джарван IV
+Воплощение Демасии
+Воин icon.png Ныряльщик	01-03-2011	V11.16	4800	880
+Jayce OriginalSquare.png
+Джейс
+Защитник завтрашнего дня
+Маг icon.png Маг-артиллерист	07-07-2012	V11.9	4800	880
+Jhin OriginalSquare.png
+Джин
+Виртуоз
+Стрелок icon.png Стрелок	01-02-2016	V11.16	6300	975
+Jinx OriginalSquare.png
+Джинкс
+Сорванная башня
+Стрелок icon.png Стрелок	10-10-2013	V11.13	4800	880
+Diana OriginalSquare.png
+Диана
+Превосходство луны
+Slayer icon.png Убийца	07-08-2012	V11.16	4800	880
+Dr. Mundo OriginalSquare.png
+Доктор Мундо
+Сумасшедший из Зауна
+Воин icon.png Джаггернаут	02-09-2009	V11.14	450	260
+Draven OriginalSquare.png
+Дрейвен
+Блистательный палач
+Стрелок icon.png Стрелок	06-06-2012	V11.12	4800	880
+Janna OriginalSquare.png
+Жанна
+Ярость бури
+Манипулятор icon.png Чародей	02-09-2009	V10.11	1350	585
+Zyra OriginalSquare.png
+Зайра
+Повелительница терний
+Манипулятор icon.png Ловец	24-07-2012	V11.10	4800	880
+Zac OriginalSquare.png
+Зак
+Секретное оружие
+Tank icon.png Штурмовик	29-03-2013	V11.8	4800	880
+Zed OriginalSquare.png
+Зед
+Мастер теней
+Slayer icon.png Убийца	13-11-2012	V11.14	4800	880
+Xerath OriginalSquare.png
+Зерат
+Высший маг
+Маг icon.png Маг-артиллерист	05-10-2011	V11.9	4800	880
+Ziggs OriginalSquare.png
+Зиггс
+Эксперт по хексчатке
+Маг icon.png Маг-артиллерист	01-02-2012	V11.16	4800	880
+Zilean OriginalSquare.png
+Зилеан
+Хранитель времени
+Уникум icon.png Уникум	18-04-2009	V11.14	1350	585
+Zoe OriginalSquare.png
+Зои
+Звездная посланница
+Маг icon.png Маг-подрывник	21-11-2017	V11.18	6300	975
+Ivern OriginalSquare.png
+Иверн
+Зеленый отец
+Манипулятор icon.png Ловец	05-10-2016	V11.16	6300	975
+Illaoi OriginalSquare.png
+Иллаой
+Жрица матери глубин
+Воин icon.png Джаггернаут	24-11-2015	V11.15	6300	975
+Irelia OriginalSquare.png
+Ирелия
+Танцующая с клинками
+Воин icon.png Ныряльщик	16-11-2010	V11.15	4800	880
+Yorick OriginalSquare.png
+Йорик
+Пастух заблудших душ
+Воин icon.png Джаггернаут	22-06-2011	V11.8	4800	880
+Kha'Zix OriginalSquare.png
+Ка'Зикс
+Хищник из Бездны
+Slayer icon.png Убийца	27-09-2012	V11.1	4800	880
+Kayn OriginalSquare.png
+Каин
+Сумеречный жнец
+Истребитель icon.png Дуэлянт	12-07-2017	V11.15	6300	975
+Kai'Sa OriginalSquare.png
+Кай'Са
+Дочь Бездны
+Стрелок icon.png Стрелок	07-03-2018	V11.12	6300	975
+Kalista OriginalSquare.png
+Калиста
+Копье возмездия
+Стрелок icon.png Стрелок	20-11-2014	V10.25	4800	880
+Camille OriginalSquare.png
+Камилла
+Стальная тень
+Воин icon.png Ныряльщик	07-12-2016	V11.15	6300	975
+Karma OriginalSquare.png
+Карма
+Просвещенная
+Маг icon.png Маг-подрывник	01-02-2011	V11.16	3150	790
+Karthus OriginalSquare.png
+Картус
+Певец смерти
+Маг icon.png Боевой маг	12-06-2009	V11.6	3150	790
+Kassadin OriginalSquare.png
+Кассадин
+Скиталец Бездны
+Slayer icon.png Убийца	07-08-2009	V11.14	3150	790
+Cassiopeia OriginalSquare.png
+Кассиопея
+Змеиная хватка
+Маг icon.png Боевой маг	14-12-2010	V11.15	4800	880
+Katarina OriginalSquare.png
+Катарина
+Гибельный клинок
+Slayer icon.png Убийца	19-09-2009	V11.10	3150	790
+Quinn OriginalSquare.png
+Квинн
+Крылья Демасии
+Уникум icon.png Уникум	01-03-2013	V11.5	4800	880
+Kayle OriginalSquare.png
+Кейл
+Праведница
+Уникум icon.png Уникум	21-02-2009	V11.15	450	260
+Caitlyn OriginalSquare.png
+Кейтлин
+Шериф Пилтовера
+Стрелок icon.png Стрелок	04-01-2011	V11.15	4800	880
+Kennen OriginalSquare.png
+Кеннен
+Сердце бури
+Уникум icon.png Уникум	08-04-2010	V11.15	4800	880
+Qiyana OriginalSquare.png
+Киана
+Повелительница стихий
+Slayer icon.png Убийца	28-06-2019	V11.11	6300	975
+Kindred OriginalSquare.png
+Киндред
+Вечные охотники
+Стрелок icon.png Стрелок	14-10-2015	V11.9	6300	975
+Kled OriginalSquare.png
+Клед
+Сварливый кавалерист
+Истребитель icon.png Дуэлянт	10-08-2016	V11.5	6300	975
+Kog'Maw OriginalSquare.png
+Ког'Мао
+Пасть Бездны
+Стрелок icon.png Стрелок	24-06-2010	V11.10	4800	880
+Corki OriginalSquare.png
+Корки
+Отважный бомбардир
+Стрелок icon.png Стрелок	19-09-2009	V11.8	3150	790
+Xin Zhao OriginalSquare.png
+Ксин Жао
+Сенешаль Демасии
+Воин icon.png Ныряльщик	13-07-2010	V11.16	1350	585
+LeBlanc OriginalSquare.png
+Ле Блан
+Обманщица
+Маг icon.png Маг-подрывник	02-11-2010	V11.8	3150	790
+Leona OriginalSquare.png
+Леона
+Ослепительный рассвет
+Tank icon.png Штурмовик	13-07-2011	V11.11	4800	880
+Lee Sin OriginalSquare.png
+Ли Син
+Слепой монах
+Воин icon.png Ныряльщик	01-04-2011	V11.16	4800	880
+Lillia OriginalSquare.png
+Лиллия
+Робкий цветок
+Истребитель icon.png Дуэлянт	22-07-2020	V11.15	6300	975
+Lissandra OriginalSquare.png
+Лиссандра
+Ледяная ведьма
+Маг icon.png Маг-подрывник	30-04-2013	V11.7	4800	880
+Lulu OriginalSquare.png
+Лулу
+Волшебница фей
+Манипулятор icon.png Чародей	20-03-2012	V11.16	4800	880
+Lux OriginalSquare.png
+Люкс
+Леди сияния
+Маг icon.png Маг-подрывник	19-10-2010	V11.11	3150	790
+Lucian OriginalSquare.png
+Люциан
+Истребитель скверны
+Стрелок icon.png Стрелок	22-08-2013	V11.14	4800	880
+Malzahar OriginalSquare.png
+Мальзахар
+Пророк Бездны
+Маг icon.png Боевой маг	01-06-2010	V11.14	4800	880
+Malphite OriginalSquare.png
+Мальфит
+Осколок Монолита
+Tank icon.png Штурмовик	02-09-2009	V11.12	1350	585
+Maokai OriginalSquare.png
+Маокай
+Испорченный энт
+Tank icon.png Штурмовик	16-02-2011	V11.16	4800	880
+Master Yi OriginalSquare.png
+Мастер Йи
+Мечник Вуджу
+Истребитель icon.png Дуэлянт	21-02-2009	V11.11	450	260
+Miss Fortune OriginalSquare.png
+Мисс Фортуна
+Охотница за головами
+Стрелок icon.png Стрелок	08-09-2010	V10.25	3150	790
+Morgana OriginalSquare.png
+Моргана
+Падшая
+Манипулятор icon.png Ловец	21-02-2009	V11.11	1350	585
+Mordekaiser OriginalSquare.png
+Мордекайзер
+Железный призрак
+Воин icon.png Джаггернаут	24-02-2010	V11.15	1350	585
+Nami OriginalSquare.png
+Нами
+Повелительница морей
+Манипулятор icon.png Чародей	07-12-2012	V11.17	4800	880
+Nasus OriginalSquare.png
+Насус
+Хранитель песков
+Воин icon.png Джаггернаут	01-10-2009	V11.12	1350	585
+Nautilus OriginalSquare.png
+Наутилус
+Титан глубин
+Tank icon.png Штурмовик	14-02-2012	V11.15	4800	880
+Nidalee OriginalSquare.png
+Нидали
+Дикая охотница
+Уникум icon.png Уникум	17-12-2009	V11.15	3150	790
+Neeko OriginalSquare.png
+Нико
+Любопытный хамелеон
+Маг icon.png Маг-подрывник	05-12-2018	V11.13	6300	975
+Nocturne OriginalSquare.png
+Ноктюрн
+Извечный кошмар
+Slayer icon.png Убийца	15-03-2011	V11.16	4800	880
+Nunu OriginalSquare.png
+Нуну
+Мальчик и его йети
+Tank icon.png Штурмовик	21-02-2009	V11.16	450	260
+Olaf OriginalSquare.png
+Олаф
+Берсерк
+Воин icon.png Ныряльщик	09-06-2010	V11.13	3150	790
+Orianna OriginalSquare.png
+Орианна
+Заводная леди
+Маг icon.png Маг-подрывник	01-06-2011	V11.8	4800	880
+Ornn OriginalSquare.png
+Орн
+Пламя Горных Глубин
+Tank icon.png Штурмовик	23-08-2017	V11.1	6300	975
+Pyke OriginalSquare.png
+Пайк
+Потрошитель из Кровавой гавани
+Slayer icon.png Убийца	31-05-2018	V11.11	6300	975
+Pantheon OriginalSquare.png
+Пантеон
+Несокрушимое Копье
+Воин icon.png Ныряльщик	02-02-2010	V11.3	3150	790
+Poppy OriginalSquare.png
+Поппи
+Хранительница молота
+Танк icon.png Хранитель	13-01-2010	V10.5	450	260
+Ryze OriginalSquare.png
+Райз
+Рунный маг
+Маг icon.png Боевой маг	21-02-2009	V11.11	450	260
+Rumble OriginalSquare.png
+Рамбл
+Механизированная угроза
+Маг icon.png Боевой маг	26-04-2011	V11.11	4800	880
+Rammus OriginalSquare.png
+Раммус
+Броненосец
+Tank icon.png Штурмовик	10-07-2009	V11.13	1350	585
+Rek'Sai OriginalSquare.png
+Рек'Сай
+Хозяка недр Бездны
+Воин icon.png Ныряльщик	11-12-2014	V11.14	4800	880
+Rell OriginalSquare.png
+Релл
+Железная дева
+Tank icon.png Штурмовик	10-12-2020	V11.15	6300	975
+Rengar OriginalSquare.png
+Ренгар
+Охотник за трофеями
+Slayer icon.png Убийца	21-08-2012	V11.2	4800	880
+Renekton OriginalSquare.png
+Ренектон
+Мясник из песков
+Воин icon.png Ныряльщик	18-01-2011	V11.14	4800	880
+Riven OriginalSquare.png
+Ривен
+Изгнанница
+Истребитель icon.png Дуэлянт	14-09-2011	V11.13	4800	880
+Rakan OriginalSquare.png
+Рэйкан
+Обольститель
+Манипулятор icon.png Ловец	19-04-2017	V10.16	6300	975
+Sylas OriginalSquare.png
+Сайлас
+Сбросивший оковы
+Маг icon.png Маг-подрывник	25-01-2019	V11.15	6300	975
+Samira OriginalSquare.png
+Самира
+Пустынная роза
+Стрелок icon.png Стрелок	16-09-2020	V11.6	6300	975
+Swain OriginalSquare.png
+Свейн
+Верховный полководец Ноксуса
+Маг icon.png Боевой маг	05-10-2010	V11.11	4800	880
+Sejuani OriginalSquare.png
+Седжуани
+Ярость севера
+Tank icon.png Штурмовик	17-01-2012	V11.10	4800	880
+Senna OriginalSquare.png
+Сенна
+Освободительница
+Стрелок icon.png Стрелок	10-11-2019	V11.11	6300	975
+Seraphine OriginalSquare.png
+Серафина
+Мечтательная певица
+Маг icon.png Маг-артиллерист	29-10-2020	V11.14	6300	975
+Sett OriginalSquare.png
+Сетт
+Босс
+Воин icon.png Джаггернаут	14-01-2020	V10.16	6300	975
+Sivir OriginalSquare.png
+Сивир
+Королева сражений
+Стрелок icon.png Стрелок	21-02-2009	V10.11	450	260
+Singed OriginalSquare.png
+Синджед
+Безумный химик
+Уникум icon.png Уникум	18-04-2009	V11.13	450	260
+Syndra OriginalSquare.png
+Синдра
+Темная властительница
+Маг icon.png Маг-подрывник	13-09-2012	V11.15	4800	880
+Sion OriginalSquare.png
+Сион
+Восставший сокрушитель
+Tank icon.png Штурмовик	21-02-2009	V11.14	1350	585
+Skarner OriginalSquare.png
+Скарнер
+Кристальный страж
+Воин icon.png Ныряльщик	09-08-2011	V11.12	4800	880
+Sona OriginalSquare.png
+Сона
+Виртуоз струн
+Манипулятор icon.png Чародей	21-09-2010	V11.16	3150	790
+Soraka OriginalSquare.png
+Сорака
+Звездное дитя
+Манипулятор icon.png Чародей	21-02-2009	V11.13	450	260
+Tahm Kench OriginalSquare.png
+Таам Кенч
+Речной царь
+Танк icon.png Хранитель	09-07-2015	V11.16	6300	975
+Taliyah OriginalSquare.png
+Талия
+Прядущая камни
+Маг icon.png Боевой маг	18-05-2016	V11.11	6300	975
+Talon OriginalSquare.png
+Талон
+Острие клинка
+Slayer icon.png Убийца	24-08-2011	V11.12	4800	880
+Taric OriginalSquare.png
+Тарик
+Щит Валорана
+Манипулятор icon.png Чародей	19-08-2009	V11.14	1350	585
+Twisted Fate OriginalSquare.png
+Твистед Фэйт
+Мастер карт
+Маг icon.png Маг-подрывник	21-02-2009	V10.23	1350	585
+Twitch OriginalSquare.png
+Твич
+Чумная крыса
+Стрелок icon.png Стрелок	01-05-2009	V11.5	3150	790
+Teemo OriginalSquare.png
+Тимо
+Шустрый скаут
+Уникум icon.png Уникум	21-02-2009	V11.11	1350	585
+Trundle OriginalSquare.png
+Трандл
+Король троллей
+Воин icon.png Джаггернаут	01-12-2010	V11.12	3150	790
+Thresh OriginalSquare.png
+Треш
+Страж цепей
+Манипулятор icon.png Ловец	23-01-2013	V11.15	4800	880
+Tryndamere OriginalSquare.png
+Триндамир
+Король варваров
+Истребитель icon.png Дуэлянт	01-05-2009	V11.16	1350	585
+Tristana OriginalSquare.png
+Тристана
+Йордлский канонир
+Стрелок icon.png Стрелок	21-02-2009	V11.7	1350	585
+Udyr OriginalSquare.png
+Удир
+Странник духов
+Воин icon.png Джаггернаут	02-12-2009	V11.12	1350	585
+Urgot OriginalSquare.png
+Ургот
+Дредноут
+Воин icon.png Джаггернаут	24-08-2010	V11.11	3150	790
+Fiddlesticks OriginalSquare.png
+Фиддлстикс
+Древний ужас
+Маг icon.png Боевой маг	21-02-2009	V11.10	1350	585
+Fizz OriginalSquare.png
+Физз
+Морской ловкач
+Slayer icon.png Убийца	15-11-2011	V11.14	4800	880
+Fiora OriginalSquare.png
+Фиора
+Бесподобный дуэлянт
+Истребитель icon.png Дуэлянт	29-02-2012	V11.16	4800	880
+Heimerdinger OriginalSquare.png
+Хеймердингер
+Одержимый ученый
+Уникум icon.png Уникум	10-10-2009	V11.9	3150	790
+Cho'Gath OriginalSquare.png
+Чо'Гат
+Ужас Бездны
+Уникум icon.png Уникум	26-06-2009	V11.3	1350	585
+Shaco OriginalSquare.png
+Шако
+Демонический шут
+Slayer icon.png Убийца	10-10-2009	V11.16	3150	790
+Xayah OriginalSquare.png
+Шая
+Бунтарка
+Стрелок icon.png Стрелок	19-04-2017	V11.15	6300	975
+Shen OriginalSquare.png
+Шен
+Око сумрака
+Танк icon.png Хранитель	24-03-2010	V11.9	3150	790
+Shyvana OriginalSquare.png
+Шивана
+Полудракон
+Воин icon.png Джаггернаут	01-11-2011	V11.15	3150	790
+Evelynn OriginalSquare.png
+Эвелинн
+Объятия агонии
+Slayer icon.png Убийца	01-05-2009	V11.1	1350	585
+Ezreal OriginalSquare.png
+Эзреаль
+Вольный исследователь
+Стрелок icon.png Стрелок	16-03-2010	V11.11	4800	880
+Ekko OriginalSquare.png
+Экко
+Покоритель времени
+Slayer icon.png Убийца	29-05-2015	V10.25	6300	975
+Elise OriginalSquare.png
+Элиза
+Королева пауков
+Воин icon.png Ныряльщик	26-10-2012	V11.11	4800	880
+Annie OriginalSquare.png
+Энни
+Темное дитя
+Маг icon.png Маг-подрывник	21-02-2009	V11.15	450	260
+Ashe OriginalSquare.png
+Эш
+Ледяная лучница
+Стрелок icon.png Стрелок	21-02-2009	V11.7	450	260
+Yuumi OriginalSquare.png
+Юми
+Волшебная кошка
+Манипулятор icon.png Чародей	14-05-2019	V11.10	6300	975
+Yasuo OriginalSquare.png
+Ясуо
+Непрощенный
+Истребитель icon.png Дуэлянт	13-12-2013	V11.14	4800	880

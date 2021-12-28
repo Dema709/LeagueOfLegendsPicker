@@ -1,0 +1,1314 @@
+[
+  {
+    "iconName": "Yone_OriginalSquare.png",
+    "localizedName": "Ёнэ",
+    "localizedTitle": "Незабытый",
+    "positions": [
+      "Top",
+      "Mid"
+    ]
+  },
+  {
+    "iconName": "Azir_OriginalSquare.png",
+    "localizedName": "Азир",
+    "localizedTitle": "Император песков",
+    "positions": [
+      "Mid"
+    ]
+  },
+  {
+    "iconName": "Akali_OriginalSquare.png",
+    "localizedName": "Акали",
+    "localizedTitle": "Вольная убийца",
+    "positions": [
+      "Top",
+      "Mid"
+    ]
+  },
+  {
+    "iconName": "Akshan_OriginalSquare.png",
+    "localizedName": "Акшан",
+    "localizedTitle": "Своевольный Страж",
+    "positions": [
+      "Mid",
+      "Top"
+    ]
+  },
+  {
+    "iconName": "Alistar_OriginalSquare.png",
+    "localizedName": "Алистар",
+    "localizedTitle": "Минотавр",
+    "positions": [
+      "Support"
+    ]
+  },
+  {
+    "iconName": "Amumu_OriginalSquare.png",
+    "localizedName": "Амуму",
+    "localizedTitle": "Грустная мумия",
+    "positions": [
+      "Support",
+      "Jungle"
+    ]
+  },
+  {
+    "iconName": "Anivia_OriginalSquare.png",
+    "localizedName": "Анивия",
+    "localizedTitle": "Криофеникс",
+    "positions": [
+      "Mid",
+      "Support"
+    ]
+  },
+  {
+    "iconName": "Ahri_OriginalSquare.png",
+    "localizedName": "Ари",
+    "localizedTitle": "Девятихвостая лиса",
+    "positions": [
+      "Mid"
+    ]
+  },
+  {
+    "iconName": "Aatrox_OriginalSquare.png",
+    "localizedName": "Атрокс",
+    "localizedTitle": "Клинок даркинов",
+    "positions": [
+      "Top",
+      "Mid"
+    ]
+  },
+  {
+    "iconName": "Aurelion_Sol_OriginalSquare.png",
+    "localizedName": "Аурелион Сол",
+    "localizedTitle": "Создатель звезд",
+    "positions": [
+      "Mid"
+    ]
+  },
+  {
+    "iconName": "Aphelios_OriginalSquare.png",
+    "localizedName": "Афелий",
+    "localizedTitle": "Оружие веры",
+    "positions": [
+      "Bottom"
+    ]
+  },
+  {
+    "iconName": "Bard_OriginalSquare.png",
+    "localizedName": "Бард",
+    "localizedTitle": "Странствующий хранитель",
+    "positions": [
+      "Support"
+    ]
+  },
+  {
+    "iconName": "Blitzcrank_OriginalSquare.png",
+    "localizedName": "Блицкранк",
+    "localizedTitle": "Великий паровой голем",
+    "positions": [
+      "Support"
+    ]
+  },
+  {
+    "iconName": "Braum_OriginalSquare.png",
+    "localizedName": "Браум",
+    "localizedTitle": "Сердце Фрельйорда",
+    "positions": [
+      "Support"
+    ]
+  },
+  {
+    "iconName": "Brand_OriginalSquare.png",
+    "localizedName": "Брэнд",
+    "localizedTitle": "Пылающее возмездие",
+    "positions": [
+      "Support"
+    ]
+  },
+  {
+    "iconName": "Vi_OriginalSquare.png",
+    "localizedName": "Вай",
+    "localizedTitle": "Пилтоверский миротворец",
+    "positions": [
+      "Jungle"
+    ]
+  },
+  {
+    "iconName": "Warwick_OriginalSquare.png",
+    "localizedName": "Варвик",
+    "localizedTitle": "Освобожденный гнев Зауна",
+    "positions": [
+      "Jungle",
+      "Top"
+    ]
+  },
+  {
+    "iconName": "Varus_OriginalSquare.png",
+    "localizedName": "Варус",
+    "localizedTitle": "Стрела возмездия",
+    "positions": [
+      "Bottom"
+    ]
+  },
+  {
+    "iconName": "Veigar_OriginalSquare.png",
+    "localizedName": "Вейгар",
+    "localizedTitle": "Маленький повелитель зла",
+    "positions": [
+      "Mid",
+      "Support"
+    ]
+  },
+  {
+    "iconName": "Vayne_OriginalSquare.png",
+    "localizedName": "Вейн",
+    "localizedTitle": "Ночной охотник",
+    "positions": [
+      "Bottom",
+      "Top"
+    ]
+  },
+  {
+    "iconName": "Vex_OriginalSquare.png",
+    "localizedName": "Векс",
+    "localizedTitle": "Мрачнистка",
+    "positions": [
+      "Mid",
+      "Support"
+    ]
+  },
+  {
+    "iconName": "Vel'Koz_OriginalSquare.png",
+    "localizedName": "Вел'Коз",
+    "localizedTitle": "Око Бездны",
+    "positions": [
+      "Support"
+    ]
+  },
+  {
+    "iconName": "Viego_OriginalSquare.png",
+    "localizedName": "Виего",
+    "localizedTitle": "Падший король",
+    "positions": [
+      "Jungle"
+    ]
+  },
+  {
+    "iconName": "Viktor_OriginalSquare.png",
+    "localizedName": "Виктор",
+    "localizedTitle": "Механический вестник",
+    "positions": [
+      "Mid",
+      "Top"
+    ]
+  },
+  {
+    "iconName": "Vladimir_OriginalSquare.png",
+    "localizedName": "Владимир",
+    "localizedTitle": "Алый жнец",
+    "positions": [
+      "Mid",
+      "Top"
+    ]
+  },
+  {
+    "iconName": "Volibear_OriginalSquare.png",
+    "localizedName": "Волибир",
+    "localizedTitle": "Неутихающая Буря",
+    "positions": [
+      "Top",
+      "Jungle"
+    ]
+  },
+  {
+    "iconName": "Wukong_OriginalSquare.png",
+    "localizedName": "Вуконг",
+    "localizedTitle": "Король обезьян",
+    "positions": [
+      "Top"
+    ]
+  },
+  {
+    "iconName": "Galio_OriginalSquare.png",
+    "localizedName": "Галио",
+    "localizedTitle": "Колосс",
+    "positions": [
+      "Mid",
+      "Support"
+    ]
+  },
+  {
+    "iconName": "Gangplank_OriginalSquare.png",
+    "localizedName": "Гангпланк",
+    "localizedTitle": "Гроза морей",
+    "positions": [
+      "Top"
+    ]
+  },
+  {
+    "iconName": "Garen_OriginalSquare.png",
+    "localizedName": "Гарен",
+    "localizedTitle": "Мощь Демасии",
+    "positions": [
+      "Top",
+      "Mid"
+    ]
+  },
+  {
+    "iconName": "Gwen_OriginalSquare.png",
+    "localizedName": "Гвен",
+    "localizedTitle": "Благая швея",
+    "positions": [
+      "Top",
+      "Jungle"
+    ]
+  },
+  {
+    "iconName": "Hecarim_OriginalSquare.png",
+    "localizedName": "Гекарим",
+    "localizedTitle": "Тень войны",
+    "positions": [
+      "Jungle"
+    ]
+  },
+  {
+    "iconName": "Gnar_OriginalSquare.png",
+    "localizedName": "Гнар",
+    "localizedTitle": "Недостающее звено",
+    "positions": [
+      "Top"
+    ]
+  },
+  {
+    "iconName": "Gragas_OriginalSquare.png",
+    "localizedName": "Грагас",
+    "localizedTitle": "Дебошир",
+    "positions": [
+      "Top",
+      "Jungle",
+      "Support"
+    ]
+  },
+  {
+    "iconName": "Graves_OriginalSquare.png",
+    "localizedName": "Грейвз",
+    "localizedTitle": "Беззаконник",
+    "positions": [
+      "Jungle",
+      "Top"
+    ]
+  },
+  {
+    "iconName": "Darius_OriginalSquare.png",
+    "localizedName": "Дариус",
+    "localizedTitle": "Рука Ноксуса",
+    "positions": [
+      "Top"
+    ]
+  },
+  {
+    "iconName": "Jax_OriginalSquare.png",
+    "localizedName": "Джакс",
+    "localizedTitle": "Великий мастер оружия",
+    "positions": [
+      "Top",
+      "Jungle",
+      "Mid"
+    ]
+  },
+  {
+    "iconName": "Jarvan_IV_OriginalSquare.png",
+    "localizedName": "Джарван IV",
+    "localizedTitle": "Воплощение Демасии",
+    "positions": [
+      "Jungle"
+    ]
+  },
+  {
+    "iconName": "Jayce_OriginalSquare.png",
+    "localizedName": "Джейс",
+    "localizedTitle": "Защитник завтрашнего дня",
+    "positions": [
+      "Top",
+      "Mid"
+    ]
+  },
+  {
+    "iconName": "Jhin_OriginalSquare.png",
+    "localizedName": "Джин",
+    "localizedTitle": "Виртуоз",
+    "positions": [
+      "Bottom"
+    ]
+  },
+  {
+    "iconName": "Jinx_OriginalSquare.png",
+    "localizedName": "Джинкс",
+    "localizedTitle": "Сорванная башня",
+    "positions": [
+      "Bottom"
+    ]
+  },
+  {
+    "iconName": "Diana_OriginalSquare.png",
+    "localizedName": "Диана",
+    "localizedTitle": "Превосходство луны",
+    "positions": [
+      "Jungle",
+      "Mid"
+    ]
+  },
+  {
+    "iconName": "Dr._Mundo_OriginalSquare.png",
+    "localizedName": "Доктор Мундо",
+    "localizedTitle": "Сумасшедший из Зауна",
+    "positions": [
+      "Top"
+    ]
+  },
+  {
+    "iconName": "Draven_OriginalSquare.png",
+    "localizedName": "Дрейвен",
+    "localizedTitle": "Блистательный палач",
+    "positions": [
+      "Bottom"
+    ]
+  },
+  {
+    "iconName": "Janna_OriginalSquare.png",
+    "localizedName": "Жанна",
+    "localizedTitle": "Ярость бури",
+    "positions": [
+      "Support"
+    ]
+  },
+  {
+    "iconName": "Zyra_OriginalSquare.png",
+    "localizedName": "Зайра",
+    "localizedTitle": "Повелительница терний",
+    "positions": [
+      "Support"
+    ]
+  },
+  {
+    "iconName": "Zac_OriginalSquare.png",
+    "localizedName": "Зак",
+    "localizedTitle": "Секретное оружие",
+    "positions": [
+      "Jungle",
+      "Support",
+      "Top"
+    ]
+  },
+  {
+    "iconName": "Zed_OriginalSquare.png",
+    "localizedName": "Зед",
+    "localizedTitle": "Мастер теней",
+    "positions": [
+      "Mid",
+      "Jungle"
+    ]
+  },
+  {
+    "iconName": "Xerath_OriginalSquare.png",
+    "localizedName": "Зерат",
+    "localizedTitle": "Высший маг",
+    "positions": [
+      "Support",
+      "Mid"
+    ]
+  },
+  {
+    "iconName": "Ziggs_OriginalSquare.png",
+    "localizedName": "Зиггс",
+    "localizedTitle": "Эксперт по хексчатке",
+    "positions": [
+      "Bottom"
+    ]
+  },
+  {
+    "iconName": "Zilean_OriginalSquare.png",
+    "localizedName": "Зилеан",
+    "localizedTitle": "Хранитель времени",
+    "positions": [
+      "Support"
+    ]
+  },
+  {
+    "iconName": "Zoe_OriginalSquare.png",
+    "localizedName": "Зои",
+    "localizedTitle": "Звездная посланница",
+    "positions": [
+      "Mid"
+    ]
+  },
+  {
+    "iconName": "Ivern_OriginalSquare.png",
+    "localizedName": "Иверн",
+    "localizedTitle": "Зеленый отец",
+    "positions": [
+      "Jungle"
+    ]
+  },
+  {
+    "iconName": "Illaoi_OriginalSquare.png",
+    "localizedName": "Иллаой",
+    "localizedTitle": "Жрица матери глубин",
+    "positions": [
+      "Top"
+    ]
+  },
+  {
+    "iconName": "Irelia_OriginalSquare.png",
+    "localizedName": "Ирелия",
+    "localizedTitle": "Танцующая с клинками",
+    "positions": [
+      "Top",
+      "Mid"
+    ]
+  },
+  {
+    "iconName": "Yorick_OriginalSquare.png",
+    "localizedName": "Йорик",
+    "localizedTitle": "Пастух заблудших душ",
+    "positions": [
+      "Top"
+    ]
+  },
+  {
+    "iconName": "Kha'Zix_OriginalSquare.png",
+    "localizedName": "Ка'Зикс",
+    "localizedTitle": "Хищник из Бездны",
+    "positions": [
+      "Jungle"
+    ]
+  },
+  {
+    "iconName": "Kayn_OriginalSquare.png",
+    "localizedName": "Каин",
+    "localizedTitle": "Сумеречный жнец",
+    "positions": [
+      "Jungle"
+    ]
+  },
+  {
+    "iconName": "Kai'Sa_OriginalSquare.png",
+    "localizedName": "Кай'Са",
+    "localizedTitle": "Дочь Бездны",
+    "positions": [
+      "Bottom"
+    ]
+  },
+  {
+    "iconName": "Kalista_OriginalSquare.png",
+    "localizedName": "Калиста",
+    "localizedTitle": "Копье возмездия",
+    "positions": [
+      "Bottom"
+    ]
+  },
+  {
+    "iconName": "Camille_OriginalSquare.png",
+    "localizedName": "Камилла",
+    "localizedTitle": "Стальная тень",
+    "positions": [
+      "Top"
+    ]
+  },
+  {
+    "iconName": "Karma_OriginalSquare.png",
+    "localizedName": "Карма",
+    "localizedTitle": "Просвещенная",
+    "positions": [
+      "Support"
+    ]
+  },
+  {
+    "iconName": "Karthus_OriginalSquare.png",
+    "localizedName": "Картус",
+    "localizedTitle": "Певец смерти",
+    "positions": [
+      "Jungle"
+    ]
+  },
+  {
+    "iconName": "Kassadin_OriginalSquare.png",
+    "localizedName": "Кассадин",
+    "localizedTitle": "Скиталец Бездны",
+    "positions": [
+      "Mid"
+    ]
+  },
+  {
+    "iconName": "Cassiopeia_OriginalSquare.png",
+    "localizedName": "Кассиопея",
+    "localizedTitle": "Змеиная хватка",
+    "positions": [
+      "Mid",
+      "Top",
+      "Bottom"
+    ]
+  },
+  {
+    "iconName": "Katarina_OriginalSquare.png",
+    "localizedName": "Катарина",
+    "localizedTitle": "Гибельный клинок",
+    "positions": [
+      "Mid"
+    ]
+  },
+  {
+    "iconName": "Quinn_OriginalSquare.png",
+    "localizedName": "Квинн",
+    "localizedTitle": "Крылья Демасии",
+    "positions": [
+      "Top"
+    ]
+  },
+  {
+    "iconName": "Kayle_OriginalSquare.png",
+    "localizedName": "Кейл",
+    "localizedTitle": "Праведница",
+    "positions": [
+      "Top"
+    ]
+  },
+  {
+    "iconName": "Caitlyn_OriginalSquare.png",
+    "localizedName": "Кейтлин",
+    "localizedTitle": "Шериф Пилтовера",
+    "positions": [
+      "Bottom"
+    ]
+  },
+  {
+    "iconName": "Kennen_OriginalSquare.png",
+    "localizedName": "Кеннен",
+    "localizedTitle": "Сердце бури",
+    "positions": [
+      "Top"
+    ]
+  },
+  {
+    "iconName": "Qiyana_OriginalSquare.png",
+    "localizedName": "Киана",
+    "localizedTitle": "Повелительница стихий",
+    "positions": [
+      "Mid",
+      "Jungle"
+    ]
+  },
+  {
+    "iconName": "Kindred_OriginalSquare.png",
+    "localizedName": "Киндред",
+    "localizedTitle": "Вечные охотники",
+    "positions": [
+      "Jungle"
+    ]
+  },
+  {
+    "iconName": "Kled_OriginalSquare.png",
+    "localizedName": "Клед",
+    "localizedTitle": "Сварливый кавалерист",
+    "positions": [
+      "Top"
+    ]
+  },
+  {
+    "iconName": "Kog'Maw_OriginalSquare.png",
+    "localizedName": "Ког'Мао",
+    "localizedTitle": "Пасть Бездны",
+    "positions": [
+      "Bottom"
+    ]
+  },
+  {
+    "iconName": "Corki_OriginalSquare.png",
+    "localizedName": "Корки",
+    "localizedTitle": "Отважный бомбардир",
+    "positions": [
+      "Mid"
+    ]
+  },
+  {
+    "iconName": "Xin_Zhao_OriginalSquare.png",
+    "localizedName": "Ксин Жао",
+    "localizedTitle": "Сенешаль Демасии",
+    "positions": [
+      "Jungle"
+    ]
+  },
+  {
+    "iconName": "LeBlanc_OriginalSquare.png",
+    "localizedName": "Ле Блан",
+    "localizedTitle": "Обманщица",
+    "positions": [
+      "Mid"
+    ]
+  },
+  {
+    "iconName": "Leona_OriginalSquare.png",
+    "localizedName": "Леона",
+    "localizedTitle": "Ослепительный рассвет",
+    "positions": [
+      "Support"
+    ]
+  },
+  {
+    "iconName": "Lee_Sin_OriginalSquare.png",
+    "localizedName": "Ли Син",
+    "localizedTitle": "Слепой монах",
+    "positions": [
+      "Jungle"
+    ]
+  },
+  {
+    "iconName": "Lillia_OriginalSquare.png",
+    "localizedName": "Лиллия",
+    "localizedTitle": "Робкий цветок",
+    "positions": [
+      "Jungle"
+    ]
+  },
+  {
+    "iconName": "Lissandra_OriginalSquare.png",
+    "localizedName": "Лиссандра",
+    "localizedTitle": "Ледяная ведьма",
+    "positions": [
+      "Mid"
+    ]
+  },
+  {
+    "iconName": "Lulu_OriginalSquare.png",
+    "localizedName": "Лулу",
+    "localizedTitle": "Волшебница фей",
+    "positions": [
+      "Support"
+    ]
+  },
+  {
+    "iconName": "Lux_OriginalSquare.png",
+    "localizedName": "Люкс",
+    "localizedTitle": "Леди сияния",
+    "positions": [
+      "Support",
+      "Mid"
+    ]
+  },
+  {
+    "iconName": "Lucian_OriginalSquare.png",
+    "localizedName": "Люциан",
+    "localizedTitle": "Истребитель скверны",
+    "positions": [
+      "Bottom",
+      "Mid",
+      "Top"
+    ]
+  },
+  {
+    "iconName": "Malzahar_OriginalSquare.png",
+    "localizedName": "Мальзахар",
+    "localizedTitle": "Пророк Бездны",
+    "positions": [
+      "Mid"
+    ]
+  },
+  {
+    "iconName": "Malphite_OriginalSquare.png",
+    "localizedName": "Мальфит",
+    "localizedTitle": "Осколок Монолита",
+    "positions": [
+      "Top",
+      "Mid"
+    ]
+  },
+  {
+    "iconName": "Maokai_OriginalSquare.png",
+    "localizedName": "Маокай",
+    "localizedTitle": "Испорченный энт",
+    "positions": [
+      "Support",
+      "Top"
+    ]
+  },
+  {
+    "iconName": "Master_Yi_OriginalSquare.png",
+    "localizedName": "Мастер Йи",
+    "localizedTitle": "Мечник Вуджу",
+    "positions": [
+      "Jungle"
+    ]
+  },
+  {
+    "iconName": "Miss_Fortune_OriginalSquare.png",
+    "localizedName": "Мисс Фортуна",
+    "localizedTitle": "Охотница за головами",
+    "positions": [
+      "Bottom",
+      "Support"
+    ]
+  },
+  {
+    "iconName": "Morgana_OriginalSquare.png",
+    "localizedName": "Моргана",
+    "localizedTitle": "Падшая",
+    "positions": [
+      "Support"
+    ]
+  },
+  {
+    "iconName": "Mordekaiser_OriginalSquare.png",
+    "localizedName": "Мордекайзер",
+    "localizedTitle": "Железный призрак",
+    "positions": [
+      "Top"
+    ]
+  },
+  {
+    "iconName": "Nami_OriginalSquare.png",
+    "localizedName": "Нами",
+    "localizedTitle": "Повелительница морей",
+    "positions": [
+      "Support"
+    ]
+  },
+  {
+    "iconName": "Nasus_OriginalSquare.png",
+    "localizedName": "Насус",
+    "localizedTitle": "Хранитель песков",
+    "positions": [
+      "Top"
+    ]
+  },
+  {
+    "iconName": "Nautilus_OriginalSquare.png",
+    "localizedName": "Наутилус",
+    "localizedTitle": "Титан глубин",
+    "positions": [
+      "Support"
+    ]
+  },
+  {
+    "iconName": "Nidalee_OriginalSquare.png",
+    "localizedName": "Нидали",
+    "localizedTitle": "Дикая охотница",
+    "positions": [
+      "Jungle"
+    ]
+  },
+  {
+    "iconName": "Neeko_OriginalSquare.png",
+    "localizedName": "Нико",
+    "localizedTitle": "Любопытный хамелеон",
+    "positions": []
+  },
+  {
+    "iconName": "Nocturne_OriginalSquare.png",
+    "localizedName": "Ноктюрн",
+    "localizedTitle": "Извечный кошмар",
+    "positions": [
+      "Jungle"
+    ]
+  },
+  {
+    "iconName": "Nunu_OriginalSquare.png",
+    "localizedName": "Нуну",
+    "localizedTitle": "Мальчик и его йети",
+    "positions": [
+      "Jungle",
+      "Mid"
+    ]
+  },
+  {
+    "iconName": "Olaf_OriginalSquare.png",
+    "localizedName": "Олаф",
+    "localizedTitle": "Берсерк",
+    "positions": [
+      "Jungle"
+    ]
+  },
+  {
+    "iconName": "Orianna_OriginalSquare.png",
+    "localizedName": "Орианна",
+    "localizedTitle": "Заводная леди",
+    "positions": [
+      "Mid"
+    ]
+  },
+  {
+    "iconName": "Ornn_OriginalSquare.png",
+    "localizedName": "Орн",
+    "localizedTitle": "Пламя Горных Глубин",
+    "positions": [
+      "Top"
+    ]
+  },
+  {
+    "iconName": "Pyke_OriginalSquare.png",
+    "localizedName": "Пайк",
+    "localizedTitle": "Потрошитель из Кровавой гавани",
+    "positions": [
+      "Support"
+    ]
+  },
+  {
+    "iconName": "Pantheon_OriginalSquare.png",
+    "localizedName": "Пантеон",
+    "localizedTitle": "Несокрушимое Копье",
+    "positions": [
+      "Support",
+      "Mid"
+    ]
+  },
+  {
+    "iconName": "Poppy_OriginalSquare.png",
+    "localizedName": "Поппи",
+    "localizedTitle": "Хранительница молота",
+    "positions": [
+      "Jungle",
+      "Top",
+      "Support"
+    ]
+  },
+  {
+    "iconName": "Ryze_OriginalSquare.png",
+    "localizedName": "Райз",
+    "localizedTitle": "Рунный маг",
+    "positions": [
+      "Mid",
+      "Top"
+    ]
+  },
+  {
+    "iconName": "Rumble_OriginalSquare.png",
+    "localizedName": "Рамбл",
+    "localizedTitle": "Механизированная угроза",
+    "positions": [
+      "Top",
+      "Mid",
+      "Jungle"
+    ]
+  },
+  {
+    "iconName": "Rammus_OriginalSquare.png",
+    "localizedName": "Раммус",
+    "localizedTitle": "Броненосец",
+    "positions": [
+      "Jungle"
+    ]
+  },
+  {
+    "iconName": "Rek'Sai_OriginalSquare.png",
+    "localizedName": "Рек'Сай",
+    "localizedTitle": "Хозяка недр Бездны",
+    "positions": [
+      "Jungle"
+    ]
+  },
+  {
+    "iconName": "Rell_OriginalSquare.png",
+    "localizedName": "Релл",
+    "localizedTitle": "Железная дева",
+    "positions": [
+      "Support"
+    ]
+  },
+  {
+    "iconName": "Rengar_OriginalSquare.png",
+    "localizedName": "Ренгар",
+    "localizedTitle": "Охотник за трофеями",
+    "positions": [
+      "Top",
+      "Jungle"
+    ]
+  },
+  {
+    "iconName": "Renekton_OriginalSquare.png",
+    "localizedName": "Ренектон",
+    "localizedTitle": "Мясник из песков",
+    "positions": [
+      "Top",
+      "Mid"
+    ]
+  },
+  {
+    "iconName": "Riven_OriginalSquare.png",
+    "localizedName": "Ривен",
+    "localizedTitle": "Изгнанница",
+    "positions": [
+      "Top",
+      "Mid"
+    ]
+  },
+  {
+    "iconName": "Rakan_OriginalSquare.png",
+    "localizedName": "Рэйкан",
+    "localizedTitle": "Обольститель",
+    "positions": [
+      "Support"
+    ]
+  },
+  {
+    "iconName": "Sylas_OriginalSquare.png",
+    "localizedName": "Сайлас",
+    "localizedTitle": "Сбросивший оковы",
+    "positions": [
+      "Mid",
+      "Top"
+    ]
+  },
+  {
+    "iconName": "Samira_OriginalSquare.png",
+    "localizedName": "Самира",
+    "localizedTitle": "Пустынная роза",
+    "positions": [
+      "Bottom"
+    ]
+  },
+  {
+    "iconName": "Swain_OriginalSquare.png",
+    "localizedName": "Свейн",
+    "localizedTitle": "Верховный полководец Ноксуса",
+    "positions": [
+      "Support",
+      "Bottom"
+    ]
+  },
+  {
+    "iconName": "Sejuani_OriginalSquare.png",
+    "localizedName": "Седжуани",
+    "localizedTitle": "Ярость севера",
+    "positions": [
+      "Jungle"
+    ]
+  },
+  {
+    "iconName": "Senna_OriginalSquare.png",
+    "localizedName": "Сенна",
+    "localizedTitle": "Освободительница",
+    "positions": [
+      "Support"
+    ]
+  },
+  {
+    "iconName": "Seraphine_OriginalSquare.png",
+    "localizedName": "Серафина",
+    "localizedTitle": "Мечтательная певица",
+    "positions": [
+      "Support"
+    ]
+  },
+  {
+    "iconName": "Sett_OriginalSquare.png",
+    "localizedName": "Сетт",
+    "localizedTitle": "Босс",
+    "positions": [
+      "Top",
+      "Mid",
+      "Support"
+    ]
+  },
+  {
+    "iconName": "Sivir_OriginalSquare.png",
+    "localizedName": "Сивир",
+    "localizedTitle": "Королева сражений",
+    "positions": [
+      "Bottom"
+    ]
+  },
+  {
+    "iconName": "Singed_OriginalSquare.png",
+    "localizedName": "Синджед",
+    "localizedTitle": "Безумный химик",
+    "positions": [
+      "Top"
+    ]
+  },
+  {
+    "iconName": "Syndra_OriginalSquare.png",
+    "localizedName": "Синдра",
+    "localizedTitle": "Темная властительница",
+    "positions": [
+      "Mid"
+    ]
+  },
+  {
+    "iconName": "Sion_OriginalSquare.png",
+    "localizedName": "Сион",
+    "localizedTitle": "Восставший сокрушитель",
+    "positions": [
+      "Top"
+    ]
+  },
+  {
+    "iconName": "Skarner_OriginalSquare.png",
+    "localizedName": "Скарнер",
+    "localizedTitle": "Кристальный страж",
+    "positions": []
+  },
+  {
+    "iconName": "Sona_OriginalSquare.png",
+    "localizedName": "Сона",
+    "localizedTitle": "Виртуоз струн",
+    "positions": [
+      "Support"
+    ]
+  },
+  {
+    "iconName": "Soraka_OriginalSquare.png",
+    "localizedName": "Сорака",
+    "localizedTitle": "Звездное дитя",
+    "positions": [
+      "Support"
+    ]
+  },
+  {
+    "iconName": "Tahm_Kench_OriginalSquare.png",
+    "localizedName": "Таам Кенч",
+    "localizedTitle": "Речной царь",
+    "positions": [
+      "Top"
+    ]
+  },
+  {
+    "iconName": "Taliyah_OriginalSquare.png",
+    "localizedName": "Талия",
+    "localizedTitle": "Прядущая камни",
+    "positions": [
+      "Jungle"
+    ]
+  },
+  {
+    "iconName": "Talon_OriginalSquare.png",
+    "localizedName": "Талон",
+    "localizedTitle": "Острие клинка",
+    "positions": [
+      "Jungle",
+      "Mid"
+    ]
+  },
+  {
+    "iconName": "Taric_OriginalSquare.png",
+    "localizedName": "Тарик",
+    "localizedTitle": "Щит Валорана",
+    "positions": [
+      "Support"
+    ]
+  },
+  {
+    "iconName": "Twisted_Fate_OriginalSquare.png",
+    "localizedName": "Твистед Фэйт",
+    "localizedTitle": "Мастер карт",
+    "positions": [
+      "Mid"
+    ]
+  },
+  {
+    "iconName": "Twitch_OriginalSquare.png",
+    "localizedName": "Твич",
+    "localizedTitle": "Чумная крыса",
+    "positions": [
+      "Bottom"
+    ]
+  },
+  {
+    "iconName": "Teemo_OriginalSquare.png",
+    "localizedName": "Тимо",
+    "localizedTitle": "Шустрый скаут",
+    "positions": [
+      "Top"
+    ]
+  },
+  {
+    "iconName": "Trundle_OriginalSquare.png",
+    "localizedName": "Трандл",
+    "localizedTitle": "Король троллей",
+    "positions": [
+      "Jungle",
+      "Top",
+      "Support"
+    ]
+  },
+  {
+    "iconName": "Thresh_OriginalSquare.png",
+    "localizedName": "Треш",
+    "localizedTitle": "Страж цепей",
+    "positions": [
+      "Support"
+    ]
+  },
+  {
+    "iconName": "Tryndamere_OriginalSquare.png",
+    "localizedName": "Триндамир",
+    "localizedTitle": "Король варваров",
+    "positions": [
+      "Top",
+      "Mid"
+    ]
+  },
+  {
+    "iconName": "Tristana_OriginalSquare.png",
+    "localizedName": "Тристана",
+    "localizedTitle": "Йордлский канонир",
+    "positions": [
+      "Bottom"
+    ]
+  },
+  {
+    "iconName": "Udyr_OriginalSquare.png",
+    "localizedName": "Удир",
+    "localizedTitle": "Странник духов",
+    "positions": [
+      "Jungle"
+    ]
+  },
+  {
+    "iconName": "Urgot_OriginalSquare.png",
+    "localizedName": "Ургот",
+    "localizedTitle": "Дредноут",
+    "positions": [
+      "Top"
+    ]
+  },
+  {
+    "iconName": "Fiddlesticks_OriginalSquare.png",
+    "localizedName": "Фиддлстикс",
+    "localizedTitle": "Древний ужас",
+    "positions": [
+      "Jungle"
+    ]
+  },
+  {
+    "iconName": "Fizz_OriginalSquare.png",
+    "localizedName": "Физз",
+    "localizedTitle": "Морской ловкач",
+    "positions": [
+      "Mid"
+    ]
+  },
+  {
+    "iconName": "Fiora_OriginalSquare.png",
+    "localizedName": "Фиора",
+    "localizedTitle": "Бесподобный дуэлянт",
+    "positions": [
+      "Top"
+    ]
+  },
+  {
+    "iconName": "Heimerdinger_OriginalSquare.png",
+    "localizedName": "Хеймердингер",
+    "localizedTitle": "Одержимый ученый",
+    "positions": [
+      "Top"
+    ]
+  },
+  {
+    "iconName": "Cho'Gath_OriginalSquare.png",
+    "localizedName": "Чо'Гат",
+    "localizedTitle": "Ужас Бездны",
+    "positions": [
+      "Top"
+    ]
+  },
+  {
+    "iconName": "Shaco_OriginalSquare.png",
+    "localizedName": "Шако",
+    "localizedTitle": "Демонический шут",
+    "positions": [
+      "Jungle",
+      "Support"
+    ]
+  },
+  {
+    "iconName": "Xayah_OriginalSquare.png",
+    "localizedName": "Шая",
+    "localizedTitle": "Бунтарка",
+    "positions": [
+      "Bottom"
+    ]
+  },
+  {
+    "iconName": "Shen_OriginalSquare.png",
+    "localizedName": "Шен",
+    "localizedTitle": "Око сумрака",
+    "positions": [
+      "Top",
+      "Support"
+    ]
+  },
+  {
+    "iconName": "Shyvana_OriginalSquare.png",
+    "localizedName": "Шивана",
+    "localizedTitle": "Полудракон",
+    "positions": [
+      "Jungle"
+    ]
+  },
+  {
+    "iconName": "Evelynn_OriginalSquare.png",
+    "localizedName": "Эвелинн",
+    "localizedTitle": "Объятия агонии",
+    "positions": [
+      "Jungle"
+    ]
+  },
+  {
+    "iconName": "Ezreal_OriginalSquare.png",
+    "localizedName": "Эзреаль",
+    "localizedTitle": "Вольный исследователь",
+    "positions": [
+      "Bottom"
+    ]
+  },
+  {
+    "iconName": "Ekko_OriginalSquare.png",
+    "localizedName": "Экко",
+    "localizedTitle": "Покоритель времени",
+    "positions": [
+      "Jungle",
+      "Mid"
+    ]
+  },
+  {
+    "iconName": "Elise_OriginalSquare.png",
+    "localizedName": "Элиза",
+    "localizedTitle": "Королева пауков",
+    "positions": [
+      "Jungle"
+    ]
+  },
+  {
+    "iconName": "Annie_OriginalSquare.png",
+    "localizedName": "Энни",
+    "localizedTitle": "Темное дитя",
+    "positions": [
+      "Mid"
+    ]
+  },
+  {
+    "iconName": "Ashe_OriginalSquare.png",
+    "localizedName": "Эш",
+    "localizedTitle": "Ледяная лучница",
+    "positions": [
+      "Bottom"
+    ]
+  },
+  {
+    "iconName": "Yuumi_OriginalSquare.png",
+    "localizedName": "Юми",
+    "localizedTitle": "Волшебная кошка",
+    "positions": [
+      "Support"
+    ]
+  },
+  {
+    "iconName": "Yasuo_OriginalSquare.png",
+    "localizedName": "Ясуо",
+    "localizedTitle": "Непрощенный",
+    "positions": [
+      "Mid",
+      "Top",
+      "Bottom"
+    ]
+  }
+]

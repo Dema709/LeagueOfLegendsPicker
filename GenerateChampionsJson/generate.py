@@ -108,7 +108,8 @@ finally:
 
 #Формирование json
 print("-> Формирование json")
-with open('data.txt', 'w') as outfile:
+outputFileName = "champions.json"
+with open(outputFileName, 'w') as outfile:
     #Конвертация в список словарей
     championsDict = []
     for champion in champions:

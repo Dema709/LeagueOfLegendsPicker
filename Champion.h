@@ -14,7 +14,14 @@ public:
         Jungle,
         Mid,
         Bottom,
-        Support
+        Support,
+        Any
+    };
+
+    //Основной урон
+    enum class DamageType
+    {
+
     };
 
 public:

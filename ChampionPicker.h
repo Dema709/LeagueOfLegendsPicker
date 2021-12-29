@@ -7,6 +7,14 @@
 class ChampionPicker
 {
 public:
+
+    enum class ChoiceVariant
+    {
+        Position = 0,
+        DamageType
+    };
+
+public:
     ChampionPicker() = default;
     ~ChampionPicker() = default;
 

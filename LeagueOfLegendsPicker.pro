@@ -10,14 +10,17 @@ CONFIG += c++11
 
 SOURCES += \
     Champion.cpp \
+    ChampionPicker.cpp \
     JsonCharacterReader.cpp \
     main.cpp \
     PickerWidget.cpp
 
 HEADERS += \
     Champion.h \
+    ChampionPicker.h \
     JsonCharacterReader.h \
-    PickerWidget.h
+    PickerWidget.h \
+    random.hpp
 
 # Default rules for deployment.
 qnx: target.path = /tmp/$${TARGET}/bin

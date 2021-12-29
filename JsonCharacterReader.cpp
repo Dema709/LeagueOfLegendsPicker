@@ -4,9 +4,6 @@
 #include <QJsonArray>
 #include <QTextStream>
 
-//temp
-#include <QDebug>
-
 bool JsonCharacterReader::ReadCharactersFromFile(const QString& filename, QList<Champion>& listToFill)
 {
     QJsonDocument jsonDocument;
@@ -40,7 +37,6 @@ bool JsonCharacterReader::readFile(const QString& filename, QJsonDocument& docum
     in.setCodec("Windows-1251");
 
     QString allFileString = in.readAll();
-    //qDebug() << allFileString;
 
     QByteArray saveData = allFileString.toUtf8();
     QJsonParseError err;

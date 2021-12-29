@@ -1,6 +1,6 @@
 [
   {
-    "iconName": "Yone_OriginalSquare.png",
+    "iconName": "YoneSquare.png",
     "localizedName": "Ёнэ",
     "localizedTitle": "Незабытый",
     "positions": [
@@ -9,7 +9,7 @@
     ]
   },
   {
-    "iconName": "Azir_OriginalSquare.png",
+    "iconName": "AzirSquare.png",
     "localizedName": "Азир",
     "localizedTitle": "Император песков",
     "positions": [
@@ -17,7 +17,7 @@
     ]
   },
   {
-    "iconName": "Akali_OriginalSquare.png",
+    "iconName": "AkaliSquare.png",
     "localizedName": "Акали",
     "localizedTitle": "Вольная убийца",
     "positions": [
@@ -26,7 +26,7 @@
     ]
   },
   {
-    "iconName": "Akshan_OriginalSquare.png",
+    "iconName": "AkshanSquare.png",
     "localizedName": "Акшан",
     "localizedTitle": "Своевольный Страж",
     "positions": [
@@ -35,7 +35,7 @@
     ]
   },
   {
-    "iconName": "Alistar_OriginalSquare.png",
+    "iconName": "AlistarSquare.png",
     "localizedName": "Алистар",
     "localizedTitle": "Минотавр",
     "positions": [
@@ -43,7 +43,7 @@
     ]
   },
   {
-    "iconName": "Amumu_OriginalSquare.png",
+    "iconName": "AmumuSquare.png",
     "localizedName": "Амуму",
     "localizedTitle": "Грустная мумия",
     "positions": [
@@ -52,7 +52,7 @@
     ]
   },
   {
-    "iconName": "Anivia_OriginalSquare.png",
+    "iconName": "AniviaSquare.png",
     "localizedName": "Анивия",
     "localizedTitle": "Криофеникс",
     "positions": [
@@ -61,7 +61,7 @@
     ]
   },
   {
-    "iconName": "Ahri_OriginalSquare.png",
+    "iconName": "AhriSquare.png",
     "localizedName": "Ари",
     "localizedTitle": "Девятихвостая лиса",
     "positions": [
@@ -69,7 +69,7 @@
     ]
   },
   {
-    "iconName": "Aatrox_OriginalSquare.png",
+    "iconName": "AatroxSquare.png",
     "localizedName": "Атрокс",
     "localizedTitle": "Клинок даркинов",
     "positions": [
@@ -78,7 +78,7 @@
     ]
   },
   {
-    "iconName": "Aurelion_Sol_OriginalSquare.png",
+    "iconName": "AurelionSolSquare.png",
     "localizedName": "Аурелион Сол",
     "localizedTitle": "Создатель звезд",
     "positions": [
@@ -86,7 +86,7 @@
     ]
   },
   {
-    "iconName": "Aphelios_OriginalSquare.png",
+    "iconName": "ApheliosSquare.png",
     "localizedName": "Афелий",
     "localizedTitle": "Оружие веры",
     "positions": [
@@ -94,7 +94,7 @@
     ]
   },
   {
-    "iconName": "Bard_OriginalSquare.png",
+    "iconName": "BardSquare.png",
     "localizedName": "Бард",
     "localizedTitle": "Странствующий хранитель",
     "positions": [
@@ -102,7 +102,7 @@
     ]
   },
   {
-    "iconName": "Blitzcrank_OriginalSquare.png",
+    "iconName": "BlitzcrankSquare.png",
     "localizedName": "Блицкранк",
     "localizedTitle": "Великий паровой голем",
     "positions": [
@@ -110,7 +110,7 @@
     ]
   },
   {
-    "iconName": "Braum_OriginalSquare.png",
+    "iconName": "BraumSquare.png",
     "localizedName": "Браум",
     "localizedTitle": "Сердце Фрельйорда",
     "positions": [
@@ -118,7 +118,7 @@
     ]
   },
   {
-    "iconName": "Brand_OriginalSquare.png",
+    "iconName": "BrandSquare.png",
     "localizedName": "Брэнд",
     "localizedTitle": "Пылающее возмездие",
     "positions": [
@@ -126,7 +126,7 @@
     ]
   },
   {
-    "iconName": "Vi_OriginalSquare.png",
+    "iconName": "ViSquare.png",
     "localizedName": "Вай",
     "localizedTitle": "Пилтоверский миротворец",
     "positions": [
@@ -134,7 +134,7 @@
     ]
   },
   {
-    "iconName": "Warwick_OriginalSquare.png",
+    "iconName": "WarwickSquare.png",
     "localizedName": "Варвик",
     "localizedTitle": "Освобожденный гнев Зауна",
     "positions": [
@@ -143,7 +143,7 @@
     ]
   },
   {
-    "iconName": "Varus_OriginalSquare.png",
+    "iconName": "VarusSquare.png",
     "localizedName": "Варус",
     "localizedTitle": "Стрела возмездия",
     "positions": [
@@ -151,7 +151,7 @@
     ]
   },
   {
-    "iconName": "Veigar_OriginalSquare.png",
+    "iconName": "VeigarSquare.png",
     "localizedName": "Вейгар",
     "localizedTitle": "Маленький повелитель зла",
     "positions": [
@@ -160,7 +160,7 @@
     ]
   },
   {
-    "iconName": "Vayne_OriginalSquare.png",
+    "iconName": "VayneSquare.png",
     "localizedName": "Вейн",
     "localizedTitle": "Ночной охотник",
     "positions": [
@@ -169,7 +169,7 @@
     ]
   },
   {
-    "iconName": "Vex_OriginalSquare.png",
+    "iconName": "VexSquare.png",
     "localizedName": "Векс",
     "localizedTitle": "Мрачнистка",
     "positions": [
@@ -178,7 +178,7 @@
     ]
   },
   {
-    "iconName": "Vel'Koz_OriginalSquare.png",
+    "iconName": "VelKozSquare.png",
     "localizedName": "Вел'Коз",
     "localizedTitle": "Око Бездны",
     "positions": [
@@ -186,7 +186,7 @@
     ]
   },
   {
-    "iconName": "Viego_OriginalSquare.png",
+    "iconName": "ViegoSquare.png",
     "localizedName": "Виего",
     "localizedTitle": "Падший король",
     "positions": [
@@ -194,7 +194,7 @@
     ]
   },
   {
-    "iconName": "Viktor_OriginalSquare.png",
+    "iconName": "ViktorSquare.png",
     "localizedName": "Виктор",
     "localizedTitle": "Механический вестник",
     "positions": [
@@ -203,7 +203,7 @@
     ]
   },
   {
-    "iconName": "Vladimir_OriginalSquare.png",
+    "iconName": "VladimirSquare.png",
     "localizedName": "Владимир",
     "localizedTitle": "Алый жнец",
     "positions": [
@@ -212,7 +212,7 @@
     ]
   },
   {
-    "iconName": "Volibear_OriginalSquare.png",
+    "iconName": "VolibearSquare.png",
     "localizedName": "Волибир",
     "localizedTitle": "Неутихающая Буря",
     "positions": [
@@ -221,7 +221,7 @@
     ]
   },
   {
-    "iconName": "Wukong_OriginalSquare.png",
+    "iconName": "WukongSquare.png",
     "localizedName": "Вуконг",
     "localizedTitle": "Король обезьян",
     "positions": [
@@ -229,7 +229,7 @@
     ]
   },
   {
-    "iconName": "Galio_OriginalSquare.png",
+    "iconName": "GalioSquare.png",
     "localizedName": "Галио",
     "localizedTitle": "Колосс",
     "positions": [
@@ -238,7 +238,7 @@
     ]
   },
   {
-    "iconName": "Gangplank_OriginalSquare.png",
+    "iconName": "GangplankSquare.png",
     "localizedName": "Гангпланк",
     "localizedTitle": "Гроза морей",
     "positions": [
@@ -246,7 +246,7 @@
     ]
   },
   {
-    "iconName": "Garen_OriginalSquare.png",
+    "iconName": "GarenSquare.png",
     "localizedName": "Гарен",
     "localizedTitle": "Мощь Демасии",
     "positions": [
@@ -255,7 +255,7 @@
     ]
   },
   {
-    "iconName": "Gwen_OriginalSquare.png",
+    "iconName": "GwenSquare.png",
     "localizedName": "Гвен",
     "localizedTitle": "Благая швея",
     "positions": [
@@ -264,7 +264,7 @@
     ]
   },
   {
-    "iconName": "Hecarim_OriginalSquare.png",
+    "iconName": "HecarimSquare.png",
     "localizedName": "Гекарим",
     "localizedTitle": "Тень войны",
     "positions": [
@@ -272,7 +272,7 @@
     ]
   },
   {
-    "iconName": "Gnar_OriginalSquare.png",
+    "iconName": "GnarSquare.png",
     "localizedName": "Гнар",
     "localizedTitle": "Недостающее звено",
     "positions": [
@@ -280,7 +280,7 @@
     ]
   },
   {
-    "iconName": "Gragas_OriginalSquare.png",
+    "iconName": "GragasSquare.png",
     "localizedName": "Грагас",
     "localizedTitle": "Дебошир",
     "positions": [
@@ -290,7 +290,7 @@
     ]
   },
   {
-    "iconName": "Graves_OriginalSquare.png",
+    "iconName": "GravesSquare.png",
     "localizedName": "Грейвз",
     "localizedTitle": "Беззаконник",
     "positions": [
@@ -299,7 +299,7 @@
     ]
   },
   {
-    "iconName": "Darius_OriginalSquare.png",
+    "iconName": "DariusSquare.png",
     "localizedName": "Дариус",
     "localizedTitle": "Рука Ноксуса",
     "positions": [
@@ -307,7 +307,7 @@
     ]
   },
   {
-    "iconName": "Jax_OriginalSquare.png",
+    "iconName": "JaxSquare.png",
     "localizedName": "Джакс",
     "localizedTitle": "Великий мастер оружия",
     "positions": [
@@ -317,7 +317,7 @@
     ]
   },
   {
-    "iconName": "Jarvan_IV_OriginalSquare.png",
+    "iconName": "JarvanIVSquare.png",
     "localizedName": "Джарван IV",
     "localizedTitle": "Воплощение Демасии",
     "positions": [
@@ -325,7 +325,7 @@
     ]
   },
   {
-    "iconName": "Jayce_OriginalSquare.png",
+    "iconName": "JayceSquare.png",
     "localizedName": "Джейс",
     "localizedTitle": "Защитник завтрашнего дня",
     "positions": [
@@ -334,7 +334,7 @@
     ]
   },
   {
-    "iconName": "Jhin_OriginalSquare.png",
+    "iconName": "JhinSquare.png",
     "localizedName": "Джин",
     "localizedTitle": "Виртуоз",
     "positions": [
@@ -342,7 +342,7 @@
     ]
   },
   {
-    "iconName": "Jinx_OriginalSquare.png",
+    "iconName": "JinxSquare.png",
     "localizedName": "Джинкс",
     "localizedTitle": "Сорванная башня",
     "positions": [
@@ -350,7 +350,7 @@
     ]
   },
   {
-    "iconName": "Diana_OriginalSquare.png",
+    "iconName": "DianaSquare.png",
     "localizedName": "Диана",
     "localizedTitle": "Превосходство луны",
     "positions": [
@@ -359,7 +359,7 @@
     ]
   },
   {
-    "iconName": "Dr._Mundo_OriginalSquare.png",
+    "iconName": "Dr.MundoSquare.png",
     "localizedName": "Доктор Мундо",
     "localizedTitle": "Сумасшедший из Зауна",
     "positions": [
@@ -367,7 +367,7 @@
     ]
   },
   {
-    "iconName": "Draven_OriginalSquare.png",
+    "iconName": "DravenSquare.png",
     "localizedName": "Дрейвен",
     "localizedTitle": "Блистательный палач",
     "positions": [
@@ -375,7 +375,7 @@
     ]
   },
   {
-    "iconName": "Janna_OriginalSquare.png",
+    "iconName": "JannaSquare.png",
     "localizedName": "Жанна",
     "localizedTitle": "Ярость бури",
     "positions": [
@@ -383,7 +383,7 @@
     ]
   },
   {
-    "iconName": "Zyra_OriginalSquare.png",
+    "iconName": "ZyraSquare.png",
     "localizedName": "Зайра",
     "localizedTitle": "Повелительница терний",
     "positions": [
@@ -391,7 +391,7 @@
     ]
   },
   {
-    "iconName": "Zac_OriginalSquare.png",
+    "iconName": "ZacSquare.png",
     "localizedName": "Зак",
     "localizedTitle": "Секретное оружие",
     "positions": [
@@ -401,7 +401,7 @@
     ]
   },
   {
-    "iconName": "Zed_OriginalSquare.png",
+    "iconName": "ZedSquare.png",
     "localizedName": "Зед",
     "localizedTitle": "Мастер теней",
     "positions": [
@@ -410,7 +410,7 @@
     ]
   },
   {
-    "iconName": "Xerath_OriginalSquare.png",
+    "iconName": "XerathSquare.png",
     "localizedName": "Зерат",
     "localizedTitle": "Высший маг",
     "positions": [
@@ -419,7 +419,7 @@
     ]
   },
   {
-    "iconName": "Ziggs_OriginalSquare.png",
+    "iconName": "ZiggsSquare.png",
     "localizedName": "Зиггс",
     "localizedTitle": "Эксперт по хексчатке",
     "positions": [
@@ -427,7 +427,7 @@
     ]
   },
   {
-    "iconName": "Zilean_OriginalSquare.png",
+    "iconName": "ZileanSquare.png",
     "localizedName": "Зилеан",
     "localizedTitle": "Хранитель времени",
     "positions": [
@@ -435,7 +435,7 @@
     ]
   },
   {
-    "iconName": "Zoe_OriginalSquare.png",
+    "iconName": "ZoeSquare.png",
     "localizedName": "Зои",
     "localizedTitle": "Звездная посланница",
     "positions": [
@@ -443,7 +443,7 @@
     ]
   },
   {
-    "iconName": "Ivern_OriginalSquare.png",
+    "iconName": "IvernSquare.png",
     "localizedName": "Иверн",
     "localizedTitle": "Зеленый отец",
     "positions": [
@@ -451,7 +451,7 @@
     ]
   },
   {
-    "iconName": "Illaoi_OriginalSquare.png",
+    "iconName": "IllaoiSquare.png",
     "localizedName": "Иллаой",
     "localizedTitle": "Жрица матери глубин",
     "positions": [
@@ -459,7 +459,7 @@
     ]
   },
   {
-    "iconName": "Irelia_OriginalSquare.png",
+    "iconName": "IreliaSquare.png",
     "localizedName": "Ирелия",
     "localizedTitle": "Танцующая с клинками",
     "positions": [
@@ -468,7 +468,7 @@
     ]
   },
   {
-    "iconName": "Yorick_OriginalSquare.png",
+    "iconName": "YorickSquare.png",
     "localizedName": "Йорик",
     "localizedTitle": "Пастух заблудших душ",
     "positions": [
@@ -476,7 +476,7 @@
     ]
   },
   {
-    "iconName": "Kha'Zix_OriginalSquare.png",
+    "iconName": "KhaZixSquare.png",
     "localizedName": "Ка'Зикс",
     "localizedTitle": "Хищник из Бездны",
     "positions": [
@@ -484,7 +484,7 @@
     ]
   },
   {
-    "iconName": "Kayn_OriginalSquare.png",
+    "iconName": "KaynSquare.png",
     "localizedName": "Каин",
     "localizedTitle": "Сумеречный жнец",
     "positions": [
@@ -492,7 +492,7 @@
     ]
   },
   {
-    "iconName": "Kai'Sa_OriginalSquare.png",
+    "iconName": "KaiSaSquare.png",
     "localizedName": "Кай'Са",
     "localizedTitle": "Дочь Бездны",
     "positions": [
@@ -500,7 +500,7 @@
     ]
   },
   {
-    "iconName": "Kalista_OriginalSquare.png",
+    "iconName": "KalistaSquare.png",
     "localizedName": "Калиста",
     "localizedTitle": "Копье возмездия",
     "positions": [
@@ -508,7 +508,7 @@
     ]
   },
   {
-    "iconName": "Camille_OriginalSquare.png",
+    "iconName": "CamilleSquare.png",
     "localizedName": "Камилла",
     "localizedTitle": "Стальная тень",
     "positions": [
@@ -516,7 +516,7 @@
     ]
   },
   {
-    "iconName": "Karma_OriginalSquare.png",
+    "iconName": "KarmaSquare.png",
     "localizedName": "Карма",
     "localizedTitle": "Просвещенная",
     "positions": [
@@ -524,7 +524,7 @@
     ]
   },
   {
-    "iconName": "Karthus_OriginalSquare.png",
+    "iconName": "KarthusSquare.png",
     "localizedName": "Картус",
     "localizedTitle": "Певец смерти",
     "positions": [
@@ -532,7 +532,7 @@
     ]
   },
   {
-    "iconName": "Kassadin_OriginalSquare.png",
+    "iconName": "KassadinSquare.png",
     "localizedName": "Кассадин",
     "localizedTitle": "Скиталец Бездны",
     "positions": [
@@ -540,7 +540,7 @@
     ]
   },
   {
-    "iconName": "Cassiopeia_OriginalSquare.png",
+    "iconName": "CassiopeiaSquare.png",
     "localizedName": "Кассиопея",
     "localizedTitle": "Змеиная хватка",
     "positions": [
@@ -550,7 +550,7 @@
     ]
   },
   {
-    "iconName": "Katarina_OriginalSquare.png",
+    "iconName": "KatarinaSquare.png",
     "localizedName": "Катарина",
     "localizedTitle": "Гибельный клинок",
     "positions": [
@@ -558,7 +558,7 @@
     ]
   },
   {
-    "iconName": "Quinn_OriginalSquare.png",
+    "iconName": "QuinnSquare.png",
     "localizedName": "Квинн",
     "localizedTitle": "Крылья Демасии",
     "positions": [
@@ -566,7 +566,7 @@
     ]
   },
   {
-    "iconName": "Kayle_OriginalSquare.png",
+    "iconName": "KayleSquare.png",
     "localizedName": "Кейл",
     "localizedTitle": "Праведница",
     "positions": [
@@ -574,7 +574,7 @@
     ]
   },
   {
-    "iconName": "Caitlyn_OriginalSquare.png",
+    "iconName": "CaitlynSquare.png",
     "localizedName": "Кейтлин",
     "localizedTitle": "Шериф Пилтовера",
     "positions": [
@@ -582,7 +582,7 @@
     ]
   },
   {
-    "iconName": "Kennen_OriginalSquare.png",
+    "iconName": "KennenSquare.png",
     "localizedName": "Кеннен",
     "localizedTitle": "Сердце бури",
     "positions": [
@@ -590,7 +590,7 @@
     ]
   },
   {
-    "iconName": "Qiyana_OriginalSquare.png",
+    "iconName": "QiyanaSquare.png",
     "localizedName": "Киана",
     "localizedTitle": "Повелительница стихий",
     "positions": [
@@ -599,7 +599,7 @@
     ]
   },
   {
-    "iconName": "Kindred_OriginalSquare.png",
+    "iconName": "KindredSquare.png",
     "localizedName": "Киндред",
     "localizedTitle": "Вечные охотники",
     "positions": [
@@ -607,7 +607,7 @@
     ]
   },
   {
-    "iconName": "Kled_OriginalSquare.png",
+    "iconName": "KledSquare.png",
     "localizedName": "Клед",
     "localizedTitle": "Сварливый кавалерист",
     "positions": [
@@ -615,7 +615,7 @@
     ]
   },
   {
-    "iconName": "Kog'Maw_OriginalSquare.png",
+    "iconName": "KogMawSquare.png",
     "localizedName": "Ког'Мао",
     "localizedTitle": "Пасть Бездны",
     "positions": [
@@ -623,7 +623,7 @@
     ]
   },
   {
-    "iconName": "Corki_OriginalSquare.png",
+    "iconName": "CorkiSquare.png",
     "localizedName": "Корки",
     "localizedTitle": "Отважный бомбардир",
     "positions": [
@@ -631,7 +631,7 @@
     ]
   },
   {
-    "iconName": "Xin_Zhao_OriginalSquare.png",
+    "iconName": "XinZhaoSquare.png",
     "localizedName": "Ксин Жао",
     "localizedTitle": "Сенешаль Демасии",
     "positions": [
@@ -639,7 +639,7 @@
     ]
   },
   {
-    "iconName": "LeBlanc_OriginalSquare.png",
+    "iconName": "LeBlancSquare.png",
     "localizedName": "Ле Блан",
     "localizedTitle": "Обманщица",
     "positions": [
@@ -647,7 +647,7 @@
     ]
   },
   {
-    "iconName": "Leona_OriginalSquare.png",
+    "iconName": "LeonaSquare.png",
     "localizedName": "Леона",
     "localizedTitle": "Ослепительный рассвет",
     "positions": [
@@ -655,7 +655,7 @@
     ]
   },
   {
-    "iconName": "Lee_Sin_OriginalSquare.png",
+    "iconName": "LeeSinSquare.png",
     "localizedName": "Ли Син",
     "localizedTitle": "Слепой монах",
     "positions": [
@@ -663,7 +663,7 @@
     ]
   },
   {
-    "iconName": "Lillia_OriginalSquare.png",
+    "iconName": "LilliaSquare.png",
     "localizedName": "Лиллия",
     "localizedTitle": "Робкий цветок",
     "positions": [
@@ -671,7 +671,7 @@
     ]
   },
   {
-    "iconName": "Lissandra_OriginalSquare.png",
+    "iconName": "LissandraSquare.png",
     "localizedName": "Лиссандра",
     "localizedTitle": "Ледяная ведьма",
     "positions": [
@@ -679,7 +679,7 @@
     ]
   },
   {
-    "iconName": "Lulu_OriginalSquare.png",
+    "iconName": "LuluSquare.png",
     "localizedName": "Лулу",
     "localizedTitle": "Волшебница фей",
     "positions": [
@@ -687,7 +687,7 @@
     ]
   },
   {
-    "iconName": "Lux_OriginalSquare.png",
+    "iconName": "LuxSquare.png",
     "localizedName": "Люкс",
     "localizedTitle": "Леди сияния",
     "positions": [
@@ -696,7 +696,7 @@
     ]
   },
   {
-    "iconName": "Lucian_OriginalSquare.png",
+    "iconName": "LucianSquare.png",
     "localizedName": "Люциан",
     "localizedTitle": "Истребитель скверны",
     "positions": [
@@ -706,7 +706,7 @@
     ]
   },
   {
-    "iconName": "Malzahar_OriginalSquare.png",
+    "iconName": "MalzaharSquare.png",
     "localizedName": "Мальзахар",
     "localizedTitle": "Пророк Бездны",
     "positions": [
@@ -714,7 +714,7 @@
     ]
   },
   {
-    "iconName": "Malphite_OriginalSquare.png",
+    "iconName": "MalphiteSquare.png",
     "localizedName": "Мальфит",
     "localizedTitle": "Осколок Монолита",
     "positions": [
@@ -723,7 +723,7 @@
     ]
   },
   {
-    "iconName": "Maokai_OriginalSquare.png",
+    "iconName": "MaokaiSquare.png",
     "localizedName": "Маокай",
     "localizedTitle": "Испорченный энт",
     "positions": [
@@ -732,7 +732,7 @@
     ]
   },
   {
-    "iconName": "Master_Yi_OriginalSquare.png",
+    "iconName": "MasterYiSquare.png",
     "localizedName": "Мастер Йи",
     "localizedTitle": "Мечник Вуджу",
     "positions": [
@@ -740,7 +740,7 @@
     ]
   },
   {
-    "iconName": "Miss_Fortune_OriginalSquare.png",
+    "iconName": "MissFortuneSquare.png",
     "localizedName": "Мисс Фортуна",
     "localizedTitle": "Охотница за головами",
     "positions": [
@@ -749,7 +749,7 @@
     ]
   },
   {
-    "iconName": "Morgana_OriginalSquare.png",
+    "iconName": "MorganaSquare.png",
     "localizedName": "Моргана",
     "localizedTitle": "Падшая",
     "positions": [
@@ -757,7 +757,7 @@
     ]
   },
   {
-    "iconName": "Mordekaiser_OriginalSquare.png",
+    "iconName": "MordekaiserSquare.png",
     "localizedName": "Мордекайзер",
     "localizedTitle": "Железный призрак",
     "positions": [
@@ -765,7 +765,7 @@
     ]
   },
   {
-    "iconName": "Nami_OriginalSquare.png",
+    "iconName": "NamiSquare.png",
     "localizedName": "Нами",
     "localizedTitle": "Повелительница морей",
     "positions": [
@@ -773,7 +773,7 @@
     ]
   },
   {
-    "iconName": "Nasus_OriginalSquare.png",
+    "iconName": "NasusSquare.png",
     "localizedName": "Насус",
     "localizedTitle": "Хранитель песков",
     "positions": [
@@ -781,7 +781,7 @@
     ]
   },
   {
-    "iconName": "Nautilus_OriginalSquare.png",
+    "iconName": "NautilusSquare.png",
     "localizedName": "Наутилус",
     "localizedTitle": "Титан глубин",
     "positions": [
@@ -789,7 +789,7 @@
     ]
   },
   {
-    "iconName": "Nidalee_OriginalSquare.png",
+    "iconName": "NidaleeSquare.png",
     "localizedName": "Нидали",
     "localizedTitle": "Дикая охотница",
     "positions": [
@@ -797,13 +797,13 @@
     ]
   },
   {
-    "iconName": "Neeko_OriginalSquare.png",
+    "iconName": "NeekoSquare.png",
     "localizedName": "Нико",
     "localizedTitle": "Любопытный хамелеон",
     "positions": []
   },
   {
-    "iconName": "Nocturne_OriginalSquare.png",
+    "iconName": "NocturneSquare.png",
     "localizedName": "Ноктюрн",
     "localizedTitle": "Извечный кошмар",
     "positions": [
@@ -811,7 +811,7 @@
     ]
   },
   {
-    "iconName": "Nunu_OriginalSquare.png",
+    "iconName": "NunuSquare.png",
     "localizedName": "Нуну",
     "localizedTitle": "Мальчик и его йети",
     "positions": [
@@ -820,7 +820,7 @@
     ]
   },
   {
-    "iconName": "Olaf_OriginalSquare.png",
+    "iconName": "OlafSquare.png",
     "localizedName": "Олаф",
     "localizedTitle": "Берсерк",
     "positions": [
@@ -828,7 +828,7 @@
     ]
   },
   {
-    "iconName": "Orianna_OriginalSquare.png",
+    "iconName": "OriannaSquare.png",
     "localizedName": "Орианна",
     "localizedTitle": "Заводная леди",
     "positions": [
@@ -836,7 +836,7 @@
     ]
   },
   {
-    "iconName": "Ornn_OriginalSquare.png",
+    "iconName": "OrnnSquare.png",
     "localizedName": "Орн",
     "localizedTitle": "Пламя Горных Глубин",
     "positions": [
@@ -844,7 +844,7 @@
     ]
   },
   {
-    "iconName": "Pyke_OriginalSquare.png",
+    "iconName": "PykeSquare.png",
     "localizedName": "Пайк",
     "localizedTitle": "Потрошитель из Кровавой гавани",
     "positions": [
@@ -852,7 +852,7 @@
     ]
   },
   {
-    "iconName": "Pantheon_OriginalSquare.png",
+    "iconName": "PantheonSquare.png",
     "localizedName": "Пантеон",
     "localizedTitle": "Несокрушимое Копье",
     "positions": [
@@ -861,7 +861,7 @@
     ]
   },
   {
-    "iconName": "Poppy_OriginalSquare.png",
+    "iconName": "PoppySquare.png",
     "localizedName": "Поппи",
     "localizedTitle": "Хранительница молота",
     "positions": [
@@ -871,7 +871,7 @@
     ]
   },
   {
-    "iconName": "Ryze_OriginalSquare.png",
+    "iconName": "RyzeSquare.png",
     "localizedName": "Райз",
     "localizedTitle": "Рунный маг",
     "positions": [
@@ -880,7 +880,7 @@
     ]
   },
   {
-    "iconName": "Rumble_OriginalSquare.png",
+    "iconName": "RumbleSquare.png",
     "localizedName": "Рамбл",
     "localizedTitle": "Механизированная угроза",
     "positions": [
@@ -890,7 +890,7 @@
     ]
   },
   {
-    "iconName": "Rammus_OriginalSquare.png",
+    "iconName": "RammusSquare.png",
     "localizedName": "Раммус",
     "localizedTitle": "Броненосец",
     "positions": [
@@ -898,7 +898,7 @@
     ]
   },
   {
-    "iconName": "Rek'Sai_OriginalSquare.png",
+    "iconName": "RekSaiSquare.png",
     "localizedName": "Рек'Сай",
     "localizedTitle": "Хозяка недр Бездны",
     "positions": [
@@ -906,7 +906,7 @@
     ]
   },
   {
-    "iconName": "Rell_OriginalSquare.png",
+    "iconName": "RellSquare.png",
     "localizedName": "Релл",
     "localizedTitle": "Железная дева",
     "positions": [
@@ -914,7 +914,7 @@
     ]
   },
   {
-    "iconName": "Rengar_OriginalSquare.png",
+    "iconName": "RengarSquare.png",
     "localizedName": "Ренгар",
     "localizedTitle": "Охотник за трофеями",
     "positions": [
@@ -923,7 +923,7 @@
     ]
   },
   {
-    "iconName": "Renekton_OriginalSquare.png",
+    "iconName": "RenektonSquare.png",
     "localizedName": "Ренектон",
     "localizedTitle": "Мясник из песков",
     "positions": [
@@ -932,7 +932,7 @@
     ]
   },
   {
-    "iconName": "Riven_OriginalSquare.png",
+    "iconName": "RivenSquare.png",
     "localizedName": "Ривен",
     "localizedTitle": "Изгнанница",
     "positions": [
@@ -941,7 +941,7 @@
     ]
   },
   {
-    "iconName": "Rakan_OriginalSquare.png",
+    "iconName": "RakanSquare.png",
     "localizedName": "Рэйкан",
     "localizedTitle": "Обольститель",
     "positions": [
@@ -949,7 +949,7 @@
     ]
   },
   {
-    "iconName": "Sylas_OriginalSquare.png",
+    "iconName": "SylasSquare.png",
     "localizedName": "Сайлас",
     "localizedTitle": "Сбросивший оковы",
     "positions": [
@@ -958,7 +958,7 @@
     ]
   },
   {
-    "iconName": "Samira_OriginalSquare.png",
+    "iconName": "SamiraSquare.png",
     "localizedName": "Самира",
     "localizedTitle": "Пустынная роза",
     "positions": [
@@ -966,7 +966,7 @@
     ]
   },
   {
-    "iconName": "Swain_OriginalSquare.png",
+    "iconName": "SwainSquare.png",
     "localizedName": "Свейн",
     "localizedTitle": "Верховный полководец Ноксуса",
     "positions": [
@@ -975,7 +975,7 @@
     ]
   },
   {
-    "iconName": "Sejuani_OriginalSquare.png",
+    "iconName": "SejuaniSquare.png",
     "localizedName": "Седжуани",
     "localizedTitle": "Ярость севера",
     "positions": [
@@ -983,7 +983,7 @@
     ]
   },
   {
-    "iconName": "Senna_OriginalSquare.png",
+    "iconName": "SennaSquare.png",
     "localizedName": "Сенна",
     "localizedTitle": "Освободительница",
     "positions": [
@@ -991,7 +991,7 @@
     ]
   },
   {
-    "iconName": "Seraphine_OriginalSquare.png",
+    "iconName": "SeraphineSquare.png",
     "localizedName": "Серафина",
     "localizedTitle": "Мечтательная певица",
     "positions": [
@@ -999,7 +999,7 @@
     ]
   },
   {
-    "iconName": "Sett_OriginalSquare.png",
+    "iconName": "SettSquare.png",
     "localizedName": "Сетт",
     "localizedTitle": "Босс",
     "positions": [
@@ -1009,7 +1009,7 @@
     ]
   },
   {
-    "iconName": "Sivir_OriginalSquare.png",
+    "iconName": "SivirSquare.png",
     "localizedName": "Сивир",
     "localizedTitle": "Королева сражений",
     "positions": [
@@ -1017,7 +1017,7 @@
     ]
   },
   {
-    "iconName": "Singed_OriginalSquare.png",
+    "iconName": "SingedSquare.png",
     "localizedName": "Синджед",
     "localizedTitle": "Безумный химик",
     "positions": [
@@ -1025,7 +1025,7 @@
     ]
   },
   {
-    "iconName": "Syndra_OriginalSquare.png",
+    "iconName": "SyndraSquare.png",
     "localizedName": "Синдра",
     "localizedTitle": "Темная властительница",
     "positions": [
@@ -1033,7 +1033,7 @@
     ]
   },
   {
-    "iconName": "Sion_OriginalSquare.png",
+    "iconName": "SionSquare.png",
     "localizedName": "Сион",
     "localizedTitle": "Восставший сокрушитель",
     "positions": [
@@ -1041,13 +1041,13 @@
     ]
   },
   {
-    "iconName": "Skarner_OriginalSquare.png",
+    "iconName": "SkarnerSquare.png",
     "localizedName": "Скарнер",
     "localizedTitle": "Кристальный страж",
     "positions": []
   },
   {
-    "iconName": "Sona_OriginalSquare.png",
+    "iconName": "SonaSquare.png",
     "localizedName": "Сона",
     "localizedTitle": "Виртуоз струн",
     "positions": [
@@ -1055,7 +1055,7 @@
     ]
   },
   {
-    "iconName": "Soraka_OriginalSquare.png",
+    "iconName": "SorakaSquare.png",
     "localizedName": "Сорака",
     "localizedTitle": "Звездное дитя",
     "positions": [
@@ -1063,7 +1063,7 @@
     ]
   },
   {
-    "iconName": "Tahm_Kench_OriginalSquare.png",
+    "iconName": "TahmKenchSquare.png",
     "localizedName": "Таам Кенч",
     "localizedTitle": "Речной царь",
     "positions": [
@@ -1071,7 +1071,7 @@
     ]
   },
   {
-    "iconName": "Taliyah_OriginalSquare.png",
+    "iconName": "TaliyahSquare.png",
     "localizedName": "Талия",
     "localizedTitle": "Прядущая камни",
     "positions": [
@@ -1079,7 +1079,7 @@
     ]
   },
   {
-    "iconName": "Talon_OriginalSquare.png",
+    "iconName": "TalonSquare.png",
     "localizedName": "Талон",
     "localizedTitle": "Острие клинка",
     "positions": [
@@ -1088,7 +1088,7 @@
     ]
   },
   {
-    "iconName": "Taric_OriginalSquare.png",
+    "iconName": "TaricSquare.png",
     "localizedName": "Тарик",
     "localizedTitle": "Щит Валорана",
     "positions": [
@@ -1096,7 +1096,7 @@
     ]
   },
   {
-    "iconName": "Twisted_Fate_OriginalSquare.png",
+    "iconName": "TwistedFateSquare.png",
     "localizedName": "Твистед Фэйт",
     "localizedTitle": "Мастер карт",
     "positions": [
@@ -1104,7 +1104,7 @@
     ]
   },
   {
-    "iconName": "Twitch_OriginalSquare.png",
+    "iconName": "TwitchSquare.png",
     "localizedName": "Твич",
     "localizedTitle": "Чумная крыса",
     "positions": [
@@ -1112,7 +1112,7 @@
     ]
   },
   {
-    "iconName": "Teemo_OriginalSquare.png",
+    "iconName": "TeemoSquare.png",
     "localizedName": "Тимо",
     "localizedTitle": "Шустрый скаут",
     "positions": [
@@ -1120,7 +1120,7 @@
     ]
   },
   {
-    "iconName": "Trundle_OriginalSquare.png",
+    "iconName": "TrundleSquare.png",
     "localizedName": "Трандл",
     "localizedTitle": "Король троллей",
     "positions": [
@@ -1130,7 +1130,7 @@
     ]
   },
   {
-    "iconName": "Thresh_OriginalSquare.png",
+    "iconName": "ThreshSquare.png",
     "localizedName": "Треш",
     "localizedTitle": "Страж цепей",
     "positions": [
@@ -1138,7 +1138,7 @@
     ]
   },
   {
-    "iconName": "Tryndamere_OriginalSquare.png",
+    "iconName": "TryndamereSquare.png",
     "localizedName": "Триндамир",
     "localizedTitle": "Король варваров",
     "positions": [
@@ -1147,7 +1147,7 @@
     ]
   },
   {
-    "iconName": "Tristana_OriginalSquare.png",
+    "iconName": "TristanaSquare.png",
     "localizedName": "Тристана",
     "localizedTitle": "Йордлский канонир",
     "positions": [
@@ -1155,7 +1155,7 @@
     ]
   },
   {
-    "iconName": "Udyr_OriginalSquare.png",
+    "iconName": "UdyrSquare.png",
     "localizedName": "Удир",
     "localizedTitle": "Странник духов",
     "positions": [
@@ -1163,7 +1163,7 @@
     ]
   },
   {
-    "iconName": "Urgot_OriginalSquare.png",
+    "iconName": "UrgotSquare.png",
     "localizedName": "Ургот",
     "localizedTitle": "Дредноут",
     "positions": [
@@ -1171,7 +1171,7 @@
     ]
   },
   {
-    "iconName": "Fiddlesticks_OriginalSquare.png",
+    "iconName": "FiddlesticksSquare.png",
     "localizedName": "Фиддлстикс",
     "localizedTitle": "Древний ужас",
     "positions": [
@@ -1179,7 +1179,7 @@
     ]
   },
   {
-    "iconName": "Fizz_OriginalSquare.png",
+    "iconName": "FizzSquare.png",
     "localizedName": "Физз",
     "localizedTitle": "Морской ловкач",
     "positions": [
@@ -1187,7 +1187,7 @@
     ]
   },
   {
-    "iconName": "Fiora_OriginalSquare.png",
+    "iconName": "FioraSquare.png",
     "localizedName": "Фиора",
     "localizedTitle": "Бесподобный дуэлянт",
     "positions": [
@@ -1195,7 +1195,7 @@
     ]
   },
   {
-    "iconName": "Heimerdinger_OriginalSquare.png",
+    "iconName": "HeimerdingerSquare.png",
     "localizedName": "Хеймердингер",
     "localizedTitle": "Одержимый ученый",
     "positions": [
@@ -1203,7 +1203,7 @@
     ]
   },
   {
-    "iconName": "Cho'Gath_OriginalSquare.png",
+    "iconName": "ChoGathSquare.png",
     "localizedName": "Чо'Гат",
     "localizedTitle": "Ужас Бездны",
     "positions": [
@@ -1211,7 +1211,7 @@
     ]
   },
   {
-    "iconName": "Shaco_OriginalSquare.png",
+    "iconName": "ShacoSquare.png",
     "localizedName": "Шако",
     "localizedTitle": "Демонический шут",
     "positions": [
@@ -1220,7 +1220,7 @@
     ]
   },
   {
-    "iconName": "Xayah_OriginalSquare.png",
+    "iconName": "XayahSquare.png",
     "localizedName": "Шая",
     "localizedTitle": "Бунтарка",
     "positions": [
@@ -1228,7 +1228,7 @@
     ]
   },
   {
-    "iconName": "Shen_OriginalSquare.png",
+    "iconName": "ShenSquare.png",
     "localizedName": "Шен",
     "localizedTitle": "Око сумрака",
     "positions": [
@@ -1237,7 +1237,7 @@
     ]
   },
   {
-    "iconName": "Shyvana_OriginalSquare.png",
+    "iconName": "ShyvanaSquare.png",
     "localizedName": "Шивана",
     "localizedTitle": "Полудракон",
     "positions": [
@@ -1245,7 +1245,7 @@
     ]
   },
   {
-    "iconName": "Evelynn_OriginalSquare.png",
+    "iconName": "EvelynnSquare.png",
     "localizedName": "Эвелинн",
     "localizedTitle": "Объятия агонии",
     "positions": [
@@ -1253,7 +1253,7 @@
     ]
   },
   {
-    "iconName": "Ezreal_OriginalSquare.png",
+    "iconName": "EzrealSquare.png",
     "localizedName": "Эзреаль",
     "localizedTitle": "Вольный исследователь",
     "positions": [
@@ -1261,7 +1261,7 @@
     ]
   },
   {
-    "iconName": "Ekko_OriginalSquare.png",
+    "iconName": "EkkoSquare.png",
     "localizedName": "Экко",
     "localizedTitle": "Покоритель времени",
     "positions": [
@@ -1270,7 +1270,7 @@
     ]
   },
   {
-    "iconName": "Elise_OriginalSquare.png",
+    "iconName": "EliseSquare.png",
     "localizedName": "Элиза",
     "localizedTitle": "Королева пауков",
     "positions": [
@@ -1278,7 +1278,7 @@
     ]
   },
   {
-    "iconName": "Annie_OriginalSquare.png",
+    "iconName": "AnnieSquare.png",
     "localizedName": "Энни",
     "localizedTitle": "Темное дитя",
     "positions": [
@@ -1286,7 +1286,7 @@
     ]
   },
   {
-    "iconName": "Ashe_OriginalSquare.png",
+    "iconName": "AsheSquare.png",
     "localizedName": "Эш",
     "localizedTitle": "Ледяная лучница",
     "positions": [
@@ -1294,7 +1294,7 @@
     ]
   },
   {
-    "iconName": "Yuumi_OriginalSquare.png",
+    "iconName": "YuumiSquare.png",
     "localizedName": "Юми",
     "localizedTitle": "Волшебная кошка",
     "positions": [
@@ -1302,7 +1302,7 @@
     ]
   },
   {
-    "iconName": "Yasuo_OriginalSquare.png",
+    "iconName": "YasuoSquare.png",
     "localizedName": "Ясуо",
     "localizedTitle": "Непрощенный",
     "positions": [

@@ -4,6 +4,7 @@
 #include <QComboBox>
 #include <QLabel>
 #include <QRadioButton>
+#include <QFileInfo>
 #include "JsonCharacterReader.h"
 
 PickerWidget::PickerWidget(QWidget *parent)
@@ -94,7 +95,7 @@ void PickerWidget::fillUserChoiceLayout(QVBoxLayout* userChoiceLayout)
                     continue;
 
                 auto pos = positionRadioButtonPair.first;
-                connect(positionRadioButtonPair.second, &QAbstractButton::toggled, [this, pos](bool checked){
+                connect(positionRadioButtonPair.second, &QAbstractButton::clicked, [this, pos](bool checked){
                     if (checked) this->changePosition(pos);
                 });
             }
@@ -119,6 +120,8 @@ void PickerWidget::fillUserChoiceLayout(QVBoxLayout* userChoiceLayout)
         }
     }
 
+    userChoiceLayout->addStretch(1);
+
     changeChoiceVariant(m_choiceVariant);
 }
 
@@ -141,6 +144,8 @@ void PickerWidget::fillChosenChampionLayout(QVBoxLayout* chosenChampionLayout)
     connect(this, &PickerWidget::changeChosenChampionLocalizedTitle, [localizedTitleLabel](const QString& localizedTitle){
         localizedTitleLabel->setText(localizedTitle);
     });
+
+    chosenChampionLayout->addStretch(1);
 }
 
 void PickerWidget::changeChoiceVariant(ChampionPicker::ChoiceVariant choiceVariant)
@@ -193,14 +198,29 @@ void PickerWidget::pickChampion()
 
 void PickerWidget::changeChosenChampion(Champion &champion)
 {
-    //Заготовка под загрузку иконок из ресурсов
-    /*
-    QString iconPath = QString("Icons/Positions/") + champion.GetIconName();
-    qDebug() << "iconPath" << iconPath;
-    QPixmap iconPixmap(iconPath);
+    //Загрузка иконки
+    bool iconFound = false;
+    auto iconName = champion.GetIconName();
+    QString iconsDir = "Icons/Champions/";
+    QString iconPath = iconsDir + iconName;
 
-    emit changeChosenChampionIconName(iconPixmap);
-    */
+    //Проверка файла на существование
+    {
+        QFileInfo iconFile(iconPath);
+        if (iconFile.exists() && iconFile.isFile())
+            iconFound = true;
+    }
+
+
+    if (iconFound)
+    {
+        QPixmap iconPixmap(iconPath);
+        emit changeChosenChampionIconName(iconPixmap);
+    }
+    else
+    {
+        qDebug() << iconPath;
+    }
     emit changeChosenChampionLocalizedName(champion.GetLocalizedName());
     emit changeChosenChampionLocalizedTitle(champion.GetLocalizedTitle());
 }

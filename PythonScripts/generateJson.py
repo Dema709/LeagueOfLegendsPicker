@@ -1,4 +1,4 @@
-# Запуск через py.exe .\generate.py
+# Запуск через py.exe .\generateJson.py
 
 # Генератор json файла для чемпионов
 
@@ -20,7 +20,7 @@ class Champion():
 champions = []
 
 # Входной файл с чемпионами и его структура
-championsInputFileName = "champions.txt"
+championsInputFileName = "ChampionsInfo/champions.txt"
 linesForOneChampion = 4
 
 # Заполнение первичных данных о чемпионах из https://leagueoflegends.fandom.com/ru/wiki/Список_чемпионов
@@ -35,7 +35,10 @@ try:
         line = line.replace('\n', '')
         #Иконка
         if rem == 0:
-            champion.iconName = line.replace(' ', '_')
+            line = line.replace(' ', '')
+            line = line.replace("OriginalSquare", "Square")
+            line = line.replace('\'', "")
+            champion.iconName = line
         elif rem == 1:
             champion.localizedName = line
         elif rem == 2:
@@ -59,7 +62,7 @@ if not everythingOk:
     exit
 
 # Входной файл с позициями и его структура
-positionsInputFileName = "championPositions.txt"
+positionsInputFileName = "ChampionsInfo/championPositions.txt"
 
 # Добавление позиций из https://ru.op.gg/champion/statistics
 # Т.к. давно не обновлялся сайт https://leagueoflegends.fandom.com/ru/wiki/Список_чемпионов/Позиции
@@ -108,7 +111,7 @@ finally:
 
 #Формирование json
 print("-> Формирование json")
-outputFileName = "champions.json"
+outputFileName = "../champions.json"
 with open(outputFileName, 'w') as outfile:
     #Конвертация в список словарей
     championsDict = []

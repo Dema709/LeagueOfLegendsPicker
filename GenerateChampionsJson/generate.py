@@ -117,4 +117,4 @@ with open(outputFileName, 'w') as outfile:
         championsDict.append(champion.convertToDict())
     #Запись в json
     #indent - количество отступов на уровень / строка вместо отступа
-    json.dump(championsDict, outfile, ensure_ascii=False, indent=2)
+    json.dump(championsDict, outfile, ensure_ascii=False, indent=2)#dict(champions=championsDict)

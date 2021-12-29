@@ -2,11 +2,21 @@
 #define CHAMPION_H
 
 #include <QString>
-
-//Структура взята согласована с https://leagueoflegends.fandom.com/ru/wiki/Список_чемпионов
+#include <set>
 
 class Champion
 {
+public:
+    //Предпочитаемые позиции
+    enum class ChampionPositions
+    {
+        Top = 0,
+        Jungle,
+        Mid,
+        Bottom,
+        Support
+    };
+
 public:
     Champion() = default;
     ~Champion() = default;
@@ -20,11 +30,15 @@ public:
     const QString &GetLocalizedTitle() const;
     void SetLocalizedTitle(const QString &newLocalizedTitle);
 
+    const std::set<ChampionPositions> &GetPositions() const;
+    void AddPosition(ChampionPositions newPosition);
+
 private:
 
     QString m_localizedName;
     QString m_iconName;
     QString m_localizedTitle;
+    std::set<ChampionPositions> m_positions;
 };
 
 #endif // CHAMPION_H

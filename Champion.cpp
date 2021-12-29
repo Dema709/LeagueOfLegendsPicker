@@ -29,3 +29,13 @@ void Champion::SetLocalizedTitle(const QString &newLocalizedTitle)
 {
     m_localizedTitle = newLocalizedTitle;
 }
+
+const std::set<Champion::ChampionPositions> &Champion::GetPositions() const
+{
+    return m_positions;
+}
+
+void Champion::AddPosition(ChampionPositions newPosition)
+{
+    m_positions.insert(newPosition);
+}

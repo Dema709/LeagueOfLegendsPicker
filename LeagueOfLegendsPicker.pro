@@ -10,11 +10,13 @@ CONFIG += c++11
 
 SOURCES += \
     Champion.cpp \
+    JsonCharacterReader.cpp \
     main.cpp \
     PickerWidget.cpp
 
 HEADERS += \
     Champion.h \
+    JsonCharacterReader.h \
     PickerWidget.h
 
 # Default rules for deployment.

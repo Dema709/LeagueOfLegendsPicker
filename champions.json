@@ -6,7 +6,8 @@
     "positions": [
       "Mid",
       "Top"
-    ]
+    ],
+    "championClass": "Assassin"
   },
   {
     "iconName": "AzirSquare.png",
@@ -14,7 +15,8 @@
     "localizedTitle": "Император песков",
     "positions": [
       "Mid"
-    ]
+    ],
+    "championClass": "Mage"
   },
   {
     "iconName": "AkaliSquare.png",
@@ -23,16 +25,19 @@
     "positions": [
       "Mid",
       "Top"
-    ]
+    ],
+    "championClass": "Assassin"
   },
   {
     "iconName": "AkshanSquare.png",
     "localizedName": "Акшан",
     "localizedTitle": "Своевольный Страж",
     "positions": [
+      "Bottom",
       "Mid",
       "Top"
-    ]
+    ],
+    "championClass": "Marksman"
   },
   {
     "iconName": "AlistarSquare.png",
@@ -40,7 +45,8 @@
     "localizedTitle": "Минотавр",
     "positions": [
       "Support"
-    ]
+    ],
+    "championClass": "Tank"
   },
   {
     "iconName": "AmumuSquare.png",
@@ -49,7 +55,8 @@
     "positions": [
       "Jungle",
       "Support"
-    ]
+    ],
+    "championClass": "Tank"
   },
   {
     "iconName": "AniviaSquare.png",
@@ -58,15 +65,18 @@
     "positions": [
       "Mid",
       "Support"
-    ]
+    ],
+    "championClass": "Mage"
   },
   {
     "iconName": "AhriSquare.png",
     "localizedName": "Ари",
     "localizedTitle": "Девятихвостая лиса",
     "positions": [
-      "Mid"
-    ]
+      "Mid",
+      "Support"
+    ],
+    "championClass": "Mage"
   },
   {
     "iconName": "AatroxSquare.png",
@@ -75,7 +85,8 @@
     "positions": [
       "Mid",
       "Top"
-    ]
+    ],
+    "championClass": "Fighter"
   },
   {
     "iconName": "AurelionSolSquare.png",
@@ -83,7 +94,8 @@
     "localizedTitle": "Создатель звезд",
     "positions": [
       "Mid"
-    ]
+    ],
+    "championClass": "Mage"
   },
   {
     "iconName": "ApheliosSquare.png",
@@ -91,7 +103,8 @@
     "localizedTitle": "Оружие веры",
     "positions": [
       "Bottom"
-    ]
+    ],
+    "championClass": "Marksman"
   },
   {
     "iconName": "BardSquare.png",
@@ -99,7 +112,8 @@
     "localizedTitle": "Странствующий хранитель",
     "positions": [
       "Support"
-    ]
+    ],
+    "championClass": "Support"
   },
   {
     "iconName": "BlitzcrankSquare.png",
@@ -107,7 +121,8 @@
     "localizedTitle": "Великий паровой голем",
     "positions": [
       "Support"
-    ]
+    ],
+    "championClass": "Tank"
   },
   {
     "iconName": "BraumSquare.png",
@@ -115,7 +130,8 @@
     "localizedTitle": "Сердце Фрельйорда",
     "positions": [
       "Support"
-    ]
+    ],
+    "championClass": "Support"
   },
   {
     "iconName": "BrandSquare.png",
@@ -123,7 +139,8 @@
     "localizedTitle": "Пылающее возмездие",
     "positions": [
       "Support"
-    ]
+    ],
+    "championClass": "Mage"
   },
   {
     "iconName": "ViSquare.png",
@@ -131,7 +148,8 @@
     "localizedTitle": "Пилтоверский миротворец",
     "positions": [
       "Jungle"
-    ]
+    ],
+    "championClass": "Fighter"
   },
   {
     "iconName": "WarwickSquare.png",
@@ -140,7 +158,8 @@
     "positions": [
       "Jungle",
       "Top"
-    ]
+    ],
+    "championClass": "Fighter"
   },
   {
     "iconName": "VarusSquare.png",
@@ -148,16 +167,19 @@
     "localizedTitle": "Стрела возмездия",
     "positions": [
       "Bottom"
-    ]
+    ],
+    "championClass": "Marksman"
   },
   {
     "iconName": "VeigarSquare.png",
     "localizedName": "Вейгар",
     "localizedTitle": "Маленький повелитель зла",
     "positions": [
+      "Bottom",
       "Mid",
       "Support"
-    ]
+    ],
+    "championClass": "Mage"
   },
   {
     "iconName": "VayneSquare.png",
@@ -166,7 +188,8 @@
     "positions": [
       "Bottom",
       "Top"
-    ]
+    ],
+    "championClass": "Marksman"
   },
   {
     "iconName": "VexSquare.png",
@@ -175,7 +198,8 @@
     "positions": [
       "Mid",
       "Support"
-    ]
+    ],
+    "championClass": "Mage"
   },
   {
     "iconName": "VelKozSquare.png",
@@ -184,7 +208,8 @@
     "positions": [
       "Mid",
       "Support"
-    ]
+    ],
+    "championClass": "Mage"
   },
   {
     "iconName": "ViegoSquare.png",
@@ -192,7 +217,8 @@
     "localizedTitle": "Падший король",
     "positions": [
       "Jungle"
-    ]
+    ],
+    "championClass": "Assassin"
   },
   {
     "iconName": "ViktorSquare.png",
@@ -201,7 +227,8 @@
     "positions": [
       "Mid",
       "Top"
-    ]
+    ],
+    "championClass": "Mage"
   },
   {
     "iconName": "VladimirSquare.png",
@@ -210,7 +237,8 @@
     "positions": [
       "Mid",
       "Top"
-    ]
+    ],
+    "championClass": "Mage"
   },
   {
     "iconName": "VolibearSquare.png",
@@ -219,15 +247,18 @@
     "positions": [
       "Jungle",
       "Top"
-    ]
+    ],
+    "championClass": "Fighter"
   },
   {
     "iconName": "WukongSquare.png",
     "localizedName": "Вуконг",
     "localizedTitle": "Король обезьян",
     "positions": [
+      "Jungle",
       "Top"
-    ]
+    ],
+    "championClass": "Fighter"
   },
   {
     "iconName": "GalioSquare.png",
@@ -236,15 +267,18 @@
     "positions": [
       "Mid",
       "Support"
-    ]
+    ],
+    "championClass": "Tank"
   },
   {
     "iconName": "GangplankSquare.png",
     "localizedName": "Гангпланк",
     "localizedTitle": "Гроза морей",
     "positions": [
+      "Mid",
       "Top"
-    ]
+    ],
+    "championClass": "Fighter"
   },
   {
     "iconName": "GarenSquare.png",
@@ -253,7 +287,8 @@
     "positions": [
       "Mid",
       "Top"
-    ]
+    ],
+    "championClass": "Fighter"
   },
   {
     "iconName": "GwenSquare.png",
@@ -262,7 +297,8 @@
     "positions": [
       "Jungle",
       "Top"
-    ]
+    ],
+    "championClass": "Fighter"
   },
   {
     "iconName": "HecarimSquare.png",
@@ -270,7 +306,8 @@
     "localizedTitle": "Тень войны",
     "positions": [
       "Jungle"
-    ]
+    ],
+    "championClass": "Fighter"
   },
   {
     "iconName": "GnarSquare.png",
@@ -278,7 +315,8 @@
     "localizedTitle": "Недостающее звено",
     "positions": [
       "Top"
-    ]
+    ],
+    "championClass": "Fighter"
   },
   {
     "iconName": "GragasSquare.png",
@@ -288,7 +326,8 @@
       "Jungle",
       "Support",
       "Top"
-    ]
+    ],
+    "championClass": "Fighter"
   },
   {
     "iconName": "GravesSquare.png",
@@ -297,7 +336,8 @@
     "positions": [
       "Jungle",
       "Top"
-    ]
+    ],
+    "championClass": "Marksman"
   },
   {
     "iconName": "DariusSquare.png",
@@ -305,7 +345,8 @@
     "localizedTitle": "Рука Ноксуса",
     "positions": [
       "Top"
-    ]
+    ],
+    "championClass": "Fighter"
   },
   {
     "iconName": "JaxSquare.png",
@@ -315,7 +356,8 @@
       "Jungle",
       "Mid",
       "Top"
-    ]
+    ],
+    "championClass": "Fighter"
   },
   {
     "iconName": "JarvanIVSquare.png",
@@ -323,7 +365,8 @@
     "localizedTitle": "Воплощение Демасии",
     "positions": [
       "Jungle"
-    ]
+    ],
+    "championClass": "Tank"
   },
   {
     "iconName": "JayceSquare.png",
@@ -332,7 +375,8 @@
     "positions": [
       "Mid",
       "Top"
-    ]
+    ],
+    "championClass": "Fighter"
   },
   {
     "iconName": "JhinSquare.png",
@@ -340,7 +384,8 @@
     "localizedTitle": "Виртуоз",
     "positions": [
       "Bottom"
-    ]
+    ],
+    "championClass": "Marksman"
   },
   {
     "iconName": "JinxSquare.png",
@@ -348,7 +393,8 @@
     "localizedTitle": "Сорванная башня",
     "positions": [
       "Bottom"
-    ]
+    ],
+    "championClass": "NoClass"
   },
   {
     "iconName": "DianaSquare.png",
@@ -357,7 +403,8 @@
     "positions": [
       "Jungle",
       "Mid"
-    ]
+    ],
+    "championClass": "Fighter"
   },
   {
     "iconName": "Dr.MundoSquare.png",
@@ -365,7 +412,8 @@
     "localizedTitle": "Сумасшедший из Зауна",
     "positions": [
       "Top"
-    ]
+    ],
+    "championClass": "Fighter"
   },
   {
     "iconName": "DravenSquare.png",
@@ -373,7 +421,8 @@
     "localizedTitle": "Блистательный палач",
     "positions": [
       "Bottom"
-    ]
+    ],
+    "championClass": "Marksman"
   },
   {
     "iconName": "JannaSquare.png",
@@ -381,7 +430,8 @@
     "localizedTitle": "Ярость бури",
     "positions": [
       "Support"
-    ]
+    ],
+    "championClass": "Support"
   },
   {
     "iconName": "ZyraSquare.png",
@@ -389,7 +439,8 @@
     "localizedTitle": "Повелительница терний",
     "positions": [
       "Support"
-    ]
+    ],
+    "championClass": "Mage"
   },
   {
     "iconName": "ZacSquare.png",
@@ -399,7 +450,8 @@
       "Jungle",
       "Support",
       "Top"
-    ]
+    ],
+    "championClass": "Tank"
   },
   {
     "iconName": "ZedSquare.png",
@@ -408,7 +460,8 @@
     "positions": [
       "Jungle",
       "Mid"
-    ]
+    ],
+    "championClass": "Assassin"
   },
   {
     "iconName": "XerathSquare.png",
@@ -417,7 +470,8 @@
     "positions": [
       "Mid",
       "Support"
-    ]
+    ],
+    "championClass": "Mage"
   },
   {
     "iconName": "ZiggsSquare.png",
@@ -426,15 +480,18 @@
     "positions": [
       "Bottom",
       "Mid"
-    ]
+    ],
+    "championClass": "Mage"
   },
   {
     "iconName": "ZileanSquare.png",
     "localizedName": "Зилеан",
     "localizedTitle": "Хранитель времени",
     "positions": [
+      "Mid",
       "Support"
-    ]
+    ],
+    "championClass": "Support"
   },
   {
     "iconName": "ZoeSquare.png",
@@ -442,7 +499,8 @@
     "localizedTitle": "Звездная посланница",
     "positions": [
       "Mid"
-    ]
+    ],
+    "championClass": "Mage"
   },
   {
     "iconName": "IvernSquare.png",
@@ -450,7 +508,8 @@
     "localizedTitle": "Зеленый отец",
     "positions": [
       "Jungle"
-    ]
+    ],
+    "championClass": "Support"
   },
   {
     "iconName": "IllaoiSquare.png",
@@ -458,7 +517,8 @@
     "localizedTitle": "Жрица матери глубин",
     "positions": [
       "Top"
-    ]
+    ],
+    "championClass": "Fighter"
   },
   {
     "iconName": "IreliaSquare.png",
@@ -467,7 +527,8 @@
     "positions": [
       "Mid",
       "Top"
-    ]
+    ],
+    "championClass": "Fighter"
   },
   {
     "iconName": "YorickSquare.png",
@@ -475,7 +536,8 @@
     "localizedTitle": "Пастух заблудших душ",
     "positions": [
       "Top"
-    ]
+    ],
+    "championClass": "Fighter"
   },
   {
     "iconName": "KhaZixSquare.png",
@@ -483,7 +545,8 @@
     "localizedTitle": "Хищник из Бездны",
     "positions": [
       "Jungle"
-    ]
+    ],
+    "championClass": "Assassin"
   },
   {
     "iconName": "KaynSquare.png",
@@ -491,7 +554,8 @@
     "localizedTitle": "Сумеречный жнец",
     "positions": [
       "Jungle"
-    ]
+    ],
+    "championClass": "Fighter"
   },
   {
     "iconName": "KaiSaSquare.png",
@@ -499,7 +563,8 @@
     "localizedTitle": "Дочь Бездны",
     "positions": [
       "Bottom"
-    ]
+    ],
+    "championClass": "Marksman"
   },
   {
     "iconName": "KalistaSquare.png",
@@ -507,7 +572,8 @@
     "localizedTitle": "Копье возмездия",
     "positions": [
       "Bottom"
-    ]
+    ],
+    "championClass": "Marksman"
   },
   {
     "iconName": "CamilleSquare.png",
@@ -515,7 +581,8 @@
     "localizedTitle": "Стальная тень",
     "positions": [
       "Top"
-    ]
+    ],
+    "championClass": "Fighter"
   },
   {
     "iconName": "KarmaSquare.png",
@@ -523,15 +590,19 @@
     "localizedTitle": "Просвещенная",
     "positions": [
       "Support"
-    ]
+    ],
+    "championClass": "Mage"
   },
   {
     "iconName": "KarthusSquare.png",
     "localizedName": "Картус",
     "localizedTitle": "Певец смерти",
     "positions": [
-      "Jungle"
-    ]
+      "Bottom",
+      "Jungle",
+      "Mid"
+    ],
+    "championClass": "Mage"
   },
   {
     "iconName": "KassadinSquare.png",
@@ -539,7 +610,8 @@
     "localizedTitle": "Скиталец Бездны",
     "positions": [
       "Mid"
-    ]
+    ],
+    "championClass": "Assassin"
   },
   {
     "iconName": "CassiopeiaSquare.png",
@@ -549,7 +621,8 @@
       "Bottom",
       "Mid",
       "Top"
-    ]
+    ],
+    "championClass": "Mage"
   },
   {
     "iconName": "KatarinaSquare.png",
@@ -557,7 +630,8 @@
     "localizedTitle": "Гибельный клинок",
     "positions": [
       "Mid"
-    ]
+    ],
+    "championClass": "Assassin"
   },
   {
     "iconName": "QuinnSquare.png",
@@ -565,7 +639,8 @@
     "localizedTitle": "Крылья Демасии",
     "positions": [
       "Top"
-    ]
+    ],
+    "championClass": "Marksman"
   },
   {
     "iconName": "KayleSquare.png",
@@ -574,7 +649,8 @@
     "positions": [
       "Mid",
       "Top"
-    ]
+    ],
+    "championClass": "Fighter"
   },
   {
     "iconName": "CaitlynSquare.png",
@@ -582,15 +658,18 @@
     "localizedTitle": "Шериф Пилтовера",
     "positions": [
       "Bottom"
-    ]
+    ],
+    "championClass": "Marksman"
   },
   {
     "iconName": "KennenSquare.png",
     "localizedName": "Кеннен",
     "localizedTitle": "Сердце бури",
     "positions": [
+      "Mid",
       "Top"
-    ]
+    ],
+    "championClass": "Mage"
   },
   {
     "iconName": "QiyanaSquare.png",
@@ -599,7 +678,8 @@
     "positions": [
       "Jungle",
       "Mid"
-    ]
+    ],
+    "championClass": "Assassin"
   },
   {
     "iconName": "KindredSquare.png",
@@ -607,7 +687,8 @@
     "localizedTitle": "Вечные охотники",
     "positions": [
       "Jungle"
-    ]
+    ],
+    "championClass": "Marksman"
   },
   {
     "iconName": "KledSquare.png",
@@ -615,7 +696,8 @@
     "localizedTitle": "Сварливый кавалерист",
     "positions": [
       "Top"
-    ]
+    ],
+    "championClass": "Fighter"
   },
   {
     "iconName": "KogMawSquare.png",
@@ -623,7 +705,8 @@
     "localizedTitle": "Пасть Бездны",
     "positions": [
       "Bottom"
-    ]
+    ],
+    "championClass": "Marksman"
   },
   {
     "iconName": "CorkiSquare.png",
@@ -631,7 +714,8 @@
     "localizedTitle": "Отважный бомбардир",
     "positions": [
       "Mid"
-    ]
+    ],
+    "championClass": "Marksman"
   },
   {
     "iconName": "XinZhaoSquare.png",
@@ -639,7 +723,8 @@
     "localizedTitle": "Сенешаль Демасии",
     "positions": [
       "Jungle"
-    ]
+    ],
+    "championClass": "Fighter"
   },
   {
     "iconName": "LeBlancSquare.png",
@@ -647,7 +732,8 @@
     "localizedTitle": "Обманщица",
     "positions": [
       "Mid"
-    ]
+    ],
+    "championClass": "Assassin"
   },
   {
     "iconName": "LeonaSquare.png",
@@ -655,7 +741,8 @@
     "localizedTitle": "Ослепительный рассвет",
     "positions": [
       "Support"
-    ]
+    ],
+    "championClass": "Tank"
   },
   {
     "iconName": "LeeSinSquare.png",
@@ -663,15 +750,18 @@
     "localizedTitle": "Слепой монах",
     "positions": [
       "Jungle"
-    ]
+    ],
+    "championClass": "Fighter"
   },
   {
     "iconName": "LilliaSquare.png",
     "localizedName": "Лиллия",
     "localizedTitle": "Робкий цветок",
     "positions": [
-      "Jungle"
-    ]
+      "Jungle",
+      "Top"
+    ],
+    "championClass": "Fighter"
   },
   {
     "iconName": "LissandraSquare.png",
@@ -679,7 +769,8 @@
     "localizedTitle": "Ледяная ведьма",
     "positions": [
       "Mid"
-    ]
+    ],
+    "championClass": "Mage"
   },
   {
     "iconName": "LuluSquare.png",
@@ -687,7 +778,8 @@
     "localizedTitle": "Волшебница фей",
     "positions": [
       "Support"
-    ]
+    ],
+    "championClass": "Support"
   },
   {
     "iconName": "LuxSquare.png",
@@ -696,7 +788,8 @@
     "positions": [
       "Mid",
       "Support"
-    ]
+    ],
+    "championClass": "Mage"
   },
   {
     "iconName": "LucianSquare.png",
@@ -706,7 +799,8 @@
       "Bottom",
       "Mid",
       "Top"
-    ]
+    ],
+    "championClass": "Marksman"
   },
   {
     "iconName": "MalzaharSquare.png",
@@ -714,7 +808,8 @@
     "localizedTitle": "Пророк Бездны",
     "positions": [
       "Mid"
-    ]
+    ],
+    "championClass": "Mage"
   },
   {
     "iconName": "MalphiteSquare.png",
@@ -723,7 +818,8 @@
     "positions": [
       "Mid",
       "Top"
-    ]
+    ],
+    "championClass": "Tank"
   },
   {
     "iconName": "MaokaiSquare.png",
@@ -732,7 +828,8 @@
     "positions": [
       "Support",
       "Top"
-    ]
+    ],
+    "championClass": "Tank"
   },
   {
     "iconName": "MasterYiSquare.png",
@@ -740,7 +837,8 @@
     "localizedTitle": "Мечник Вуджу",
     "positions": [
       "Jungle"
-    ]
+    ],
+    "championClass": "Assassin"
   },
   {
     "iconName": "MissFortuneSquare.png",
@@ -749,7 +847,8 @@
     "positions": [
       "Bottom",
       "Support"
-    ]
+    ],
+    "championClass": "Marksman"
   },
   {
     "iconName": "MorganaSquare.png",
@@ -757,15 +856,18 @@
     "localizedTitle": "Падшая",
     "positions": [
       "Support"
-    ]
+    ],
+    "championClass": "Mage"
   },
   {
     "iconName": "MordekaiserSquare.png",
     "localizedName": "Мордекайзер",
     "localizedTitle": "Железный призрак",
     "positions": [
+      "Jungle",
       "Top"
-    ]
+    ],
+    "championClass": "Fighter"
   },
   {
     "iconName": "NamiSquare.png",
@@ -773,7 +875,8 @@
     "localizedTitle": "Повелительница морей",
     "positions": [
       "Support"
-    ]
+    ],
+    "championClass": "Support"
   },
   {
     "iconName": "NasusSquare.png",
@@ -781,7 +884,8 @@
     "localizedTitle": "Хранитель песков",
     "positions": [
       "Top"
-    ]
+    ],
+    "championClass": "Fighter"
   },
   {
     "iconName": "NautilusSquare.png",
@@ -789,7 +893,8 @@
     "localizedTitle": "Титан глубин",
     "positions": [
       "Support"
-    ]
+    ],
+    "championClass": "Tank"
   },
   {
     "iconName": "NidaleeSquare.png",
@@ -797,7 +902,8 @@
     "localizedTitle": "Дикая охотница",
     "positions": [
       "Jungle"
-    ]
+    ],
+    "championClass": "Assassin"
   },
   {
     "iconName": "NeekoSquare.png",
@@ -806,7 +912,8 @@
     "positions": [
       "Mid",
       "Support"
-    ]
+    ],
+    "championClass": "Mage"
   },
   {
     "iconName": "NocturneSquare.png",
@@ -814,7 +921,8 @@
     "localizedTitle": "Извечный кошмар",
     "positions": [
       "Jungle"
-    ]
+    ],
+    "championClass": "Assassin"
   },
   {
     "iconName": "NunuSquare.png",
@@ -823,15 +931,18 @@
     "positions": [
       "Jungle",
       "Mid"
-    ]
+    ],
+    "championClass": "Tank"
   },
   {
     "iconName": "OlafSquare.png",
     "localizedName": "Олаф",
     "localizedTitle": "Берсерк",
     "positions": [
-      "Jungle"
-    ]
+      "Jungle",
+      "Top"
+    ],
+    "championClass": "Fighter"
   },
   {
     "iconName": "OriannaSquare.png",
@@ -839,7 +950,8 @@
     "localizedTitle": "Заводная леди",
     "positions": [
       "Mid"
-    ]
+    ],
+    "championClass": "Mage"
   },
   {
     "iconName": "OrnnSquare.png",
@@ -847,15 +959,18 @@
     "localizedTitle": "Пламя Горных Глубин",
     "positions": [
       "Top"
-    ]
+    ],
+    "championClass": "Tank"
   },
   {
     "iconName": "PykeSquare.png",
     "localizedName": "Пайк",
     "localizedTitle": "Потрошитель из Кровавой гавани",
     "positions": [
+      "Mid",
       "Support"
-    ]
+    ],
+    "championClass": "Support"
   },
   {
     "iconName": "PantheonSquare.png",
@@ -863,8 +978,10 @@
     "localizedTitle": "Несокрушимое Копье",
     "positions": [
       "Mid",
-      "Support"
-    ]
+      "Support",
+      "Top"
+    ],
+    "championClass": "Fighter"
   },
   {
     "iconName": "PoppySquare.png",
@@ -874,7 +991,8 @@
       "Jungle",
       "Support",
       "Top"
-    ]
+    ],
+    "championClass": "Tank"
   },
   {
     "iconName": "RyzeSquare.png",
@@ -883,7 +1001,8 @@
     "positions": [
       "Mid",
       "Top"
-    ]
+    ],
+    "championClass": "Mage"
   },
   {
     "iconName": "RumbleSquare.png",
@@ -893,7 +1012,8 @@
       "Jungle",
       "Mid",
       "Top"
-    ]
+    ],
+    "championClass": "Fighter"
   },
   {
     "iconName": "RammusSquare.png",
@@ -901,7 +1021,8 @@
     "localizedTitle": "Броненосец",
     "positions": [
       "Jungle"
-    ]
+    ],
+    "championClass": "Tank"
   },
   {
     "iconName": "RekSaiSquare.png",
@@ -909,7 +1030,8 @@
     "localizedTitle": "Хозяка недр Бездны",
     "positions": [
       "Jungle"
-    ]
+    ],
+    "championClass": "Fighter"
   },
   {
     "iconName": "RellSquare.png",
@@ -917,7 +1039,8 @@
     "localizedTitle": "Железная дева",
     "positions": [
       "Support"
-    ]
+    ],
+    "championClass": "Tank"
   },
   {
     "iconName": "RengarSquare.png",
@@ -926,7 +1049,8 @@
     "positions": [
       "Jungle",
       "Top"
-    ]
+    ],
+    "championClass": "Assassin"
   },
   {
     "iconName": "RenektonSquare.png",
@@ -935,7 +1059,8 @@
     "positions": [
       "Mid",
       "Top"
-    ]
+    ],
+    "championClass": "Fighter"
   },
   {
     "iconName": "RivenSquare.png",
@@ -944,7 +1069,8 @@
     "positions": [
       "Mid",
       "Top"
-    ]
+    ],
+    "championClass": "Fighter"
   },
   {
     "iconName": "RakanSquare.png",
@@ -952,7 +1078,8 @@
     "localizedTitle": "Обольститель",
     "positions": [
       "Support"
-    ]
+    ],
+    "championClass": "Support"
   },
   {
     "iconName": "SylasSquare.png",
@@ -961,7 +1088,8 @@
     "positions": [
       "Mid",
       "Top"
-    ]
+    ],
+    "championClass": "Mage"
   },
   {
     "iconName": "SamiraSquare.png",
@@ -969,7 +1097,8 @@
     "localizedTitle": "Пустынная роза",
     "positions": [
       "Bottom"
-    ]
+    ],
+    "championClass": "Marksman"
   },
   {
     "iconName": "SwainSquare.png",
@@ -978,31 +1107,38 @@
     "positions": [
       "Bottom",
       "Support"
-    ]
+    ],
+    "championClass": "Mage"
   },
   {
     "iconName": "SejuaniSquare.png",
     "localizedName": "Седжуани",
     "localizedTitle": "Ярость севера",
     "positions": [
-      "Jungle"
-    ]
+      "Jungle",
+      "Top"
+    ],
+    "championClass": "Tank"
   },
   {
     "iconName": "SennaSquare.png",
     "localizedName": "Сенна",
     "localizedTitle": "Освободительница",
     "positions": [
+      "Bottom",
       "Support"
-    ]
+    ],
+    "championClass": "Marksman"
   },
   {
     "iconName": "SeraphineSquare.png",
     "localizedName": "Серафина",
     "localizedTitle": "Мечтательная певица",
     "positions": [
+      "Mid",
       "Support"
-    ]
+    ],
+    "championClass": "Mage"
   },
   {
     "iconName": "SettSquare.png",
@@ -1012,7 +1148,8 @@
       "Mid",
       "Support",
       "Top"
-    ]
+    ],
+    "championClass": "Fighter"
   },
   {
     "iconName": "SivirSquare.png",
@@ -1020,15 +1157,18 @@
     "localizedTitle": "Королева сражений",
     "positions": [
       "Bottom"
-    ]
+    ],
+    "championClass": "Marksman"
   },
   {
     "iconName": "SingedSquare.png",
     "localizedName": "Синджед",
     "localizedTitle": "Безумный химик",
     "positions": [
+      "Mid",
       "Top"
-    ]
+    ],
+    "championClass": "Tank"
   },
   {
     "iconName": "SyndraSquare.png",
@@ -1036,7 +1176,8 @@
     "localizedTitle": "Темная властительница",
     "positions": [
       "Mid"
-    ]
+    ],
+    "championClass": "Mage"
   },
   {
     "iconName": "SionSquare.png",
@@ -1044,7 +1185,8 @@
     "localizedTitle": "Восставший сокрушитель",
     "positions": [
       "Top"
-    ]
+    ],
+    "championClass": "Tank"
   },
   {
     "iconName": "SkarnerSquare.png",
@@ -1052,7 +1194,8 @@
     "localizedTitle": "Кристальный страж",
     "positions": [
       "Jungle"
-    ]
+    ],
+    "championClass": "Fighter"
   },
   {
     "iconName": "SonaSquare.png",
@@ -1060,7 +1203,8 @@
     "localizedTitle": "Виртуоз струн",
     "positions": [
       "Support"
-    ]
+    ],
+    "championClass": "Support"
   },
   {
     "iconName": "SorakaSquare.png",
@@ -1068,7 +1212,8 @@
     "localizedTitle": "Звездное дитя",
     "positions": [
       "Support"
-    ]
+    ],
+    "championClass": "Support"
   },
   {
     "iconName": "TahmKenchSquare.png",
@@ -1076,15 +1221,18 @@
     "localizedTitle": "Речной царь",
     "positions": [
       "Top"
-    ]
+    ],
+    "championClass": "Support"
   },
   {
     "iconName": "TaliyahSquare.png",
     "localizedName": "Талия",
     "localizedTitle": "Прядущая камни",
     "positions": [
-      "Jungle"
-    ]
+      "Jungle",
+      "Support"
+    ],
+    "championClass": "Mage"
   },
   {
     "iconName": "TalonSquare.png",
@@ -1093,7 +1241,8 @@
     "positions": [
       "Jungle",
       "Mid"
-    ]
+    ],
+    "championClass": "Assassin"
   },
   {
     "iconName": "TaricSquare.png",
@@ -1101,7 +1250,8 @@
     "localizedTitle": "Щит Валорана",
     "positions": [
       "Support"
-    ]
+    ],
+    "championClass": "Support"
   },
   {
     "iconName": "TwistedFateSquare.png",
@@ -1109,23 +1259,28 @@
     "localizedTitle": "Мастер карт",
     "positions": [
       "Mid"
-    ]
+    ],
+    "championClass": "Mage"
   },
   {
     "iconName": "TwitchSquare.png",
     "localizedName": "Твич",
     "localizedTitle": "Чумная крыса",
     "positions": [
-      "Bottom"
-    ]
+      "Bottom",
+      "Support"
+    ],
+    "championClass": "Marksman"
   },
   {
     "iconName": "TeemoSquare.png",
     "localizedName": "Тимо",
     "localizedTitle": "Шустрый скаут",
     "positions": [
+      "Support",
       "Top"
-    ]
+    ],
+    "championClass": "Marksman"
   },
   {
     "iconName": "TrundleSquare.png",
@@ -1135,7 +1290,8 @@
       "Jungle",
       "Support",
       "Top"
-    ]
+    ],
+    "championClass": "Fighter"
   },
   {
     "iconName": "ThreshSquare.png",
@@ -1143,7 +1299,8 @@
     "localizedTitle": "Страж цепей",
     "positions": [
       "Support"
-    ]
+    ],
+    "championClass": "Support"
   },
   {
     "iconName": "TryndamereSquare.png",
@@ -1152,7 +1309,8 @@
     "positions": [
       "Mid",
       "Top"
-    ]
+    ],
+    "championClass": "Fighter"
   },
   {
     "iconName": "TristanaSquare.png",
@@ -1160,7 +1318,8 @@
     "localizedTitle": "Йордлский канонир",
     "positions": [
       "Bottom"
-    ]
+    ],
+    "championClass": "Marksman"
   },
   {
     "iconName": "UdyrSquare.png",
@@ -1168,7 +1327,8 @@
     "localizedTitle": "Странник духов",
     "positions": [
       "Jungle"
-    ]
+    ],
+    "championClass": "Fighter"
   },
   {
     "iconName": "UrgotSquare.png",
@@ -1176,7 +1336,8 @@
     "localizedTitle": "Дредноут",
     "positions": [
       "Top"
-    ]
+    ],
+    "championClass": "Fighter"
   },
   {
     "iconName": "FiddlesticksSquare.png",
@@ -1184,7 +1345,8 @@
     "localizedTitle": "Древний ужас",
     "positions": [
       "Jungle"
-    ]
+    ],
+    "championClass": "Mage"
   },
   {
     "iconName": "FizzSquare.png",
@@ -1192,7 +1354,8 @@
     "localizedTitle": "Морской ловкач",
     "positions": [
       "Mid"
-    ]
+    ],
+    "championClass": "Assassin"
   },
   {
     "iconName": "FioraSquare.png",
@@ -1200,24 +1363,30 @@
     "localizedTitle": "Бесподобный дуэлянт",
     "positions": [
       "Top"
-    ]
+    ],
+    "championClass": "Fighter"
   },
   {
     "iconName": "HeimerdingerSquare.png",
     "localizedName": "Хеймердингер",
     "localizedTitle": "Одержимый ученый",
     "positions": [
+      "Bottom",
       "Mid",
+      "Support",
       "Top"
-    ]
+    ],
+    "championClass": "Mage"
   },
   {
     "iconName": "ChoGathSquare.png",
     "localizedName": "Чо'Гат",
     "localizedTitle": "Ужас Бездны",
     "positions": [
+      "Mid",
       "Top"
-    ]
+    ],
+    "championClass": "Tank"
   },
   {
     "iconName": "ShacoSquare.png",
@@ -1226,7 +1395,8 @@
     "positions": [
       "Jungle",
       "Support"
-    ]
+    ],
+    "championClass": "Assassin"
   },
   {
     "iconName": "XayahSquare.png",
@@ -1234,7 +1404,8 @@
     "localizedTitle": "Бунтарка",
     "positions": [
       "Bottom"
-    ]
+    ],
+    "championClass": "Marksman"
   },
   {
     "iconName": "ShenSquare.png",
@@ -1243,7 +1414,8 @@
     "positions": [
       "Support",
       "Top"
-    ]
+    ],
+    "championClass": "Tank"
   },
   {
     "iconName": "ShyvanaSquare.png",
@@ -1251,7 +1423,8 @@
     "localizedTitle": "Полудракон",
     "positions": [
       "Jungle"
-    ]
+    ],
+    "championClass": "Fighter"
   },
   {
     "iconName": "EvelynnSquare.png",
@@ -1259,7 +1432,8 @@
     "localizedTitle": "Объятия агонии",
     "positions": [
       "Jungle"
-    ]
+    ],
+    "championClass": "Assassin"
   },
   {
     "iconName": "EzrealSquare.png",
@@ -1267,7 +1441,8 @@
     "localizedTitle": "Вольный исследователь",
     "positions": [
       "Bottom"
-    ]
+    ],
+    "championClass": "Marksman"
   },
   {
     "iconName": "EkkoSquare.png",
@@ -1276,7 +1451,8 @@
     "positions": [
       "Jungle",
       "Mid"
-    ]
+    ],
+    "championClass": "Assassin"
   },
   {
     "iconName": "EliseSquare.png",
@@ -1284,23 +1460,28 @@
     "localizedTitle": "Королева пауков",
     "positions": [
       "Jungle"
-    ]
+    ],
+    "championClass": "Mage"
   },
   {
     "iconName": "AnnieSquare.png",
     "localizedName": "Энни",
     "localizedTitle": "Темное дитя",
     "positions": [
-      "Mid"
-    ]
+      "Mid",
+      "Support"
+    ],
+    "championClass": "Mage"
   },
   {
     "iconName": "AsheSquare.png",
     "localizedName": "Эш",
     "localizedTitle": "Ледяная лучница",
     "positions": [
-      "Bottom"
-    ]
+      "Bottom",
+      "Support"
+    ],
+    "championClass": "Marksman"
   },
   {
     "iconName": "YuumiSquare.png",
@@ -1308,7 +1489,8 @@
     "localizedTitle": "Волшебная кошка",
     "positions": [
       "Support"
-    ]
+    ],
+    "championClass": "Support"
   },
   {
     "iconName": "YasuoSquare.png",
@@ -1318,6 +1500,7 @@
       "Bottom",
       "Mid",
       "Top"
-    ]
+    ],
+    "championClass": "Fighter"
   }
 ]

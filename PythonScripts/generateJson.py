@@ -8,12 +8,22 @@ from enum import Enum, auto
 
 # Данные о линии чемпиона
 class ChampionPosition(Enum):
-    Top     = 0
+    Top     = auto()
     Jungle  = auto()
     Mid     = auto()
     Bottom  = auto()
     Support = auto()
     Any     = auto()
+
+# Данные о классе чемпиона
+class ChampionClass(Enum):
+    NoClass     = auto()
+    Mage        = auto()
+    Assassin    = auto()
+    Marksman    = auto()
+    Tank        = auto()
+    Fighter     = auto()
+    Support     = auto()
 
 # Данные о чемпионе
 class Champion():
@@ -22,6 +32,7 @@ class Champion():
         self.localizedName = ""
         self.localizedTitle = ""
         self.positions = set()
+        self.championClass = ChampionClass.NoClass
     
     def convertToDict(self):
         positionList = [pos.name for pos in list(self.positions)]
@@ -29,7 +40,8 @@ class Champion():
         return dict(iconName=self.iconName,
         localizedName=self.localizedName,
         localizedTitle=self.localizedTitle,
-        positions=sorted(positionList))
+        positions=sorted(positionList),
+        championClass=self.championClass.name)
         
     def addPosition(self, position):
         r = 0
@@ -48,6 +60,12 @@ class Champion():
 champions = []
 
 # Входной файл с чемпионами и его структура
+'''
+Yone OriginalSquare.png
+Ёнэ
+Незабытый
+Slayer icon.png Убийца	06-08-2020	V11.10	6300	975
+'''
 championsInputFileName = "ChampionsInfo/1. champions leagueoflegendsfandom.txt"
 linesForOneChampion = 4
 
@@ -92,8 +110,15 @@ if not nautilusFound or addedChampionsCount == 0:
     exit
 else:
     print("Добавлено", addedChampionsCount, "чемпионов")
-    
+
+###################################################################################################################################
+
 # Входной файл с позициями и его структура (первый)
+'''
+Ёнэ
+Верхняя
+Средняя
+'''
 positionsInputFileName = "ChampionsInfo/2. championPositions ruopgg.txt"
 
 # Добавление позиций из https://ru.op.gg/champion/statistics
@@ -148,7 +173,19 @@ if addedChampionPositionsCount == 0:
 else:
     print("Добавлено", addedChampionPositionsCount, "позиций чемпионов")
 
+###################################################################################################################################
+
 # Входной файл с позициями и его структура (второй)
+'''
+1.	
+Кай'Са
+Кай'Са
+Бот
+23.6%
+48.8%
+7.6%
+8.1 / 6.4 / 6.8	0.0040
+'''
 positionsInputFileName = "ChampionsInfo/3. championPositions leagueofgraphs.txt"
 # Добавление позиций из https://www.leagueofgraphs.com/ru/champions/builds
 print("-> Добавление позиций")
@@ -167,7 +204,7 @@ try:
                 continue
             currentChampionName = champion.localizedName
             isChampion = True
-        
+
         # Добавление позиции
         if not isChampion and line and line.strip():
             positions = set()
@@ -192,6 +229,94 @@ finally:
     inputFile.close()
 
 print("Добавлено", addedChampionPositionsCount, "позиций чемпионов")
+
+###################################################################################################################################
+
+# Входной файл с позициями и его структура (третий)
+'''
+Mage
+
+Азир
+Император пустыни
+Severe
+
+Средняя
+'''
+positionsInputFileName = "ChampionsInfo/4. championPositions app.mobalytics.txt"
+# Добавление позиций из https://app.mobalytics.gg/ru_ru/lol/champions
+print("-> Добавление позиций и классов")
+addedChampionPositionsCount = 0
+addedChampionClassesCount = 0
+inputFile = open(positionsInputFileName, encoding='utf-8')
+lineNumber = 0
+linesForOneChampion = 7
+try:
+    # работа с файлом
+    championName = ""
+    championClass = ChampionClass.NoClass
+    positions = set()
+    for line in inputFile:
+        rem = lineNumber % linesForOneChampion
+        line = line.replace('\n', '')
+        
+        # Класс
+        if rem == 0:
+            if "Mage" in line:
+                championClass = ChampionClass.Mage
+            elif "Assassin" in line:
+                championClass = ChampionClass.Assassin
+            elif "Marksman" in line:
+                championClass = ChampionClass.Marksman
+            elif "Tank" in line:
+                championClass = ChampionClass.Tank
+            elif "Fighter" in line:
+                championClass = ChampionClass.Fighter
+            elif "Support" in line:
+                championClass = ChampionClass.Support
+        # Имя
+        elif rem == 2:
+            championName = line
+        # Линия + добавление информации о чемпионе (т.к. последняя линия)
+        elif rem == 6:
+            if "Топ" in line:
+                positions.add(ChampionPosition.Top)
+            if "Лес" in line:
+                positions.add(ChampionPosition.Jungle)
+            if "Средняя" in line:
+                positions.add(ChampionPosition.Mid)
+            if "Бот" in line:
+                positions.add(ChampionPosition.Bottom)
+            if "Поддержка" in line:
+                positions.add(ChampionPosition.Support)
+            
+            # Добавление
+            championInfoAdded = False
+            for champion in champions:
+                if champion.localizedName not in championName:
+                    continue
+                
+                addedChampionPositionsCount = addedChampionPositionsCount + champion.addPositions(positions)
+                if championClass != ChampionClass.NoClass:
+                    champion.championClass = championClass
+                    addedChampionClassesCount = addedChampionClassesCount + 1
+                
+                championInfoAdded = True
+                # Обнуление
+                championName = ""
+                championClass = ChampionClass.NoClass
+                positions = set()
+            
+            if not championInfoAdded:
+                print("Что-то не так с данными чемпиона:", championName)
+        
+        lineNumber = lineNumber + 1
+finally:
+    inputFile.close()
+
+print("Добавлено", addedChampionPositionsCount, "позиций чемпионов")
+print("Добавлено", addedChampionClassesCount, "классов для чемпионов")
+
+###################################################################################################################################
 
 #Формирование json
 print("-> Формирование json")

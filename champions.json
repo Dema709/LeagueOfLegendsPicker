@@ -4,8 +4,8 @@
     "localizedName": "Ёнэ",
     "localizedTitle": "Незабытый",
     "positions": [
-      "Top",
-      "Mid"
+      "Mid",
+      "Top"
     ]
   },
   {
@@ -21,8 +21,8 @@
     "localizedName": "Акали",
     "localizedTitle": "Вольная убийца",
     "positions": [
-      "Top",
-      "Mid"
+      "Mid",
+      "Top"
     ]
   },
   {
@@ -47,8 +47,8 @@
     "localizedName": "Амуму",
     "localizedTitle": "Грустная мумия",
     "positions": [
-      "Support",
-      "Jungle"
+      "Jungle",
+      "Support"
     ]
   },
   {
@@ -73,8 +73,8 @@
     "localizedName": "Атрокс",
     "localizedTitle": "Клинок даркинов",
     "positions": [
-      "Top",
-      "Mid"
+      "Mid",
+      "Top"
     ]
   },
   {
@@ -182,6 +182,7 @@
     "localizedName": "Вел'Коз",
     "localizedTitle": "Око Бездны",
     "positions": [
+      "Mid",
       "Support"
     ]
   },
@@ -216,8 +217,8 @@
     "localizedName": "Волибир",
     "localizedTitle": "Неутихающая Буря",
     "positions": [
-      "Top",
-      "Jungle"
+      "Jungle",
+      "Top"
     ]
   },
   {
@@ -250,8 +251,8 @@
     "localizedName": "Гарен",
     "localizedTitle": "Мощь Демасии",
     "positions": [
-      "Top",
-      "Mid"
+      "Mid",
+      "Top"
     ]
   },
   {
@@ -259,8 +260,8 @@
     "localizedName": "Гвен",
     "localizedTitle": "Благая швея",
     "positions": [
-      "Top",
-      "Jungle"
+      "Jungle",
+      "Top"
     ]
   },
   {
@@ -284,9 +285,9 @@
     "localizedName": "Грагас",
     "localizedTitle": "Дебошир",
     "positions": [
-      "Top",
       "Jungle",
-      "Support"
+      "Support",
+      "Top"
     ]
   },
   {
@@ -311,9 +312,9 @@
     "localizedName": "Джакс",
     "localizedTitle": "Великий мастер оружия",
     "positions": [
-      "Top",
       "Jungle",
-      "Mid"
+      "Mid",
+      "Top"
     ]
   },
   {
@@ -329,8 +330,8 @@
     "localizedName": "Джейс",
     "localizedTitle": "Защитник завтрашнего дня",
     "positions": [
-      "Top",
-      "Mid"
+      "Mid",
+      "Top"
     ]
   },
   {
@@ -405,8 +406,8 @@
     "localizedName": "Зед",
     "localizedTitle": "Мастер теней",
     "positions": [
-      "Mid",
-      "Jungle"
+      "Jungle",
+      "Mid"
     ]
   },
   {
@@ -414,8 +415,8 @@
     "localizedName": "Зерат",
     "localizedTitle": "Высший маг",
     "positions": [
-      "Support",
-      "Mid"
+      "Mid",
+      "Support"
     ]
   },
   {
@@ -423,7 +424,8 @@
     "localizedName": "Зиггс",
     "localizedTitle": "Эксперт по хексчатке",
     "positions": [
-      "Bottom"
+      "Bottom",
+      "Mid"
     ]
   },
   {
@@ -463,8 +465,8 @@
     "localizedName": "Ирелия",
     "localizedTitle": "Танцующая с клинками",
     "positions": [
-      "Top",
-      "Mid"
+      "Mid",
+      "Top"
     ]
   },
   {
@@ -544,9 +546,9 @@
     "localizedName": "Кассиопея",
     "localizedTitle": "Змеиная хватка",
     "positions": [
+      "Bottom",
       "Mid",
-      "Top",
-      "Bottom"
+      "Top"
     ]
   },
   {
@@ -570,6 +572,7 @@
     "localizedName": "Кейл",
     "localizedTitle": "Праведница",
     "positions": [
+      "Mid",
       "Top"
     ]
   },
@@ -594,8 +597,8 @@
     "localizedName": "Киана",
     "localizedTitle": "Повелительница стихий",
     "positions": [
-      "Mid",
-      "Jungle"
+      "Jungle",
+      "Mid"
     ]
   },
   {
@@ -691,8 +694,8 @@
     "localizedName": "Люкс",
     "localizedTitle": "Леди сияния",
     "positions": [
-      "Support",
-      "Mid"
+      "Mid",
+      "Support"
     ]
   },
   {
@@ -718,8 +721,8 @@
     "localizedName": "Мальфит",
     "localizedTitle": "Осколок Монолита",
     "positions": [
-      "Top",
-      "Mid"
+      "Mid",
+      "Top"
     ]
   },
   {
@@ -800,7 +803,10 @@
     "iconName": "NeekoSquare.png",
     "localizedName": "Нико",
     "localizedTitle": "Любопытный хамелеон",
-    "positions": []
+    "positions": [
+      "Mid",
+      "Support"
+    ]
   },
   {
     "iconName": "NocturneSquare.png",
@@ -856,8 +862,8 @@
     "localizedName": "Пантеон",
     "localizedTitle": "Несокрушимое Копье",
     "positions": [
-      "Support",
-      "Mid"
+      "Mid",
+      "Support"
     ]
   },
   {
@@ -866,8 +872,8 @@
     "localizedTitle": "Хранительница молота",
     "positions": [
       "Jungle",
-      "Top",
-      "Support"
+      "Support",
+      "Top"
     ]
   },
   {
@@ -884,9 +890,9 @@
     "localizedName": "Рамбл",
     "localizedTitle": "Механизированная угроза",
     "positions": [
-      "Top",
+      "Jungle",
       "Mid",
-      "Jungle"
+      "Top"
     ]
   },
   {
@@ -918,8 +924,8 @@
     "localizedName": "Ренгар",
     "localizedTitle": "Охотник за трофеями",
     "positions": [
-      "Top",
-      "Jungle"
+      "Jungle",
+      "Top"
     ]
   },
   {
@@ -927,8 +933,8 @@
     "localizedName": "Ренектон",
     "localizedTitle": "Мясник из песков",
     "positions": [
-      "Top",
-      "Mid"
+      "Mid",
+      "Top"
     ]
   },
   {
@@ -936,8 +942,8 @@
     "localizedName": "Ривен",
     "localizedTitle": "Изгнанница",
     "positions": [
-      "Top",
-      "Mid"
+      "Mid",
+      "Top"
     ]
   },
   {
@@ -970,8 +976,8 @@
     "localizedName": "Свейн",
     "localizedTitle": "Верховный полководец Ноксуса",
     "positions": [
-      "Support",
-      "Bottom"
+      "Bottom",
+      "Support"
     ]
   },
   {
@@ -1003,9 +1009,9 @@
     "localizedName": "Сетт",
     "localizedTitle": "Босс",
     "positions": [
-      "Top",
       "Mid",
-      "Support"
+      "Support",
+      "Top"
     ]
   },
   {
@@ -1044,7 +1050,9 @@
     "iconName": "SkarnerSquare.png",
     "localizedName": "Скарнер",
     "localizedTitle": "Кристальный страж",
-    "positions": []
+    "positions": [
+      "Jungle"
+    ]
   },
   {
     "iconName": "SonaSquare.png",
@@ -1125,8 +1133,8 @@
     "localizedTitle": "Король троллей",
     "positions": [
       "Jungle",
-      "Top",
-      "Support"
+      "Support",
+      "Top"
     ]
   },
   {
@@ -1142,8 +1150,8 @@
     "localizedName": "Триндамир",
     "localizedTitle": "Король варваров",
     "positions": [
-      "Top",
-      "Mid"
+      "Mid",
+      "Top"
     ]
   },
   {
@@ -1199,6 +1207,7 @@
     "localizedName": "Хеймердингер",
     "localizedTitle": "Одержимый ученый",
     "positions": [
+      "Mid",
       "Top"
     ]
   },
@@ -1232,8 +1241,8 @@
     "localizedName": "Шен",
     "localizedTitle": "Око сумрака",
     "positions": [
-      "Top",
-      "Support"
+      "Support",
+      "Top"
     ]
   },
   {
@@ -1306,9 +1315,9 @@
     "localizedName": "Ясуо",
     "localizedTitle": "Непрощенный",
     "positions": [
+      "Bottom",
       "Mid",
-      "Top",
-      "Bottom"
+      "Top"
     ]
   }
 ]

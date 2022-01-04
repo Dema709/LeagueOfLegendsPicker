@@ -4,6 +4,8 @@
 #include <QJsonArray>
 #include <QTextStream>
 
+#include <QDebug>
+
 bool JsonCharacterReader::ReadCharactersFromFile(const QString& filename, QList<Champion>& listToFill)
 {
     QJsonDocument jsonDocument;
@@ -71,12 +73,21 @@ bool JsonCharacterReader::parseJson(const QJsonDocument& document, QList<Champio
     QString localizedNameNode = "localizedName";
     QString localizedTitleNode = "localizedTitle";
     QString positionsNode = "positions";
+    QString championClassNode = "championClass";
     //Наименования атрибутов по предпочитаемым позициям
     QString topAttribute = "Top";
     QString jungleAttribute = "Jungle";
     QString midAttribute = "Mid";
     QString bottomAttribute = "Bottom";
     QString supportAttribute = "Support";
+    //Наименования атрибутов по классу чемпиона
+    QString noClassAttribute = "NoClass";
+    QString mageClassAttribute = "Mage";
+    QString assassinClassAttribute = "Assassin";
+    QString marksmanClassAttribute = "Marksman";
+    QString tankClassAttribute = "Tank";
+    QString fighterClassAttribute = "Fighter";
+    QString supportClassAttribute = "Support";
 
     //Заполнение и добавление информации о чемпионах
     for (int i = 0; i < championsArray.size(); i++)
@@ -144,6 +155,42 @@ bool JsonCharacterReader::parseJson(const QJsonDocument& document, QList<Champio
             qWarning("Ошибка парсинга json: не найдена нода positionsNode");
             return false;
         }
+
+        /*if (championObject.contains(championClassNode) && championObject[championClassNode].isString())
+        {
+            auto championClassString = championObject[championClassNode].toString();
+            auto championClass = Champion::ChampionClass::NoClass;
+            if (championClassString == mageClassAttribute) {
+                championClass = Champion::ChampionClass::Mage;
+            } else if (championClassString == assassinClassAttribute) {
+                championClass = Champion::ChampionClass::Assassin;
+            } else if (championClassString == marksmanClassAttribute) {
+                championClass = Champion::ChampionClass::Marksman;
+            } else if (championClassString == tankClassAttribute) {
+                championClass = Champion::ChampionClass::Tank;
+            } else if (championClassString == fighterClassAttribute) {
+                championClass = Champion::ChampionClass::Fighter;
+            } else if (championClassString == supportClassAttribute) {
+                championClass = Champion::ChampionClass::Support;
+            } else if (championClassString == noClassAttribute) {
+                championClass = Champion::ChampionClass::NoClass;
+                qWarning("Ошибка парсинга json: не выставлен класс для:");
+                qWarning() << currentChampion.GetLocalizedName();
+            }
+            else
+            {
+                qWarning("Ошибка парсинга json: необрабатываемое значение в championClass:");
+                qWarning() << championClassString;
+                return false;
+            }
+
+            currentChampion.AddChampionClass(championClass);
+        }
+        else
+        {
+            qWarning("Ошибка парсинга json: не найдена нода localizedNameNode");
+            return false;
+        }*/
 
         listToFill.push_back(currentChampion);
     }

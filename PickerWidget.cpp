@@ -7,6 +7,8 @@
 #include <QFileInfo>
 #include "JsonCharacterReader.h"
 
+#include <QDebug>
+
 PickerWidget::PickerWidget(QWidget *parent)
     : QWidget(parent)
 {
@@ -50,7 +52,7 @@ void PickerWidget::fillUserChoiceLayout(QVBoxLayout* userChoiceLayout)
     QComboBox* criteriaComboBox = new QComboBox();
     userChoiceLayout->addWidget(criteriaComboBox);
     criteriaComboBox->addItem("Линия", static_cast<int>(ChampionPicker::ChoiceVariant::Position));
-    criteriaComboBox->addItem("Тип урона", static_cast<int>(ChampionPicker::ChoiceVariant::DamageType));
+    criteriaComboBox->addItem("Класс", static_cast<int>(ChampionPicker::ChoiceVariant::ChampionClass));
 
     connect(criteriaComboBox, QOverload<int>::of(&QComboBox::currentIndexChanged),
         [this](int index)
@@ -100,23 +102,58 @@ void PickerWidget::fillUserChoiceLayout(QVBoxLayout* userChoiceLayout)
                 });
             }
 
-            if (positionRadioButtonMap.count(m_position))
+            if (positionRadioButtonMap.count(m_position) && positionRadioButtonMap[m_position])
                 positionRadioButtonMap[m_position]->setChecked(true);
         }
     }
 
-    //Виджет урона
+    //Виджет класса
     {
-        QWidget* damageTypeWidget = new QWidget();
-        damageTypeWidget->hide();
-        userChoiceLayout->addWidget(damageTypeWidget);
-        QVBoxLayout* damageTypeLayout = new QVBoxLayout();
-        damageTypeWidget->setLayout(damageTypeLayout);
-        m_choiceVariantWidgetsMap[ChampionPicker::ChoiceVariant::DamageType] = damageTypeWidget;
+        QWidget* championClassWidget = new QWidget();
+        championClassWidget->hide();
+        userChoiceLayout->addWidget(championClassWidget);
+        QVBoxLayout* championClassLayout = new QVBoxLayout();
+        championClassWidget->setLayout(championClassLayout);
+        m_choiceVariantWidgetsMap[ChampionPicker::ChoiceVariant::ChampionClass] = championClassWidget;
         {
-            QLabel* label = new QLabel("еуеу");
-            label->setPixmap(QPixmap("Icons/Positions/Top_icon.png"));
-            damageTypeLayout->addWidget(label);
+            std::map<Champion::ChampionClass, QRadioButton*> championClassRadioButtonMap;
+
+            QRadioButton* mageRadioButton = new QRadioButton("Маг");
+            championClassLayout->addWidget(mageRadioButton);
+            QRadioButton* assassinRadioButton = new QRadioButton("Убийца");
+            championClassLayout->addWidget(assassinRadioButton);
+            QRadioButton* marksmanRadioButton = new QRadioButton("Стрелок");
+            championClassLayout->addWidget(marksmanRadioButton);
+            QRadioButton* tankRadioButton = new QRadioButton("Танк");
+            championClassLayout->addWidget(tankRadioButton);
+            QRadioButton* fighterRadioButton = new QRadioButton("Воин");
+            championClassLayout->addWidget(fighterRadioButton);
+            QRadioButton* supportRadioButton = new QRadioButton("Поддержка");
+            championClassLayout->addWidget(supportRadioButton);
+            QRadioButton* anyRadioButton = new QRadioButton("Любой");
+            championClassLayout->addWidget(anyRadioButton);
+
+            championClassRadioButtonMap[Champion::ChampionClass::Mage] = mageRadioButton;
+            championClassRadioButtonMap[Champion::ChampionClass::Assassin] = assassinRadioButton;
+            championClassRadioButtonMap[Champion::ChampionClass::Marksman] = marksmanRadioButton;
+            championClassRadioButtonMap[Champion::ChampionClass::Tank] = tankRadioButton;
+            championClassRadioButtonMap[Champion::ChampionClass::Fighter] = fighterRadioButton;
+            championClassRadioButtonMap[Champion::ChampionClass::Support] = supportRadioButton;
+            championClassRadioButtonMap[Champion::ChampionClass::Any] = anyRadioButton;
+
+            for (auto championClassRadioButtonPair : championClassRadioButtonMap)
+            {
+                if (!championClassRadioButtonPair.second)
+                    continue;
+
+                auto cl = championClassRadioButtonPair.first;
+                connect(championClassRadioButtonPair.second, &QAbstractButton::clicked, [this, cl](bool checked){
+                    if (checked) this->changeChampionClass(cl);
+                });
+            }
+
+            if (championClassRadioButtonMap.count(m_championClass) && championClassRadioButtonMap[m_championClass])
+                championClassRadioButtonMap[m_championClass]->setChecked(true);
         }
     }
 
@@ -151,21 +188,28 @@ void PickerWidget::fillChosenChampionLayout(QVBoxLayout* chosenChampionLayout)
 void PickerWidget::changeChoiceVariant(ChampionPicker::ChoiceVariant choiceVariant)
 {
     m_choiceVariant = choiceVariant;
+    //Спрятать всё
     for (auto choiceVariantWidgetPair : m_choiceVariantWidgetsMap)
     {
         if (!choiceVariantWidgetPair.second)
             continue;
-        if (choiceVariantWidgetPair.first == m_choiceVariant)
-            choiceVariantWidgetPair.second->show();
-        else
-            choiceVariantWidgetPair.second->hide();
+        choiceVariantWidgetPair.second->hide();
     }
+    //Показать выбранное
+    if (m_choiceVariantWidgetsMap.count(m_choiceVariant) && m_choiceVariantWidgetsMap[m_choiceVariant])
+        m_choiceVariantWidgetsMap[m_choiceVariant]->show();
     pickChampion();
 }
 
 void PickerWidget::changePosition(Champion::ChampionPositions position)
 {
     m_position = position;
+    pickChampion();
+}
+
+void PickerWidget::changeChampionClass(Champion::ChampionClass championClass)
+{
+    m_championClass = championClass;
     pickChampion();
 }
 
@@ -187,12 +231,24 @@ void PickerWidget::pickChampion()
             return;
         }
 
-        qDebug() << "picked" << pickedChampion.GetLocalizedName();
+        //qDebug() << "picked" << pickedChampion.GetLocalizedName();
         changeChosenChampion(pickedChampion);
     }
-    else if (m_choiceVariant == ChampionPicker::ChoiceVariant::DamageType)
+    else if (m_choiceVariant == ChampionPicker::ChoiceVariant::ChampionClass)
     {
-        qDebug() << "todo pick with DamageType";
+        Champion pickedChampion;
+        if (!ChampionPicker::GetChampionByChampionClass(m_championClass, m_championList, pickedChampion))
+        {
+            QMessageBox msgBox(this);
+            msgBox.setText("Ошибка!");
+            msgBox.setInformativeText("Ошибка выбора чемпиона. Подробности в qWarning.");
+            msgBox.setIcon(QMessageBox::Icon::Critical);
+            msgBox.exec();
+            return;
+        }
+
+        //qDebug() << "picked" << pickedChampion.GetLocalizedName();
+        changeChosenChampion(pickedChampion);
     }
 }
 

@@ -18,34 +18,43 @@ public:
         Any
     };
 
-    //Основной урон
-    enum class DamageType
+    //Класс персонажа
+    enum class ChampionClass
     {
-
+        Mage,
+        Assassin,
+        Marksman,
+        Tank,
+        Fighter,
+        Support,
+        Any
     };
 
 public:
     Champion() = default;
     ~Champion() = default;
 
-    const QString &GetLocalizedName() const;
+    const QString& GetLocalizedName() const;
     void SetLocalizedName(const QString &newLocalizedName);
 
-    const QString &GetIconName() const;
+    const QString& GetIconName() const;
     void SetIconName(const QString &newIconName);
 
-    const QString &GetLocalizedTitle() const;
+    const QString& GetLocalizedTitle() const;
     void SetLocalizedTitle(const QString &newLocalizedTitle);
 
-    const std::set<ChampionPositions> &GetPositions() const;
+    const std::set<ChampionPositions>& GetPositions() const;
     void AddPosition(ChampionPositions newPosition);
 
-private:
+    const std::set<ChampionClass>& GetChampionClasses() const;
+    void AddChampionClass(ChampionClass newChampionClass);
 
+private:
     QString m_localizedName;
     QString m_iconName;
     QString m_localizedTitle;
     std::set<ChampionPositions> m_positions;
+    std::set<ChampionClass> m_championClasses;
 };
 
 #endif // CHAMPION_H

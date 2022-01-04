@@ -31,6 +31,9 @@ private:
     //Изменение позиции для поиска по линии
     void changePosition(Champion::ChampionPositions position);
 
+    //Изменение позиции для поиска по классу
+    void changeChampionClass(Champion::ChampionClass championClass);
+
     //Подбор чемпиона по заданным критериям
     void pickChampion();
 
@@ -40,6 +43,7 @@ private:
 private:
     ChampionPicker::ChoiceVariant m_choiceVariant = ChampionPicker::ChoiceVariant::Position;
     Champion::ChampionPositions m_position = Champion::ChampionPositions::Any;
+    Champion::ChampionClass m_championClass = Champion::ChampionClass::Any;
 
     bool m_layoutInitialized = false;
     QList<Champion> m_championList;

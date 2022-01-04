@@ -11,7 +11,7 @@ public:
     enum class ChoiceVariant
     {
         Position = 0,
-        DamageType
+        ChampionClass
     };
 
 public:
@@ -19,6 +19,7 @@ public:
     ~ChampionPicker() = default;
 
     static bool GetChampionByPosition(Champion::ChampionPositions position, const QList<Champion>& championList, Champion& championToReturn);
+    static bool GetChampionByChampionClass(Champion::ChampionClass cl, const QList<Champion>& championList, Champion& championToReturn);
 };
 
 #endif // CHAMPIONPICKER_H

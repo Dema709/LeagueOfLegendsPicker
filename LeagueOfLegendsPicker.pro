@@ -26,3 +26,9 @@ HEADERS += \
 qnx: target.path = /tmp/$${TARGET}/bin
 else: unix:!android: target.path = /opt/$${TARGET}/bin
 !isEmpty(target.path): INSTALLS += target
+
+# Работает при добавлении для сборки параметра make: install
+install_it.path = $$OUT_PWD
+install_it.files = champions.json
+install_it.files += Icons
+INSTALLS += install_it

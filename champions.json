@@ -7,7 +7,9 @@
       "Mid",
       "Top"
     ],
-    "championClass": "Assassin"
+    "championClasses": [
+      "Assassin"
+    ]
   },
   {
     "iconName": "AzirSquare.png",
@@ -16,7 +18,9 @@
     "positions": [
       "Mid"
     ],
-    "championClass": "Mage"
+    "championClasses": [
+      "Mage"
+    ]
   },
   {
     "iconName": "AkaliSquare.png",
@@ -26,7 +30,9 @@
       "Mid",
       "Top"
     ],
-    "championClass": "Assassin"
+    "championClasses": [
+      "Assassin"
+    ]
   },
   {
     "iconName": "AkshanSquare.png",
@@ -37,7 +43,9 @@
       "Mid",
       "Top"
     ],
-    "championClass": "Marksman"
+    "championClasses": [
+      "Marksman"
+    ]
   },
   {
     "iconName": "AlistarSquare.png",
@@ -46,7 +54,9 @@
     "positions": [
       "Support"
     ],
-    "championClass": "Tank"
+    "championClasses": [
+      "Tank"
+    ]
   },
   {
     "iconName": "AmumuSquare.png",
@@ -56,7 +66,9 @@
       "Jungle",
       "Support"
     ],
-    "championClass": "Tank"
+    "championClasses": [
+      "Tank"
+    ]
   },
   {
     "iconName": "AniviaSquare.png",
@@ -66,7 +78,9 @@
       "Mid",
       "Support"
     ],
-    "championClass": "Mage"
+    "championClasses": [
+      "Mage"
+    ]
   },
   {
     "iconName": "AhriSquare.png",
@@ -76,7 +90,9 @@
       "Mid",
       "Support"
     ],
-    "championClass": "Mage"
+    "championClasses": [
+      "Mage"
+    ]
   },
   {
     "iconName": "AatroxSquare.png",
@@ -86,7 +102,9 @@
       "Mid",
       "Top"
     ],
-    "championClass": "Fighter"
+    "championClasses": [
+      "Fighter"
+    ]
   },
   {
     "iconName": "AurelionSolSquare.png",
@@ -95,7 +113,9 @@
     "positions": [
       "Mid"
     ],
-    "championClass": "Mage"
+    "championClasses": [
+      "Mage"
+    ]
   },
   {
     "iconName": "ApheliosSquare.png",
@@ -104,7 +124,9 @@
     "positions": [
       "Bottom"
     ],
-    "championClass": "Marksman"
+    "championClasses": [
+      "Marksman"
+    ]
   },
   {
     "iconName": "BardSquare.png",
@@ -113,7 +135,9 @@
     "positions": [
       "Support"
     ],
-    "championClass": "Support"
+    "championClasses": [
+      "Support"
+    ]
   },
   {
     "iconName": "BlitzcrankSquare.png",
@@ -122,7 +146,9 @@
     "positions": [
       "Support"
     ],
-    "championClass": "Tank"
+    "championClasses": [
+      "Tank"
+    ]
   },
   {
     "iconName": "BraumSquare.png",
@@ -131,7 +157,9 @@
     "positions": [
       "Support"
     ],
-    "championClass": "Support"
+    "championClasses": [
+      "Support"
+    ]
   },
   {
     "iconName": "BrandSquare.png",
@@ -140,7 +168,9 @@
     "positions": [
       "Support"
     ],
-    "championClass": "Mage"
+    "championClasses": [
+      "Mage"
+    ]
   },
   {
     "iconName": "ViSquare.png",
@@ -149,7 +179,9 @@
     "positions": [
       "Jungle"
     ],
-    "championClass": "Fighter"
+    "championClasses": [
+      "Fighter"
+    ]
   },
   {
     "iconName": "WarwickSquare.png",
@@ -159,7 +191,9 @@
       "Jungle",
       "Top"
     ],
-    "championClass": "Fighter"
+    "championClasses": [
+      "Fighter"
+    ]
   },
   {
     "iconName": "VarusSquare.png",
@@ -168,7 +202,9 @@
     "positions": [
       "Bottom"
     ],
-    "championClass": "Marksman"
+    "championClasses": [
+      "Marksman"
+    ]
   },
   {
     "iconName": "VeigarSquare.png",
@@ -179,7 +215,9 @@
       "Mid",
       "Support"
     ],
-    "championClass": "Mage"
+    "championClasses": [
+      "Mage"
+    ]
   },
   {
     "iconName": "VayneSquare.png",
@@ -189,7 +227,9 @@
       "Bottom",
       "Top"
     ],
-    "championClass": "Marksman"
+    "championClasses": [
+      "Marksman"
+    ]
   },
   {
     "iconName": "VexSquare.png",
@@ -199,7 +239,9 @@
       "Mid",
       "Support"
     ],
-    "championClass": "Mage"
+    "championClasses": [
+      "Mage"
+    ]
   },
   {
     "iconName": "VelKozSquare.png",
@@ -209,7 +251,9 @@
       "Mid",
       "Support"
     ],
-    "championClass": "Mage"
+    "championClasses": [
+      "Mage"
+    ]
   },
   {
     "iconName": "ViegoSquare.png",
@@ -218,7 +262,9 @@
     "positions": [
       "Jungle"
     ],
-    "championClass": "Assassin"
+    "championClasses": [
+      "Assassin"
+    ]
   },
   {
     "iconName": "ViktorSquare.png",
@@ -228,7 +274,9 @@
       "Mid",
       "Top"
     ],
-    "championClass": "Mage"
+    "championClasses": [
+      "Mage"
+    ]
   },
   {
     "iconName": "VladimirSquare.png",
@@ -238,7 +286,9 @@
       "Mid",
       "Top"
     ],
-    "championClass": "Mage"
+    "championClasses": [
+      "Mage"
+    ]
   },
   {
     "iconName": "VolibearSquare.png",
@@ -248,7 +298,9 @@
       "Jungle",
       "Top"
     ],
-    "championClass": "Fighter"
+    "championClasses": [
+      "Fighter"
+    ]
   },
   {
     "iconName": "WukongSquare.png",
@@ -258,7 +310,9 @@
       "Jungle",
       "Top"
     ],
-    "championClass": "Fighter"
+    "championClasses": [
+      "Fighter"
+    ]
   },
   {
     "iconName": "GalioSquare.png",
@@ -268,7 +322,9 @@
       "Mid",
       "Support"
     ],
-    "championClass": "Tank"
+    "championClasses": [
+      "Tank"
+    ]
   },
   {
     "iconName": "GangplankSquare.png",
@@ -278,7 +334,9 @@
       "Mid",
       "Top"
     ],
-    "championClass": "Fighter"
+    "championClasses": [
+      "Fighter"
+    ]
   },
   {
     "iconName": "GarenSquare.png",
@@ -288,7 +346,9 @@
       "Mid",
       "Top"
     ],
-    "championClass": "Fighter"
+    "championClasses": [
+      "Fighter"
+    ]
   },
   {
     "iconName": "GwenSquare.png",
@@ -298,7 +358,9 @@
       "Jungle",
       "Top"
     ],
-    "championClass": "Fighter"
+    "championClasses": [
+      "Fighter"
+    ]
   },
   {
     "iconName": "HecarimSquare.png",
@@ -307,7 +369,9 @@
     "positions": [
       "Jungle"
     ],
-    "championClass": "Fighter"
+    "championClasses": [
+      "Fighter"
+    ]
   },
   {
     "iconName": "GnarSquare.png",
@@ -316,7 +380,9 @@
     "positions": [
       "Top"
     ],
-    "championClass": "Fighter"
+    "championClasses": [
+      "Fighter"
+    ]
   },
   {
     "iconName": "GragasSquare.png",
@@ -327,7 +393,9 @@
       "Support",
       "Top"
     ],
-    "championClass": "Fighter"
+    "championClasses": [
+      "Fighter"
+    ]
   },
   {
     "iconName": "GravesSquare.png",
@@ -337,7 +405,9 @@
       "Jungle",
       "Top"
     ],
-    "championClass": "Marksman"
+    "championClasses": [
+      "Marksman"
+    ]
   },
   {
     "iconName": "DariusSquare.png",
@@ -346,7 +416,9 @@
     "positions": [
       "Top"
     ],
-    "championClass": "Fighter"
+    "championClasses": [
+      "Fighter"
+    ]
   },
   {
     "iconName": "JaxSquare.png",
@@ -357,7 +429,9 @@
       "Mid",
       "Top"
     ],
-    "championClass": "Fighter"
+    "championClasses": [
+      "Fighter"
+    ]
   },
   {
     "iconName": "JarvanIVSquare.png",
@@ -366,7 +440,9 @@
     "positions": [
       "Jungle"
     ],
-    "championClass": "Tank"
+    "championClasses": [
+      "Tank"
+    ]
   },
   {
     "iconName": "JayceSquare.png",
@@ -376,7 +452,9 @@
       "Mid",
       "Top"
     ],
-    "championClass": "Fighter"
+    "championClasses": [
+      "Fighter"
+    ]
   },
   {
     "iconName": "JhinSquare.png",
@@ -385,7 +463,9 @@
     "positions": [
       "Bottom"
     ],
-    "championClass": "Marksman"
+    "championClasses": [
+      "Marksman"
+    ]
   },
   {
     "iconName": "JinxSquare.png",
@@ -394,7 +474,7 @@
     "positions": [
       "Bottom"
     ],
-    "championClass": "NoClass"
+    "championClasses": []
   },
   {
     "iconName": "DianaSquare.png",
@@ -404,7 +484,9 @@
       "Jungle",
       "Mid"
     ],
-    "championClass": "Fighter"
+    "championClasses": [
+      "Fighter"
+    ]
   },
   {
     "iconName": "Dr.MundoSquare.png",
@@ -413,7 +495,9 @@
     "positions": [
       "Top"
     ],
-    "championClass": "Fighter"
+    "championClasses": [
+      "Fighter"
+    ]
   },
   {
     "iconName": "DravenSquare.png",
@@ -422,7 +506,9 @@
     "positions": [
       "Bottom"
     ],
-    "championClass": "Marksman"
+    "championClasses": [
+      "Marksman"
+    ]
   },
   {
     "iconName": "JannaSquare.png",
@@ -431,7 +517,9 @@
     "positions": [
       "Support"
     ],
-    "championClass": "Support"
+    "championClasses": [
+      "Support"
+    ]
   },
   {
     "iconName": "ZyraSquare.png",
@@ -440,7 +528,9 @@
     "positions": [
       "Support"
     ],
-    "championClass": "Mage"
+    "championClasses": [
+      "Mage"
+    ]
   },
   {
     "iconName": "ZacSquare.png",
@@ -451,7 +541,9 @@
       "Support",
       "Top"
     ],
-    "championClass": "Tank"
+    "championClasses": [
+      "Tank"
+    ]
   },
   {
     "iconName": "ZedSquare.png",
@@ -461,7 +553,9 @@
       "Jungle",
       "Mid"
     ],
-    "championClass": "Assassin"
+    "championClasses": [
+      "Assassin"
+    ]
   },
   {
     "iconName": "XerathSquare.png",
@@ -471,7 +565,9 @@
       "Mid",
       "Support"
     ],
-    "championClass": "Mage"
+    "championClasses": [
+      "Mage"
+    ]
   },
   {
     "iconName": "ZiggsSquare.png",
@@ -481,7 +577,9 @@
       "Bottom",
       "Mid"
     ],
-    "championClass": "Mage"
+    "championClasses": [
+      "Mage"
+    ]
   },
   {
     "iconName": "ZileanSquare.png",
@@ -491,7 +589,9 @@
       "Mid",
       "Support"
     ],
-    "championClass": "Support"
+    "championClasses": [
+      "Support"
+    ]
   },
   {
     "iconName": "ZoeSquare.png",
@@ -500,7 +600,9 @@
     "positions": [
       "Mid"
     ],
-    "championClass": "Mage"
+    "championClasses": [
+      "Mage"
+    ]
   },
   {
     "iconName": "IvernSquare.png",
@@ -509,7 +611,9 @@
     "positions": [
       "Jungle"
     ],
-    "championClass": "Support"
+    "championClasses": [
+      "Support"
+    ]
   },
   {
     "iconName": "IllaoiSquare.png",
@@ -518,7 +622,9 @@
     "positions": [
       "Top"
     ],
-    "championClass": "Fighter"
+    "championClasses": [
+      "Fighter"
+    ]
   },
   {
     "iconName": "IreliaSquare.png",
@@ -528,7 +634,9 @@
       "Mid",
       "Top"
     ],
-    "championClass": "Fighter"
+    "championClasses": [
+      "Fighter"
+    ]
   },
   {
     "iconName": "YorickSquare.png",
@@ -537,7 +645,9 @@
     "positions": [
       "Top"
     ],
-    "championClass": "Fighter"
+    "championClasses": [
+      "Fighter"
+    ]
   },
   {
     "iconName": "KhaZixSquare.png",
@@ -546,7 +656,9 @@
     "positions": [
       "Jungle"
     ],
-    "championClass": "Assassin"
+    "championClasses": [
+      "Assassin"
+    ]
   },
   {
     "iconName": "KaynSquare.png",
@@ -555,7 +667,9 @@
     "positions": [
       "Jungle"
     ],
-    "championClass": "Fighter"
+    "championClasses": [
+      "Fighter"
+    ]
   },
   {
     "iconName": "KaiSaSquare.png",
@@ -564,7 +678,9 @@
     "positions": [
       "Bottom"
     ],
-    "championClass": "Marksman"
+    "championClasses": [
+      "Marksman"
+    ]
   },
   {
     "iconName": "KalistaSquare.png",
@@ -573,7 +689,9 @@
     "positions": [
       "Bottom"
     ],
-    "championClass": "Marksman"
+    "championClasses": [
+      "Marksman"
+    ]
   },
   {
     "iconName": "CamilleSquare.png",
@@ -582,7 +700,9 @@
     "positions": [
       "Top"
     ],
-    "championClass": "Fighter"
+    "championClasses": [
+      "Fighter"
+    ]
   },
   {
     "iconName": "KarmaSquare.png",
@@ -591,7 +711,9 @@
     "positions": [
       "Support"
     ],
-    "championClass": "Mage"
+    "championClasses": [
+      "Mage"
+    ]
   },
   {
     "iconName": "KarthusSquare.png",
@@ -602,7 +724,9 @@
       "Jungle",
       "Mid"
     ],
-    "championClass": "Mage"
+    "championClasses": [
+      "Mage"
+    ]
   },
   {
     "iconName": "KassadinSquare.png",
@@ -611,7 +735,9 @@
     "positions": [
       "Mid"
     ],
-    "championClass": "Assassin"
+    "championClasses": [
+      "Assassin"
+    ]
   },
   {
     "iconName": "CassiopeiaSquare.png",
@@ -622,7 +748,9 @@
       "Mid",
       "Top"
     ],
-    "championClass": "Mage"
+    "championClasses": [
+      "Mage"
+    ]
   },
   {
     "iconName": "KatarinaSquare.png",
@@ -631,7 +759,9 @@
     "positions": [
       "Mid"
     ],
-    "championClass": "Assassin"
+    "championClasses": [
+      "Assassin"
+    ]
   },
   {
     "iconName": "QuinnSquare.png",
@@ -640,7 +770,9 @@
     "positions": [
       "Top"
     ],
-    "championClass": "Marksman"
+    "championClasses": [
+      "Marksman"
+    ]
   },
   {
     "iconName": "KayleSquare.png",
@@ -650,7 +782,9 @@
       "Mid",
       "Top"
     ],
-    "championClass": "Fighter"
+    "championClasses": [
+      "Fighter"
+    ]
   },
   {
     "iconName": "CaitlynSquare.png",
@@ -659,7 +793,9 @@
     "positions": [
       "Bottom"
     ],
-    "championClass": "Marksman"
+    "championClasses": [
+      "Marksman"
+    ]
   },
   {
     "iconName": "KennenSquare.png",
@@ -669,7 +805,9 @@
       "Mid",
       "Top"
     ],
-    "championClass": "Mage"
+    "championClasses": [
+      "Mage"
+    ]
   },
   {
     "iconName": "QiyanaSquare.png",
@@ -679,7 +817,9 @@
       "Jungle",
       "Mid"
     ],
-    "championClass": "Assassin"
+    "championClasses": [
+      "Assassin"
+    ]
   },
   {
     "iconName": "KindredSquare.png",
@@ -688,7 +828,9 @@
     "positions": [
       "Jungle"
     ],
-    "championClass": "Marksman"
+    "championClasses": [
+      "Marksman"
+    ]
   },
   {
     "iconName": "KledSquare.png",
@@ -697,7 +839,9 @@
     "positions": [
       "Top"
     ],
-    "championClass": "Fighter"
+    "championClasses": [
+      "Fighter"
+    ]
   },
   {
     "iconName": "KogMawSquare.png",
@@ -706,7 +850,9 @@
     "positions": [
       "Bottom"
     ],
-    "championClass": "Marksman"
+    "championClasses": [
+      "Marksman"
+    ]
   },
   {
     "iconName": "CorkiSquare.png",
@@ -715,7 +861,9 @@
     "positions": [
       "Mid"
     ],
-    "championClass": "Marksman"
+    "championClasses": [
+      "Marksman"
+    ]
   },
   {
     "iconName": "XinZhaoSquare.png",
@@ -724,7 +872,9 @@
     "positions": [
       "Jungle"
     ],
-    "championClass": "Fighter"
+    "championClasses": [
+      "Fighter"
+    ]
   },
   {
     "iconName": "LeBlancSquare.png",
@@ -733,7 +883,9 @@
     "positions": [
       "Mid"
     ],
-    "championClass": "Assassin"
+    "championClasses": [
+      "Assassin"
+    ]
   },
   {
     "iconName": "LeonaSquare.png",
@@ -742,7 +894,9 @@
     "positions": [
       "Support"
     ],
-    "championClass": "Tank"
+    "championClasses": [
+      "Tank"
+    ]
   },
   {
     "iconName": "LeeSinSquare.png",
@@ -751,7 +905,9 @@
     "positions": [
       "Jungle"
     ],
-    "championClass": "Fighter"
+    "championClasses": [
+      "Fighter"
+    ]
   },
   {
     "iconName": "LilliaSquare.png",
@@ -761,7 +917,9 @@
       "Jungle",
       "Top"
     ],
-    "championClass": "Fighter"
+    "championClasses": [
+      "Fighter"
+    ]
   },
   {
     "iconName": "LissandraSquare.png",
@@ -770,7 +928,9 @@
     "positions": [
       "Mid"
     ],
-    "championClass": "Mage"
+    "championClasses": [
+      "Mage"
+    ]
   },
   {
     "iconName": "LuluSquare.png",
@@ -779,7 +939,9 @@
     "positions": [
       "Support"
     ],
-    "championClass": "Support"
+    "championClasses": [
+      "Support"
+    ]
   },
   {
     "iconName": "LuxSquare.png",
@@ -789,7 +951,9 @@
       "Mid",
       "Support"
     ],
-    "championClass": "Mage"
+    "championClasses": [
+      "Mage"
+    ]
   },
   {
     "iconName": "LucianSquare.png",
@@ -800,7 +964,9 @@
       "Mid",
       "Top"
     ],
-    "championClass": "Marksman"
+    "championClasses": [
+      "Marksman"
+    ]
   },
   {
     "iconName": "MalzaharSquare.png",
@@ -809,7 +975,9 @@
     "positions": [
       "Mid"
     ],
-    "championClass": "Mage"
+    "championClasses": [
+      "Mage"
+    ]
   },
   {
     "iconName": "MalphiteSquare.png",
@@ -819,7 +987,9 @@
       "Mid",
       "Top"
     ],
-    "championClass": "Tank"
+    "championClasses": [
+      "Tank"
+    ]
   },
   {
     "iconName": "MaokaiSquare.png",
@@ -829,7 +999,9 @@
       "Support",
       "Top"
     ],
-    "championClass": "Tank"
+    "championClasses": [
+      "Tank"
+    ]
   },
   {
     "iconName": "MasterYiSquare.png",
@@ -838,7 +1010,9 @@
     "positions": [
       "Jungle"
     ],
-    "championClass": "Assassin"
+    "championClasses": [
+      "Assassin"
+    ]
   },
   {
     "iconName": "MissFortuneSquare.png",
@@ -848,7 +1022,9 @@
       "Bottom",
       "Support"
     ],
-    "championClass": "Marksman"
+    "championClasses": [
+      "Marksman"
+    ]
   },
   {
     "iconName": "MorganaSquare.png",
@@ -857,7 +1033,9 @@
     "positions": [
       "Support"
     ],
-    "championClass": "Mage"
+    "championClasses": [
+      "Mage"
+    ]
   },
   {
     "iconName": "MordekaiserSquare.png",
@@ -867,7 +1045,9 @@
       "Jungle",
       "Top"
     ],
-    "championClass": "Fighter"
+    "championClasses": [
+      "Fighter"
+    ]
   },
   {
     "iconName": "NamiSquare.png",
@@ -876,7 +1056,9 @@
     "positions": [
       "Support"
     ],
-    "championClass": "Support"
+    "championClasses": [
+      "Support"
+    ]
   },
   {
     "iconName": "NasusSquare.png",
@@ -885,7 +1067,9 @@
     "positions": [
       "Top"
     ],
-    "championClass": "Fighter"
+    "championClasses": [
+      "Fighter"
+    ]
   },
   {
     "iconName": "NautilusSquare.png",
@@ -894,7 +1078,9 @@
     "positions": [
       "Support"
     ],
-    "championClass": "Tank"
+    "championClasses": [
+      "Tank"
+    ]
   },
   {
     "iconName": "NidaleeSquare.png",
@@ -903,7 +1089,9 @@
     "positions": [
       "Jungle"
     ],
-    "championClass": "Assassin"
+    "championClasses": [
+      "Assassin"
+    ]
   },
   {
     "iconName": "NeekoSquare.png",
@@ -913,7 +1101,9 @@
       "Mid",
       "Support"
     ],
-    "championClass": "Mage"
+    "championClasses": [
+      "Mage"
+    ]
   },
   {
     "iconName": "NocturneSquare.png",
@@ -922,7 +1112,9 @@
     "positions": [
       "Jungle"
     ],
-    "championClass": "Assassin"
+    "championClasses": [
+      "Assassin"
+    ]
   },
   {
     "iconName": "NunuSquare.png",
@@ -932,7 +1124,9 @@
       "Jungle",
       "Mid"
     ],
-    "championClass": "Tank"
+    "championClasses": [
+      "Tank"
+    ]
   },
   {
     "iconName": "OlafSquare.png",
@@ -942,7 +1136,9 @@
       "Jungle",
       "Top"
     ],
-    "championClass": "Fighter"
+    "championClasses": [
+      "Fighter"
+    ]
   },
   {
     "iconName": "OriannaSquare.png",
@@ -951,7 +1147,9 @@
     "positions": [
       "Mid"
     ],
-    "championClass": "Mage"
+    "championClasses": [
+      "Mage"
+    ]
   },
   {
     "iconName": "OrnnSquare.png",
@@ -960,7 +1158,9 @@
     "positions": [
       "Top"
     ],
-    "championClass": "Tank"
+    "championClasses": [
+      "Tank"
+    ]
   },
   {
     "iconName": "PykeSquare.png",
@@ -970,7 +1170,9 @@
       "Mid",
       "Support"
     ],
-    "championClass": "Support"
+    "championClasses": [
+      "Support"
+    ]
   },
   {
     "iconName": "PantheonSquare.png",
@@ -981,7 +1183,9 @@
       "Support",
       "Top"
     ],
-    "championClass": "Fighter"
+    "championClasses": [
+      "Fighter"
+    ]
   },
   {
     "iconName": "PoppySquare.png",
@@ -992,7 +1196,9 @@
       "Support",
       "Top"
     ],
-    "championClass": "Tank"
+    "championClasses": [
+      "Tank"
+    ]
   },
   {
     "iconName": "RyzeSquare.png",
@@ -1002,7 +1208,9 @@
       "Mid",
       "Top"
     ],
-    "championClass": "Mage"
+    "championClasses": [
+      "Mage"
+    ]
   },
   {
     "iconName": "RumbleSquare.png",
@@ -1013,7 +1221,9 @@
       "Mid",
       "Top"
     ],
-    "championClass": "Fighter"
+    "championClasses": [
+      "Fighter"
+    ]
   },
   {
     "iconName": "RammusSquare.png",
@@ -1022,7 +1232,9 @@
     "positions": [
       "Jungle"
     ],
-    "championClass": "Tank"
+    "championClasses": [
+      "Tank"
+    ]
   },
   {
     "iconName": "RekSaiSquare.png",
@@ -1031,7 +1243,9 @@
     "positions": [
       "Jungle"
     ],
-    "championClass": "Fighter"
+    "championClasses": [
+      "Fighter"
+    ]
   },
   {
     "iconName": "RellSquare.png",
@@ -1040,7 +1254,9 @@
     "positions": [
       "Support"
     ],
-    "championClass": "Tank"
+    "championClasses": [
+      "Tank"
+    ]
   },
   {
     "iconName": "RengarSquare.png",
@@ -1050,7 +1266,9 @@
       "Jungle",
       "Top"
     ],
-    "championClass": "Assassin"
+    "championClasses": [
+      "Assassin"
+    ]
   },
   {
     "iconName": "RenektonSquare.png",
@@ -1060,7 +1278,9 @@
       "Mid",
       "Top"
     ],
-    "championClass": "Fighter"
+    "championClasses": [
+      "Fighter"
+    ]
   },
   {
     "iconName": "RivenSquare.png",
@@ -1070,7 +1290,9 @@
       "Mid",
       "Top"
     ],
-    "championClass": "Fighter"
+    "championClasses": [
+      "Fighter"
+    ]
   },
   {
     "iconName": "RakanSquare.png",
@@ -1079,7 +1301,9 @@
     "positions": [
       "Support"
     ],
-    "championClass": "Support"
+    "championClasses": [
+      "Support"
+    ]
   },
   {
     "iconName": "SylasSquare.png",
@@ -1089,7 +1313,9 @@
       "Mid",
       "Top"
     ],
-    "championClass": "Mage"
+    "championClasses": [
+      "Mage"
+    ]
   },
   {
     "iconName": "SamiraSquare.png",
@@ -1098,7 +1324,9 @@
     "positions": [
       "Bottom"
     ],
-    "championClass": "Marksman"
+    "championClasses": [
+      "Marksman"
+    ]
   },
   {
     "iconName": "SwainSquare.png",
@@ -1108,7 +1336,9 @@
       "Bottom",
       "Support"
     ],
-    "championClass": "Mage"
+    "championClasses": [
+      "Mage"
+    ]
   },
   {
     "iconName": "SejuaniSquare.png",
@@ -1118,7 +1348,9 @@
       "Jungle",
       "Top"
     ],
-    "championClass": "Tank"
+    "championClasses": [
+      "Tank"
+    ]
   },
   {
     "iconName": "SennaSquare.png",
@@ -1128,7 +1360,9 @@
       "Bottom",
       "Support"
     ],
-    "championClass": "Marksman"
+    "championClasses": [
+      "Marksman"
+    ]
   },
   {
     "iconName": "SeraphineSquare.png",
@@ -1138,7 +1372,9 @@
       "Mid",
       "Support"
     ],
-    "championClass": "Mage"
+    "championClasses": [
+      "Mage"
+    ]
   },
   {
     "iconName": "SettSquare.png",
@@ -1149,7 +1385,9 @@
       "Support",
       "Top"
     ],
-    "championClass": "Fighter"
+    "championClasses": [
+      "Fighter"
+    ]
   },
   {
     "iconName": "SivirSquare.png",
@@ -1158,7 +1396,9 @@
     "positions": [
       "Bottom"
     ],
-    "championClass": "Marksman"
+    "championClasses": [
+      "Marksman"
+    ]
   },
   {
     "iconName": "SingedSquare.png",
@@ -1168,7 +1408,9 @@
       "Mid",
       "Top"
     ],
-    "championClass": "Tank"
+    "championClasses": [
+      "Tank"
+    ]
   },
   {
     "iconName": "SyndraSquare.png",
@@ -1177,7 +1419,9 @@
     "positions": [
       "Mid"
     ],
-    "championClass": "Mage"
+    "championClasses": [
+      "Mage"
+    ]
   },
   {
     "iconName": "SionSquare.png",
@@ -1186,7 +1430,9 @@
     "positions": [
       "Top"
     ],
-    "championClass": "Tank"
+    "championClasses": [
+      "Tank"
+    ]
   },
   {
     "iconName": "SkarnerSquare.png",
@@ -1195,7 +1441,9 @@
     "positions": [
       "Jungle"
     ],
-    "championClass": "Fighter"
+    "championClasses": [
+      "Fighter"
+    ]
   },
   {
     "iconName": "SonaSquare.png",
@@ -1204,7 +1452,9 @@
     "positions": [
       "Support"
     ],
-    "championClass": "Support"
+    "championClasses": [
+      "Support"
+    ]
   },
   {
     "iconName": "SorakaSquare.png",
@@ -1213,7 +1463,9 @@
     "positions": [
       "Support"
     ],
-    "championClass": "Support"
+    "championClasses": [
+      "Support"
+    ]
   },
   {
     "iconName": "TahmKenchSquare.png",
@@ -1222,7 +1474,9 @@
     "positions": [
       "Top"
     ],
-    "championClass": "Support"
+    "championClasses": [
+      "Support"
+    ]
   },
   {
     "iconName": "TaliyahSquare.png",
@@ -1232,7 +1486,9 @@
       "Jungle",
       "Support"
     ],
-    "championClass": "Mage"
+    "championClasses": [
+      "Mage"
+    ]
   },
   {
     "iconName": "TalonSquare.png",
@@ -1242,7 +1498,9 @@
       "Jungle",
       "Mid"
     ],
-    "championClass": "Assassin"
+    "championClasses": [
+      "Assassin"
+    ]
   },
   {
     "iconName": "TaricSquare.png",
@@ -1251,7 +1509,9 @@
     "positions": [
       "Support"
     ],
-    "championClass": "Support"
+    "championClasses": [
+      "Support"
+    ]
   },
   {
     "iconName": "TwistedFateSquare.png",
@@ -1260,7 +1520,9 @@
     "positions": [
       "Mid"
     ],
-    "championClass": "Mage"
+    "championClasses": [
+      "Mage"
+    ]
   },
   {
     "iconName": "TwitchSquare.png",
@@ -1270,7 +1532,9 @@
       "Bottom",
       "Support"
     ],
-    "championClass": "Marksman"
+    "championClasses": [
+      "Marksman"
+    ]
   },
   {
     "iconName": "TeemoSquare.png",
@@ -1280,7 +1544,9 @@
       "Support",
       "Top"
     ],
-    "championClass": "Marksman"
+    "championClasses": [
+      "Marksman"
+    ]
   },
   {
     "iconName": "TrundleSquare.png",
@@ -1291,7 +1557,9 @@
       "Support",
       "Top"
     ],
-    "championClass": "Fighter"
+    "championClasses": [
+      "Fighter"
+    ]
   },
   {
     "iconName": "ThreshSquare.png",
@@ -1300,7 +1568,9 @@
     "positions": [
       "Support"
     ],
-    "championClass": "Support"
+    "championClasses": [
+      "Support"
+    ]
   },
   {
     "iconName": "TryndamereSquare.png",
@@ -1310,7 +1580,9 @@
       "Mid",
       "Top"
     ],
-    "championClass": "Fighter"
+    "championClasses": [
+      "Fighter"
+    ]
   },
   {
     "iconName": "TristanaSquare.png",
@@ -1319,7 +1591,9 @@
     "positions": [
       "Bottom"
     ],
-    "championClass": "Marksman"
+    "championClasses": [
+      "Marksman"
+    ]
   },
   {
     "iconName": "UdyrSquare.png",
@@ -1328,7 +1602,9 @@
     "positions": [
       "Jungle"
     ],
-    "championClass": "Fighter"
+    "championClasses": [
+      "Fighter"
+    ]
   },
   {
     "iconName": "UrgotSquare.png",
@@ -1337,7 +1613,9 @@
     "positions": [
       "Top"
     ],
-    "championClass": "Fighter"
+    "championClasses": [
+      "Fighter"
+    ]
   },
   {
     "iconName": "FiddlesticksSquare.png",
@@ -1346,7 +1624,9 @@
     "positions": [
       "Jungle"
     ],
-    "championClass": "Mage"
+    "championClasses": [
+      "Mage"
+    ]
   },
   {
     "iconName": "FizzSquare.png",
@@ -1355,7 +1635,9 @@
     "positions": [
       "Mid"
     ],
-    "championClass": "Assassin"
+    "championClasses": [
+      "Assassin"
+    ]
   },
   {
     "iconName": "FioraSquare.png",
@@ -1364,7 +1646,9 @@
     "positions": [
       "Top"
     ],
-    "championClass": "Fighter"
+    "championClasses": [
+      "Fighter"
+    ]
   },
   {
     "iconName": "HeimerdingerSquare.png",
@@ -1376,7 +1660,9 @@
       "Support",
       "Top"
     ],
-    "championClass": "Mage"
+    "championClasses": [
+      "Mage"
+    ]
   },
   {
     "iconName": "ChoGathSquare.png",
@@ -1386,7 +1672,9 @@
       "Mid",
       "Top"
     ],
-    "championClass": "Tank"
+    "championClasses": [
+      "Tank"
+    ]
   },
   {
     "iconName": "ShacoSquare.png",
@@ -1396,7 +1684,9 @@
       "Jungle",
       "Support"
     ],
-    "championClass": "Assassin"
+    "championClasses": [
+      "Assassin"
+    ]
   },
   {
     "iconName": "XayahSquare.png",
@@ -1405,7 +1695,9 @@
     "positions": [
       "Bottom"
     ],
-    "championClass": "Marksman"
+    "championClasses": [
+      "Marksman"
+    ]
   },
   {
     "iconName": "ShenSquare.png",
@@ -1415,7 +1707,9 @@
       "Support",
       "Top"
     ],
-    "championClass": "Tank"
+    "championClasses": [
+      "Tank"
+    ]
   },
   {
     "iconName": "ShyvanaSquare.png",
@@ -1424,7 +1718,9 @@
     "positions": [
       "Jungle"
     ],
-    "championClass": "Fighter"
+    "championClasses": [
+      "Fighter"
+    ]
   },
   {
     "iconName": "EvelynnSquare.png",
@@ -1433,7 +1729,9 @@
     "positions": [
       "Jungle"
     ],
-    "championClass": "Assassin"
+    "championClasses": [
+      "Assassin"
+    ]
   },
   {
     "iconName": "EzrealSquare.png",
@@ -1442,7 +1740,9 @@
     "positions": [
       "Bottom"
     ],
-    "championClass": "Marksman"
+    "championClasses": [
+      "Marksman"
+    ]
   },
   {
     "iconName": "EkkoSquare.png",
@@ -1452,7 +1752,9 @@
       "Jungle",
       "Mid"
     ],
-    "championClass": "Assassin"
+    "championClasses": [
+      "Assassin"
+    ]
   },
   {
     "iconName": "EliseSquare.png",
@@ -1461,7 +1763,9 @@
     "positions": [
       "Jungle"
     ],
-    "championClass": "Mage"
+    "championClasses": [
+      "Mage"
+    ]
   },
   {
     "iconName": "AnnieSquare.png",
@@ -1471,7 +1775,9 @@
       "Mid",
       "Support"
     ],
-    "championClass": "Mage"
+    "championClasses": [
+      "Mage"
+    ]
   },
   {
     "iconName": "AsheSquare.png",
@@ -1481,7 +1787,9 @@
       "Bottom",
       "Support"
     ],
-    "championClass": "Marksman"
+    "championClasses": [
+      "Marksman"
+    ]
   },
   {
     "iconName": "YuumiSquare.png",
@@ -1490,7 +1798,9 @@
     "positions": [
       "Support"
     ],
-    "championClass": "Support"
+    "championClasses": [
+      "Support"
+    ]
   },
   {
     "iconName": "YasuoSquare.png",
@@ -1501,6 +1811,8 @@
       "Mid",
       "Top"
     ],
-    "championClass": "Fighter"
+    "championClasses": [
+      "Fighter"
+    ]
   }
 ]

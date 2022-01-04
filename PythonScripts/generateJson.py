@@ -32,16 +32,17 @@ class Champion():
         self.localizedName = ""
         self.localizedTitle = ""
         self.positions = set()
-        self.championClass = ChampionClass.NoClass
+        self.championClasses = set()
     
     def convertToDict(self):
         positionList = [pos.name for pos in list(self.positions)]
+        championClassList = [pos.name for pos in list(self.championClasses)]
         
         return dict(iconName=self.iconName,
         localizedName=self.localizedName,
         localizedTitle=self.localizedTitle,
         positions=sorted(positionList),
-        championClass=self.championClass.name)
+        championClasses=sorted(championClassList))
         
     def addPosition(self, position):
         r = 0
@@ -56,6 +57,14 @@ class Champion():
             if position not in self.positions:
                 r = r + 1
             self.positions.add(position)
+        return r
+        
+    def addChampionClasses(self, championClasses):
+        r = 0
+        for championClass in championClasses:
+            if championClass not in self.championClasses:
+                r = r + 1
+            self.championClasses.add(championClass)
         return r
 champions = []
 
@@ -253,7 +262,7 @@ linesForOneChampion = 7
 try:
     # работа с файлом
     championName = ""
-    championClass = ChampionClass.NoClass
+    championClasses = set()
     positions = set()
     for line in inputFile:
         rem = lineNumber % linesForOneChampion
@@ -262,17 +271,17 @@ try:
         # Класс
         if rem == 0:
             if "Mage" in line:
-                championClass = ChampionClass.Mage
+                championClasses.add(ChampionClass.Mage)
             elif "Assassin" in line:
-                championClass = ChampionClass.Assassin
+                championClasses.add(ChampionClass.Assassin)
             elif "Marksman" in line:
-                championClass = ChampionClass.Marksman
+                championClasses.add(ChampionClass.Marksman)
             elif "Tank" in line:
-                championClass = ChampionClass.Tank
+                championClasses.add(ChampionClass.Tank)
             elif "Fighter" in line:
-                championClass = ChampionClass.Fighter
+                championClasses.add(ChampionClass.Fighter)
             elif "Support" in line:
-                championClass = ChampionClass.Support
+                championClasses.add(ChampionClass.Support)
         # Имя
         elif rem == 2:
             championName = line
@@ -296,14 +305,12 @@ try:
                     continue
                 
                 addedChampionPositionsCount = addedChampionPositionsCount + champion.addPositions(positions)
-                if championClass != ChampionClass.NoClass:
-                    champion.championClass = championClass
-                    addedChampionClassesCount = addedChampionClassesCount + 1
-                
+                addedChampionClassesCount = addedChampionClassesCount + champion.addChampionClasses(championClasses)
                 championInfoAdded = True
+                
                 # Обнуление
                 championName = ""
-                championClass = ChampionClass.NoClass
+                championClasses = set()
                 positions = set()
             
             if not championInfoAdded:
